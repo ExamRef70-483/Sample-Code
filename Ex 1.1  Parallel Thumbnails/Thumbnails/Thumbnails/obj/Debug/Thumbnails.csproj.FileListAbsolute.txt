@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\Ex 1.1  Parallel Thumbnails\Thumbnails\Thumbnails\bin\Debug\Thumbnails.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\Ex 1.1  Parallel Thumbnails\Thumbnails\Thumbnails\bin\Debug\Thumbnails.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\Ex 1.1  Parallel Thumbnails\Thumbnails\Thumbnails\bin\Debug\Thumbnails.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\Ex 1.1  Parallel Thumbnails\Thumbnails\Thumbnails\obj\Debug\Thumbnails.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\Ex 1.1  Parallel Thumbnails\Thumbnails\Thumbnails\obj\Debug\Thumbnails.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\Ex 1.1  Parallel Thumbnails\Thumbnails\Thumbnails\obj\Debug\Thumbnails.pdb

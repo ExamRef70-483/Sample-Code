@@ -1,0 +1,7 @@
+c:\users\rob\documents\visual studio 2017\Projects\Chapter01_ForEach\Chapter01_ForEach\bin\Debug\Chapter01_ForEach.exe.config
+c:\users\rob\documents\visual studio 2017\Projects\Chapter01_ForEach\Chapter01_ForEach\bin\Debug\Chapter01_ForEach.exe
+c:\users\rob\documents\visual studio 2017\Projects\Chapter01_ForEach\Chapter01_ForEach\bin\Debug\Chapter01_ForEach.pdb
+c:\users\rob\documents\visual studio 2017\Projects\Chapter01_ForEach\Chapter01_ForEach\obj\Debug\Chapter01_ForEach.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2017\Projects\Chapter01_ForEach\Chapter01_ForEach\obj\Debug\Chapter01_ForEach.csproj.CoreCompileInputs.cache
+c:\users\rob\documents\visual studio 2017\Projects\Chapter01_ForEach\Chapter01_ForEach\obj\Debug\Chapter01_ForEach.exe
+c:\users\rob\documents\visual studio 2017\Projects\Chapter01_ForEach\Chapter01_ForEach\obj\Debug\Chapter01_ForEach.pdb

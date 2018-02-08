@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listing 1.1Parallel Invoke", "Listing 1.1Parallel Invoke\Listing 1.1Parallel Invoke.csproj", "{FE6D2AD2-924D-4402-A6C3-882D33CB8B3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6D2AD2-924D-4402-A6C3-882D33CB8B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6D2AD2-924D-4402-A6C3-882D33CB8B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6D2AD2-924D-4402-A6C3-882D33CB8B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6D2AD2-924D-4402-A6C3-882D33CB8B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27BE4104-CCA0-4777-B0FB-7C64F68740E6}
+	EndGlobalSection
+EndGlobal

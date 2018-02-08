@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-2 ParallelForEach in use", "LISTING 1-2 ParallelForEach in use\LISTING 1-2 ParallelForEach in use.csproj", "{5C3C3B23-17F4-4EBE-B32A-AF413BC4F452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3C3B23-17F4-4EBE-B32A-AF413BC4F452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3C3B23-17F4-4EBE-B32A-AF413BC4F452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3C3B23-17F4-4EBE-B32A-AF413BC4F452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3C3B23-17F4-4EBE-B32A-AF413BC4F452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4346572A-0A65-4C89-852E-07096001E60B}
+	EndGlobalSection
+EndGlobal

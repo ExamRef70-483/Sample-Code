@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_For\Chapter01_For\bin\Debug\Chapter01_For.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_For\Chapter01_For\bin\Debug\Chapter01_For.exe
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_For\Chapter01_For\bin\Debug\Chapter01_For.pdb
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_For\Chapter01_For\obj\Debug\Chapter01_For.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_For\Chapter01_For\obj\Debug\Chapter01_For.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_For\Chapter01_For\obj\Debug\Chapter01_For.exe
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_For\Chapter01_For\obj\Debug\Chapter01_For.pdb

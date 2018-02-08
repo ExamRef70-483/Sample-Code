@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_invoke\Chapter01_invoke\bin\Debug\Chapter01_invoke.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_invoke\Chapter01_invoke\bin\Debug\Chapter01_invoke.exe
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_invoke\Chapter01_invoke\bin\Debug\Chapter01_invoke.pdb
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_invoke\Chapter01_invoke\obj\Debug\Chapter01_invoke.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_invoke\Chapter01_invoke\obj\Debug\Chapter01_invoke.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_invoke\Chapter01_invoke\obj\Debug\Chapter01_invoke.exe
-c:\users\rob\documents\visual studio 2017\Projects\Chapter01_invoke\Chapter01_invoke\obj\Debug\Chapter01_invoke.pdb

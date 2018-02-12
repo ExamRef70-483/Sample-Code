@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-27 Thread context", "LISTING 1-27 Thread context\LISTING 1-27 Thread context.csproj", "{24385589-C22D-4E08-A54D-6D0F3B2EE815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24385589-C22D-4E08-A54D-6D0F3B2EE815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24385589-C22D-4E08-A54D-6D0F3B2EE815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24385589-C22D-4E08-A54D-6D0F3B2EE815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24385589-C22D-4E08-A54D-6D0F3B2EE815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C70E676-A7D4-4417-8E3E-509B4D12F017}
+	EndGlobalSection
+EndGlobal

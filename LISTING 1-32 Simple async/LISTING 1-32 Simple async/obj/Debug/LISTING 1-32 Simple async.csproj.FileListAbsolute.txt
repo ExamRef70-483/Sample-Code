@@ -1,0 +1,2 @@
+c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-32 Simple async\LISTING 1-32 Simple async\obj\Debug\LISTING 1-32 Simple async.csprojResolveAssemblyReference.cache
+c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-32 Simple async\LISTING 1-32 Simple async\obj\Debug\LISTING 1-32 Simple async.csproj.CoreCompileInputs.cache

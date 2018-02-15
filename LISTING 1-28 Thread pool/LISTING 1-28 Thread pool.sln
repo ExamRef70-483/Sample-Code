@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-28 Thread pool", "LISTING 1-28 Thread pool\LISTING 1-28 Thread pool.csproj", "{6800DB97-F5ED-4310-AB72-0D681CBE27F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6800DB97-F5ED-4310-AB72-0D681CBE27F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6800DB97-F5ED-4310-AB72-0D681CBE27F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6800DB97-F5ED-4310-AB72-0D681CBE27F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6800DB97-F5ED-4310-AB72-0D681CBE27F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {818B80B2-8DAC-4E22-A2B8-53A5E42FF7D6}
+	EndGlobalSection
+EndGlobal

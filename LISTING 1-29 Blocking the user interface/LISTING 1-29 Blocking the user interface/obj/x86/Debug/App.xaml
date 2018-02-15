@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="LISTING_1_29_Blocking_the_user_interface.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:LISTING_1_29_Blocking_the_user_interface"
+    RequestedTheme="Light">
+
+</Application>
+

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-75 lambda expression task", "LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task.csproj", "{0921927C-0839-4FDC-ADEC-F09DAB199298}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0921927C-0839-4FDC-ADEC-F09DAB199298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0921927C-0839-4FDC-ADEC-F09DAB199298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0921927C-0839-4FDC-ADEC-F09DAB199298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0921927C-0839-4FDC-ADEC-F09DAB199298}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7FAEAC9-D3D7-4C2A-B64C-914BDC74F501}
+	EndGlobalSection
+EndGlobal

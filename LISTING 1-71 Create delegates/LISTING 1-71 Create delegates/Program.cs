@@ -21,13 +21,15 @@ namespace LISTING_1_71_Create_delegates
         static void Main(string[] args)
         {
             IntOperation op;
-                
+
             // Explicitly create the delegate
             op = new IntOperation(Add);
+
             Console.WriteLine(op(2, 2));
 
             // Delegate is created automatically
-            // from method name
+            // from method 
+
             op = Subtract;
             Console.WriteLine(op(2, 2));
 

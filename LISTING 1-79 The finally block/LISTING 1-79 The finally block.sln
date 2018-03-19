@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-79 The finally block", "LISTING 1-79 The finally block\LISTING 1-79 The finally block.csproj", "{D99928A5-97DB-41B2-BC82-6DA1C2C5B79B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D99928A5-97DB-41B2-BC82-6DA1C2C5B79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D99928A5-97DB-41B2-BC82-6DA1C2C5B79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D99928A5-97DB-41B2-BC82-6DA1C2C5B79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D99928A5-97DB-41B2-BC82-6DA1C2C5B79B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3513A58A-0C21-496F-B83F-180D14434C4A}
+	EndGlobalSection
+EndGlobal

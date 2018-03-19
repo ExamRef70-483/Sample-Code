@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LISTING_1_77_Exception_object
 {
@@ -20,8 +16,11 @@ namespace LISTING_1_77_Exception_object
             }
             catch(Exception ex)
             {
-                Console.WriteLine(ex.Message);
-                Console.WriteLine(ex.StackTrace);
+                Console.WriteLine("Message: " + ex.Message);
+                Console.WriteLine("Stacktrace: " + ex.StackTrace);
+                Console.WriteLine("HelpLink: " + ex.HelpLink);
+                Console.WriteLine("TargetSite: " + ex.TargetSite);
+                Console.WriteLine("Source:" + ex.Source);
             }
 
             Console.ReadKey();

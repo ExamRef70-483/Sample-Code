@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 1-84 Aggregate exceptions", "LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions.csproj", "{DE112EAF-59B7-49ED-AF74-78080427AA13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE112EAF-59B7-49ED-AF74-78080427AA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE112EAF-59B7-49ED-AF74-78080427AA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE112EAF-59B7-49ED-AF74-78080427AA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE112EAF-59B7-49ED-AF74-78080427AA13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D52DF84B-1CC8-4ECB-9D77-89583472654D}
+	EndGlobalSection
+EndGlobal

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\1-69 EventHandler data\1-69 EventHandler data\bin\Debug\1-69 EventHandler data.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\1-69 EventHandler data\1-69 EventHandler data\bin\Debug\1-69 EventHandler data.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\1-69 EventHandler data\1-69 EventHandler data\bin\Debug\1-69 EventHandler data.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\1-69 EventHandler data\1-69 EventHandler data\obj\Debug\1-69 EventHandler data.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\1-69 EventHandler data\1-69 EventHandler data\obj\Debug\1-69 EventHandler data.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\1-69 EventHandler data\1-69 EventHandler data\obj\Debug\1-69 EventHandler data.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\1-69 EventHandler data\1-69 EventHandler data\obj\Debug\1-69 EventHandler data.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 2-16 Indexed properties", "LISTING 2-16 Indexed properties\LISTING 2-16 Indexed properties.csproj", "{C33C211E-A794-4162-9D70-92D13AE936CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C33C211E-A794-4162-9D70-92D13AE936CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33C211E-A794-4162-9D70-92D13AE936CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33C211E-A794-4162-9D70-92D13AE936CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33C211E-A794-4162-9D70-92D13AE936CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F660836-FAFE-4BCB-9666-007632CB31EF}
+	EndGlobalSection
+EndGlobal

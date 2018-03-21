@@ -1,40 +1,36 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LISTING_2_1_Value_and_reference_types
 {
     class Program
     {
-        struct valueStore
+        struct StructStore
         {
-            public int data;
+            public int Data { get; set; }
         }
 
-        class referenceStore
+        class ClassStore
         {
-            public int data;
+            public int Data { get; set; }
         }
 
         static void Main(string[] args)
         {
-            valueStore xValue, yValue;
-            yValue = new valueStore();
-            yValue.data = 99;
-            xValue = yValue;
-            xValue.data = 100;
-            Console.WriteLine("xValue: {0}", xValue.data);
-            Console.WriteLine("yValue: {0}", yValue.data);
+            StructStore xs, ys;
+            ys = new StructStore();
+            ys.Data = 99;
+            xs = ys;
+            xs.Data = 100;
+            Console.WriteLine("xStruct: {0}", xs.Data);
+            Console.WriteLine("yStruct: {0}", ys.Data);
 
-            referenceStore xReference, yReference;
-            yReference = new referenceStore();
-            yReference.data = 99;
-            xReference = yReference;
-            xReference.data = 100;
-            Console.WriteLine("xReference: {0}", xReference.data);
-            Console.WriteLine("yReference: {0}", yReference.data);
+            ClassStore xc, yc;
+            yc = new ClassStore();
+            yc.Data = 99;
+            xc = yc;
+            xc.Data = 100;
+            Console.WriteLine("xClass: {0}", xc.Data);
+            Console.WriteLine("yClass: {0}", yc.Data);
 
             Console.ReadKey();
         }

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 2-15 Optional parameters", "LISTING 2-15 Optional parameters\LISTING 2-15 Optional parameters.csproj", "{202735B2-DDA0-4B8F-9887-A5E251F97B13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{202735B2-DDA0-4B8F-9887-A5E251F97B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{202735B2-DDA0-4B8F-9887-A5E251F97B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{202735B2-DDA0-4B8F-9887-A5E251F97B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{202735B2-DDA0-4B8F-9887-A5E251F97B13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60E7D98-BD1C-4304-926F-C853F940FB0C}
+	EndGlobalSection
+EndGlobal

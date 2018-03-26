@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 2-37 The base method", "LISTING 2-37 The base method\LISTING 2-37 The base method.csproj", "{E56D800A-244F-4536-BE59-DE559FC87A9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E56D800A-244F-4536-BE59-DE559FC87A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E56D800A-244F-4536-BE59-DE559FC87A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E56D800A-244F-4536-BE59-DE559FC87A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E56D800A-244F-4536-BE59-DE559FC87A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39E31B88-81C7-45B8-B5ED-F122BB931636}
+	EndGlobalSection
+EndGlobal

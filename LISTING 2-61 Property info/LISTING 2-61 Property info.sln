@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 2-61 Property info", "LISTING 2-61 Property info\LISTING 2-61 Property info.csproj", "{D33505B0-B719-48FB-A6C4-FFD35EBD2394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D33505B0-B719-48FB-A6C4-FFD35EBD2394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D33505B0-B719-48FB-A6C4-FFD35EBD2394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D33505B0-B719-48FB-A6C4-FFD35EBD2394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D33505B0-B719-48FB-A6C4-FFD35EBD2394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF8D4990-441B-4448-B065-BB3B421672CE}
+	EndGlobalSection
+EndGlobal

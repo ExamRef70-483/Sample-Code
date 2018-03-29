@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 2-65 The dispose pattern", "LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern.csproj", "{87A5EC1B-84E7-42F6-AB88-75A8B5662900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A5EC1B-84E7-42F6-AB88-75A8B5662900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A5EC1B-84E7-42F6-AB88-75A8B5662900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A5EC1B-84E7-42F6-AB88-75A8B5662900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A5EC1B-84E7-42F6-AB88-75A8B5662900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9AB55F2-6840-43D1-87F8-FD22AE1312F3}
+	EndGlobalSection
+EndGlobal

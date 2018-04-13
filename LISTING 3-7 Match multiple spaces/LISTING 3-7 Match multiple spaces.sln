@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 3-7 Match multiple spaces", "LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces.csproj", "{FD525C09-4244-4E73-B52F-740235E2166A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD525C09-4244-4E73-B52F-740235E2166A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD525C09-4244-4E73-B52F-740235E2166A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD525C09-4244-4E73-B52F-740235E2166A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD525C09-4244-4E73-B52F-740235E2166A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4634C35D-AB47-4B23-A33D-C36ADEFF8859}
+	EndGlobalSection
+EndGlobal

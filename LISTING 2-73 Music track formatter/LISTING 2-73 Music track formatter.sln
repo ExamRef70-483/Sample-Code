@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 2-73 Music track formatter", "LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter.csproj", "{3F7E3C10-D356-44D8-B5FE-2CC8561D29DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F7E3C10-D356-44D8-B5FE-2CC8561D29DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7E3C10-D356-44D8-B5FE-2CC8561D29DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7E3C10-D356-44D8-B5FE-2CC8561D29DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7E3C10-D356-44D8-B5FE-2CC8561D29DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8772B586-967A-46E2-91C8-E2691B95A735}
+	EndGlobalSection
+EndGlobal

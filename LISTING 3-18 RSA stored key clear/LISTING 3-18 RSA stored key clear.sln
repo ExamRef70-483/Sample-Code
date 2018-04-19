@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 3-18 RSA stored key clear", "LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear.csproj", "{BF4A5FB3-A2AC-4FB5-B497-1D38DB80A1FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF4A5FB3-A2AC-4FB5-B497-1D38DB80A1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF4A5FB3-A2AC-4FB5-B497-1D38DB80A1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF4A5FB3-A2AC-4FB5-B497-1D38DB80A1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF4A5FB3-A2AC-4FB5-B497-1D38DB80A1FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09545BAD-1904-4351-B58F-76AB0E321F80}
+	EndGlobalSection
+EndGlobal

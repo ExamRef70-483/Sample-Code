@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 3-15 AES decryption", "LISTING 3-15 AES decryption\LISTING 3-15 AES decryption.csproj", "{12E1BE28-C6F1-402B-9A96-1CEFF0CEABBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12E1BE28-C6F1-402B-9A96-1CEFF0CEABBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E1BE28-C6F1-402B-9A96-1CEFF0CEABBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E1BE28-C6F1-402B-9A96-1CEFF0CEABBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E1BE28-C6F1-402B-9A96-1CEFF0CEABBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2873A5F9-9875-4099-8BFA-BBBF3B168374}
+	EndGlobalSection
+EndGlobal

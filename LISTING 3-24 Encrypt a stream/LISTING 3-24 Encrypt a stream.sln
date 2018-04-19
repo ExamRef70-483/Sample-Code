@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 3-24 Encrypt a stream", "LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream.csproj", "{3ECC6D51-77C8-451E-84D4-A5E6013A34E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ECC6D51-77C8-451E-84D4-A5E6013A34E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ECC6D51-77C8-451E-84D4-A5E6013A34E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ECC6D51-77C8-451E-84D4-A5E6013A34E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ECC6D51-77C8-451E-84D4-A5E6013A34E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C015D0A7-B9D3-4B71-845B-526E8A714A75}
+	EndGlobalSection
+EndGlobal

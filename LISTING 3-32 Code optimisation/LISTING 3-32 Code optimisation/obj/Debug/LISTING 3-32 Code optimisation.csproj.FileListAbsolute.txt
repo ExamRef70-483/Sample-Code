@@ -1,0 +1,7 @@
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimisation\LISTING 3-32 Code optimisation\bin\Debug\LISTING 3-32 Code optimisation.exe.config
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimisation\LISTING 3-32 Code optimisation\bin\Debug\LISTING 3-32 Code optimisation.exe
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimisation\LISTING 3-32 Code optimisation\bin\Debug\LISTING 3-32 Code optimisation.pdb
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimisation\LISTING 3-32 Code optimisation\obj\Debug\LISTING 3-32 Code optimisation.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimisation\LISTING 3-32 Code optimisation\obj\Debug\LISTING 3-32 Code optimisation.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimisation\LISTING 3-32 Code optimisation\obj\Debug\LISTING 3-32 Code optimisation.exe
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimisation\LISTING 3-32 Code optimisation\obj\Debug\LISTING 3-32 Code optimisation.pdb

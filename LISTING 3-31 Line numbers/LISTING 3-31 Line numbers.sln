@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 3-31 Line numbers", "LISTING 3-31 Line numbers\LISTING 3-31 Line numbers.csproj", "{CA9B8B41-828D-491A-BEF7-DAF066CBB116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9B8B41-828D-491A-BEF7-DAF066CBB116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9B8B41-828D-491A-BEF7-DAF066CBB116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9B8B41-828D-491A-BEF7-DAF066CBB116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9B8B41-828D-491A-BEF7-DAF066CBB116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1074F39B-7C59-44A6-8B53-16AEE3BF8F7D}
+	EndGlobalSection
+EndGlobal

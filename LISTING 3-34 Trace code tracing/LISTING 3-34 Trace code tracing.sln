@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 3-34 Trace code tracing", "LISTING 3-34 Trace code tracing\LISTING 3-34 Trace code tracing.csproj", "{0C390D03-A0F3-443B-A7E7-A1766B2F4E28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C390D03-A0F3-443B-A7E7-A1766B2F4E28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C390D03-A0F3-443B-A7E7-A1766B2F4E28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C390D03-A0F3-443B-A7E7-A1766B2F4E28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C390D03-A0F3-443B-A7E7-A1766B2F4E28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1884B661-8BC7-45A4-A28D-A374DAF43714}
+	EndGlobalSection
+EndGlobal

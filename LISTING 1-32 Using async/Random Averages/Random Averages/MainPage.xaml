@@ -14,7 +14,7 @@
                 <TextBlock Text="Number of values: " Margin="5" Style="{StaticResource BodyTextBlockStyle}"></TextBlock>
                 <TextBox Text="100000" Width="200" Name="NumberOfValuesTextBox"></TextBox>
             </StackPanel>
-            <Button Content="Start" Click="StartButton_Click" Margin="5" HorizontalAlignment="Center"></Button>
+                <Button Content="Start" Click="StartButton_Click" Margin="5" HorizontalAlignment="Center"></Button>
             <TextBlock Name="ResultTextBlock" Text="Result: " HorizontalAlignment="Center"></TextBlock>
         </StackPanel>
 

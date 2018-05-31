@@ -1,0 +1,7 @@
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 WebClient\LISTING 4-14 WebClient\bin\Debug\LISTING 4-14 WebClient.exe.config
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 WebClient\LISTING 4-14 WebClient\bin\Debug\LISTING 4-14 WebClient.exe
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 WebClient\LISTING 4-14 WebClient\bin\Debug\LISTING 4-14 WebClient.pdb
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 WebClient\LISTING 4-14 WebClient\obj\Debug\LISTING 4-14 WebClient.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 WebClient\LISTING 4-14 WebClient\obj\Debug\LISTING 4-14 WebClient.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 WebClient\LISTING 4-14 WebClient\obj\Debug\LISTING 4-14 WebClient.exe
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 WebClient\LISTING 4-14 WebClient\obj\Debug\LISTING 4-14 WebClient.pdb

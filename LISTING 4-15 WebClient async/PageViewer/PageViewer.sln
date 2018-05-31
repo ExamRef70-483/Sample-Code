@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageViewer", "PageViewer\PageViewer.csproj", "{0F053593-5A64-4915-BF9E-50BBA4CA14B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F053593-5A64-4915-BF9E-50BBA4CA14B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F053593-5A64-4915-BF9E-50BBA4CA14B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F053593-5A64-4915-BF9E-50BBA4CA14B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F053593-5A64-4915-BF9E-50BBA4CA14B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E67E62-3B81-42B6-AD3E-DABAB28EC88F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-15 WebClient async", "LISTING 4-15 WebClient async\LISTING 4-15 WebClient async.csproj", "{F39CE673-0167-454B-9D1A-02524F2832FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F39CE673-0167-454B-9D1A-02524F2832FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F39CE673-0167-454B-9D1A-02524F2832FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F39CE673-0167-454B-9D1A-02524F2832FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F39CE673-0167-454B-9D1A-02524F2832FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0209A062-0345-4DF5-A56F-42D7978AA149}
+	EndGlobalSection
+EndGlobal

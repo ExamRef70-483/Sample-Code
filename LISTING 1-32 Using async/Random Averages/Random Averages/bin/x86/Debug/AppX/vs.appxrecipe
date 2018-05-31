@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>85f1dd4e-04b7-435b-a6d9-1097c4bfa8cf</PackageIdentityName>
     <PackageIdentityPublisher>CN=Rob</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -18,8 +18,8 @@
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
-    <LayoutDir>C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>C90EBBB66AE9AF6AF520266403844247F91CA7B3CC4B68DE96D47DD7F4622FE3</RegisteredManifestChecksum>
+    <LayoutDir>C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\bin\x86\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>8FD519AB591FD846F99456FF5124F3D4ED3F5AB20874C6C4B867A25C8D1016DE</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>85f1dd4e-04b7-435b-a6d9-1097c4bfa8cf_1.0.0.0_x86__0rbfcm4j9s1vw</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>85f1dd4e-04b7-435b-a6d9-1097c4bfa8cf_0rbfcm4j9s1vw!App</RegisteredUserModeAppID>
     <RegisteredPackageID>85f1dd4e-04b7-435b-a6d9-1097c4bfa8cf</RegisteredPackageID>
@@ -28,16 +28,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-16T13:26:25.576</Modified>
+      <Modified>2018-05-25T08:40:23.604</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\bin\x86\Debug\Random Averages.exe">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\bin\x86\Debug\Random Averages.exe">
       <PackagePath>entrypoint\Random Averages.exe</PackagePath>
-      <Modified>2018-02-16T13:26:25.367</Modified>
+      <Modified>2018-05-25T08:40:20.626</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Rob\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -495,45 +495,45 @@
       <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
       <Modified>2016-06-11T22:15:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
       <Modified>2018-02-16T10:26:00.908</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
       <Modified>2018-01-20T13:27:52.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-20T13:27:52.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-20T13:27:52.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-20T13:27:52.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-20T13:27:52.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-20T13:27:52.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2018-01-20T13:27:52.819</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\bin\x86\Debug\Random Averages.xr.xml">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\bin\x86\Debug\Random Averages.xr.xml">
       <PackagePath>Random Averages.xr.xml</PackagePath>
       <Modified>2018-02-16T10:37:49.782</Modified>
     </AppxPackagedFile>
@@ -541,76 +541,67 @@
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2017-09-28T17:28:16.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-02-16T11:27:03.456</Modified>
+      <Modified>2018-05-25T08:40:22.804</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Rob\Documents\Visual Studio 2017\Projects\Random Averages\Random Averages\bin\x86\Debug\Core\Random Averages.exe">
+    <AppxPackagedFile Include="C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\bin\x86\Debug\Core\Random Averages.exe">
       <PackagePath>Random Averages.exe</PackagePath>
-      <Modified>2018-02-16T13:26:25.573</Modified>
+      <Modified>2018-05-25T08:40:23.590</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.25305.1</Version>
+      <Version>1.1.25915.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25305.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25915.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\ARM\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.25305.1</Version>
+      <Version>1.1.25915.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25305.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25915.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x64\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\">
       <Name>Microsoft.NET.CoreRuntime.1.1</Name>
-      <Version>1.1.25305.1</Version>
+      <Version>1.1.25915.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25305.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.1.1, MinVersion = 1.1.25915.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.CoreRuntime\1.1\.\AppX\x86\Microsoft.NET.CoreRuntime.1.1.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25830.2</Version>
+      <Version>14.0.26128.0</Version>
       <Architecture>ARM</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25830.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26128.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25830.2</Version>
-      <Architecture>ARM64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25830.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
-      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
-      <MoreInfo>
-      </MoreInfo>
-    </ResolvedSDKReference>
-    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
-      <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25830.2</Version>
+      <Version>14.0.26128.0</Version>
       <Architecture>x64</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25830.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26128.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>
     </ResolvedSDKReference>
     <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
       <Name>Microsoft.VCLibs.140.00.Debug</Name>
-      <Version>14.0.25830.2</Version>
+      <Version>14.0.26128.0</Version>
       <Architecture>x86</Architecture>
-      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.25830.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.26128.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
       <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
       <MoreInfo>
       </MoreInfo>

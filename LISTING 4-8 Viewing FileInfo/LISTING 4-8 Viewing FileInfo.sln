@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-8 Viewing FileInfo", "LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo.csproj", "{7A393396-BD2A-4BAB-BA2D-802DB8CF4D3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A393396-BD2A-4BAB-BA2D-802DB8CF4D3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A393396-BD2A-4BAB-BA2D-802DB8CF4D3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A393396-BD2A-4BAB-BA2D-802DB8CF4D3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A393396-BD2A-4BAB-BA2D-802DB8CF4D3F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E98DB419-DAFE-422E-AED5-EAC81ABC07E1}
+	EndGlobalSection
+EndGlobal

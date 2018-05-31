@@ -14,7 +14,7 @@
                 <TextBlock Text="Number of values: " Margin="5" Style="{StaticResource BodyTextBlockStyle}"></TextBlock>
                 <TextBox x:ConnectionId='3' Text="100000" Width="200" Name="NumberOfValuesTextBox"></TextBox>
             </StackPanel>
-            <Button x:ConnectionId='1' Content="Start"                           Margin="5" HorizontalAlignment="Center"></Button>
+                <Button x:ConnectionId='1' Content="Start"                           Margin="5" HorizontalAlignment="Center"></Button>
             <TextBlock x:ConnectionId='2' Name="ResultTextBlock" Text="Result: " HorizontalAlignment="Center"></TextBlock>
         </StackPanel>
 

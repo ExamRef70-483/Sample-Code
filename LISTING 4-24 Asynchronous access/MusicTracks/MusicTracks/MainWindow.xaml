@@ -1,0 +1,28 @@
+﻿<Window x:Class="MusicTracks.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MusicTracks"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="Music Tracks" Margin="5" HorizontalAlignment="Center" ></TextBlock>
+            <StackPanel Orientation="Horizontal" Margin="5" HorizontalAlignment="Center">
+                <TextBlock Text="New artist name" Margin="5" ></TextBlock>
+                <TextBox Text="" Width="200" Name="ArtistTextBox"></TextBox>
+                <TextBlock Text="Title to search for" Margin="5" ></TextBlock>
+                <TextBox Text="" Width="200" Name="TitleTextBox"></TextBox>
+                <Button Content="Update" Click="UpdateButton_Click" Margin="5" HorizontalAlignment="Center"></Button>
+            </StackPanel>
+            <ScrollViewer Height="300" Width="350" 
+                  HorizontalScrollBarVisibility="Auto" 
+                  VerticalScrollBarVisibility="Auto">
+                <TextBlock Name="DatabaseTextBlock" Width="300" Text="Click View database to view the database" TextWrapping="WrapWithOverflow" HorizontalAlignment="Center"></TextBlock>
+            </ScrollViewer>
+            <Button Content="View database" Click="ViewDatabaseButton_Click" Margin="5" HorizontalAlignment="Center"></Button>
+        </StackPanel>
+
+    </Grid>
+</Window>

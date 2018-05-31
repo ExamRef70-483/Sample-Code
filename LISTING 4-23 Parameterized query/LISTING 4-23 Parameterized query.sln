@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-23 Parameterized query", "LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query.csproj", "{13E5662F-AF4A-4E9D-9B1C-50F90F69BFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E5662F-AF4A-4E9D-9B1C-50F90F69BFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E5662F-AF4A-4E9D-9B1C-50F90F69BFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E5662F-AF4A-4E9D-9B1C-50F90F69BFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E5662F-AF4A-4E9D-9B1C-50F90F69BFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {982B03A8-29DE-49B7-9E14-A9B94A1216B0}
+	EndGlobalSection
+EndGlobal

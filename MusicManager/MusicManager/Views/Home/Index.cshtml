@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<hr />
+<div>
+    <form asp-controller="Artists" asp-action="Index">
+        <p>
+            <input type="submit" value="Artists" class="btn btn-default" />
+        </p>
+    </form>
+    <form asp-controller="MusicTracks" asp-action="Index">
+        <p>
+            <input type="submit" value="MusicTracks" class="btn btn-default" />
+        </p>
+    </form>
+    <form asp-controller="PlayLists" asp-action="ViewPlaylist">
+        <p>
+            <input type="submit" value="PlayLists" class="btn btn-default" />
+        </p>
+    </form>
+</div>

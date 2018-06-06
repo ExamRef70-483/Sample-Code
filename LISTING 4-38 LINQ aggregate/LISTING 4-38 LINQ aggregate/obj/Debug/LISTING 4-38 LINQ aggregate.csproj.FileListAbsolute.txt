@@ -1,0 +1,7 @@
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-38 LINQ aggregate\LISTING 4-38 LINQ aggregate\bin\Debug\LISTING 4-38 LINQ aggregate.exe.config
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-38 LINQ aggregate\LISTING 4-38 LINQ aggregate\bin\Debug\LISTING 4-38 LINQ aggregate.exe
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-38 LINQ aggregate\LISTING 4-38 LINQ aggregate\bin\Debug\LISTING 4-38 LINQ aggregate.pdb
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-38 LINQ aggregate\LISTING 4-38 LINQ aggregate\obj\Debug\LISTING 4-38 LINQ aggregate.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-38 LINQ aggregate\LISTING 4-38 LINQ aggregate\obj\Debug\LISTING 4-38 LINQ aggregate.csproj.CoreCompileInputs.cache
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-38 LINQ aggregate\LISTING 4-38 LINQ aggregate\obj\Debug\LISTING 4-38 LINQ aggregate.exe
+C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-38 LINQ aggregate\LISTING 4-38 LINQ aggregate\obj\Debug\LISTING 4-38 LINQ aggregate.pdb

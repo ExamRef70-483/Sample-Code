@@ -4,20 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LISTING_4_38_LINQ_aggregate
+namespace LISTING_4_39_Method_based_query
 {
     class Artist
     {
-        public int ID { get; set; }
         public string Name { get; set; }
     }
 
     class MusicTrack
     {
-        public int ID { get; set; }
-        public int ArtistID { get; set; }
+        public Artist Artist { get; set; }
         public string Title { get; set; }
         public int Length { get; set; }
+        public string test { get; set; }
     }
 
     class Program
@@ -31,18 +30,16 @@ namespace LISTING_4_38_LINQ_aggregate
             List<MusicTrack> musicTracks = new List<MusicTrack>();
 
             Random rand = new Random(1);
-            int IDcount = 0;
 
             foreach (string artistName in artistNames)
             {
-                Artist newArtist = new Artist { ID = IDcount++, Name = artistName };
+                Artist newArtist = new Artist { Name = artistName };
                 artists.Add(newArtist);
                 foreach (string titleName in titleNames)
                 {
                     MusicTrack newTrack = new MusicTrack
                     {
-                        ID = IDcount++,
-                        ArtistID = newArtist.ID,
+                        Artist = newArtist,
                         Title = titleName,
                         Length = rand.Next(20, 600)
                     };
@@ -50,21 +47,15 @@ namespace LISTING_4_38_LINQ_aggregate
                 }
             }
 
-            var artistSummary = from artist in artists
-                                join track in musicTracks on artist.ID equals track.ArtistID
-                                group track by artist.Name into artistTrackSummary
-                                select
-                                new
-                                {
-                                    ArtistName = artistTrackSummary.Key,
-                                    Length = artistTrackSummary.Sum(x => x.Length)
-                                };
+            // IEnumerable<MusicTrack> selectedTracks = from track in musicTracks where track.Artist.Name == "Rob Miles" select track;
+            // Actual C# code that runs this query
+            IEnumerable<MusicTrack> selectedTracks = musicTracks.Where(track => track.Artist.Name == "Rob Miles");
 
-            foreach (var summary in artistSummary)
+            foreach (MusicTrack track in selectedTracks)
             {
-                Console.WriteLine("Name:{0}  Total length:{1}",
-                    summary.ArtistName, summary.Length);
+                Console.WriteLine("Artist:{0} Title:{1}", track.Artist.Name, track.Title);
             }
+
             Console.ReadKey();
         }
     }

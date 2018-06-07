@@ -46,8 +46,6 @@ namespace LISTING_4_30_LINQ_operators
             }
 
             IEnumerable<MusicTrack> selectedTracks = from track in musicTracks where track.Artist.Name == "Rob Miles" select track;
-            // Actual C# code that runs this query
-            // IEnumerable<MusicTrack> selectedTracks = musicTracks.Where(track => track.Artist.Name == "Rob Miles");
 
             foreach (MusicTrack track in selectedTracks)
             {

@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LISTING_4_38_LINQ_aggregate
 {
@@ -50,20 +48,20 @@ namespace LISTING_4_38_LINQ_aggregate
                 }
             }
 
-            var artistSummary = from artist in artists
-                                join track in musicTracks on artist.ID equals track.ArtistID
-                                group track by artist.Name into artistTrackSummary
-                                select
-                                new
-                                {
-                                    ArtistName = artistTrackSummary.Key,
-                                    Length = artistTrackSummary.Sum(x => x.Length)
-                                };
+            var artistSummary = from track in musicTracks
+                                    join artist in artists on track.ArtistID equals artist.ID
+                                    group track by artist.Name
+                                    into artistTrackSummary
+                                    select new
+                                    {
+                                        ID = artistTrackSummary.Key,
+                                        Length = artistTrackSummary.Sum(x => x.Length)
+                                    };
 
             foreach (var summary in artistSummary)
             {
                 Console.WriteLine("Name:{0}  Total length:{1}",
-                    summary.ArtistName, summary.Length);
+                    summary.ID, summary.Length);
             }
             Console.ReadKey();
         }

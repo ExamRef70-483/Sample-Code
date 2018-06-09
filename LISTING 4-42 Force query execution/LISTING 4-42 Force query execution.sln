@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-42 Force query execution", "LISTING 4-42 Force query execution\LISTING 4-42 Force query execution.csproj", "{F48383EB-1B6F-46EA-B04A-B65DC3DCDF20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F48383EB-1B6F-46EA-B04A-B65DC3DCDF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F48383EB-1B6F-46EA-B04A-B65DC3DCDF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F48383EB-1B6F-46EA-B04A-B65DC3DCDF20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F48383EB-1B6F-46EA-B04A-B65DC3DCDF20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {460DF796-4294-4890-8DF4-C16CC01EDDC9}
+	EndGlobalSection
+EndGlobal

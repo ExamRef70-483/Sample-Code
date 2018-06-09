@@ -15,22 +15,22 @@ namespace LISTING_4_27_XML_DOM
                 "<Length>150</Length>" +
                 "</MusicTrack>";
 
-XmlDocument doc = new XmlDocument();
-doc.LoadXml(XMLDocument);
+            XmlDocument doc = new XmlDocument();
+            doc.LoadXml(XMLDocument);
 
-System.Xml.XmlElement rootElement = doc.DocumentElement;
-// make sure it is the right element
-if (rootElement.Name != "MusicTrack")
-{
-    Console.WriteLine("Not a music track");
-}
-else
-{
-    string artist = rootElement["Artist"].FirstChild.Value;
-    Console.WriteLine("", artist);
-    string title = rootElement["Title"].FirstChild.Value;
-    Console.WriteLine("Artist:{0} Title:{1}", artist, title);
-}
+            System.Xml.XmlElement rootElement = doc.DocumentElement;
+            // make sure it is the right element
+            if (rootElement.Name != "MusicTrack")
+            {
+                Console.WriteLine("Not a music track");
+            }
+            else
+            {
+                string artist = rootElement["Artist"].FirstChild.Value;
+                Console.WriteLine("", artist);
+                string title = rootElement["Title"].FirstChild.Value;
+                Console.WriteLine("Artist:{0} Title:{1}", artist, title);
+            }
 
             Console.ReadKey();
         }

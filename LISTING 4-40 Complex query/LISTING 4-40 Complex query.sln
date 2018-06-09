@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-40 Complex query", "LISTING 4-40 Complex query\LISTING 4-40 Complex query.csproj", "{088E65CD-3E1F-4D7B-83E7-6C72054EBEAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088E65CD-3E1F-4D7B-83E7-6C72054EBEAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088E65CD-3E1F-4D7B-83E7-6C72054EBEAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088E65CD-3E1F-4D7B-83E7-6C72054EBEAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088E65CD-3E1F-4D7B-83E7-6C72054EBEAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1D2891D-56F3-4C7B-B680-2E5FD38D5D25}
+	EndGlobalSection
+EndGlobal

@@ -48,21 +48,46 @@ namespace LISTING_4_36_LINQ_group
                 }
             }
 
-            var artistSummary = from artist in artists
-                                join track in musicTracks on artist.ID equals track.ArtistID
-                                group artist by artist.Name into artistTrackSummary
+            //var artistSummary = from artist in artists
+            //                    join track in musicTracks on artist.ID equals track.ArtistID
+            //                    group artist by artist.ID into artistTrackSummary
+            //                    select new
+            //                    {
+            //                        ArtistName = artistTrackSummary.Key,
+            //                        Count = artistTrackSummary.Count()
+            //                    };
+
+
+            var artistSummary = from track in musicTracks
+                                group track by track.ArtistID
+                                into artistTrackSummary
                                 select new
                                 {
-                                    ArtistName = artistTrackSummary.Key,
+                                    ID = artistTrackSummary.Key,
                                     Count = artistTrackSummary.Count()
                                 };
 
             foreach (var item in artistSummary)
             {
                 Console.WriteLine("Artist:{0} Tracks recorded:{1}",
-                   item.ArtistName, item.Count);
+                    item.ID, item.Count);
             }
 
+            var artistSummaryName = from track in musicTracks
+                                    join artist in artists on track.ArtistID equals artist.ID
+                                    group track by artist.Name
+                            into artistTrackSummary
+                                    select new
+                                    {
+                                        ID = artistTrackSummary.Key,
+                                        Count = artistTrackSummary.Count()
+                                    };
+
+            foreach (var item in artistSummaryName)
+            {
+                Console.WriteLine("Artist:{0} Tracks recorded:{1}",
+                    item.ID, item.Count);
+            }
             Console.ReadKey();
         }
     }

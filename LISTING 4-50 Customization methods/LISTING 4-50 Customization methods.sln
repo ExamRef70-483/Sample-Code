@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-50 Customization methods", "LISTING 4-50 Customization methods\LISTING 4-50 Customization methods.csproj", "{9070EC2E-2C7E-409C-82FA-DF75D276EDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9070EC2E-2C7E-409C-82FA-DF75D276EDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9070EC2E-2C7E-409C-82FA-DF75D276EDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9070EC2E-2C7E-409C-82FA-DF75D276EDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9070EC2E-2C7E-409C-82FA-DF75D276EDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B954211C-042B-4162-9955-3B1D9F21CF76}
+	EndGlobalSection
+EndGlobal

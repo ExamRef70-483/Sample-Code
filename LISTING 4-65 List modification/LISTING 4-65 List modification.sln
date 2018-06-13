@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-65 List modification", "LISTING 4-65 List modification\LISTING 4-65 List modification.csproj", "{D50B5B30-22ED-444C-A935-5CE1A10DB2AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50B5B30-22ED-444C-A935-5CE1A10DB2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50B5B30-22ED-444C-A935-5CE1A10DB2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50B5B30-22ED-444C-A935-5CE1A10DB2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50B5B30-22ED-444C-A935-5CE1A10DB2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0F70034-05A9-4716-97D1-3AE42C15C0F3}
+	EndGlobalSection
+EndGlobal

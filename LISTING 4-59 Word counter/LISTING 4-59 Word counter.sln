@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTING 4-59 Word counter", "LISTING 4-59 Word counter\LISTING 4-59 Word counter.csproj", "{ACDF64A6-3A43-4487-898B-043B3C4AC329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDF64A6-3A43-4487-898B-043B3C4AC329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDF64A6-3A43-4487-898B-043B3C4AC329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDF64A6-3A43-4487-898B-043B3C4AC329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDF64A6-3A43-4487-898B-043B3C4AC329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6335990-800D-42C6-85F3-CA5ABEAE12BE}
+	EndGlobalSection
+EndGlobal

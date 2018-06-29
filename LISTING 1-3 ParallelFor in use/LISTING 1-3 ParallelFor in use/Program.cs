@@ -18,10 +18,13 @@ namespace LISTING_1_3_ParallelFor_in_use
         {
             var items = Enumerable.Range(0, 500).ToArray();
 
-            Parallel.For(0, items.Count(), i =>
+            Parallel.For(0, items.Length, i =>
             {
                 WorkOnItem(items[i]);
             });
+
+            Console.WriteLine("Finished processing. Press a key to end.");
+            Console.ReadKey();
         }
     }
 }

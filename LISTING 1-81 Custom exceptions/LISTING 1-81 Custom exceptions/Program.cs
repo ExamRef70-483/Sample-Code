@@ -3,7 +3,7 @@ using System.Runtime.Serialization;
 
 namespace LISTING_1_81_Custom_exceptions
 {
-    class CalcException : Exception, ISerializable
+    class CalcException : Exception
     {
         public enum CalcErrorCodes
         {
@@ -18,7 +18,6 @@ namespace LISTING_1_81_Custom_exceptions
             Error = error;
         }
     }
-
 
     class Program
     {

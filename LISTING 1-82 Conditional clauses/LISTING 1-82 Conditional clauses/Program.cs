@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Runtime.Serialization;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LISTING_1_82_Conditional_clauses
 {
-    class CalcException : Exception, ISerializable
+    class CalcException : Exception
     {
         public enum CalcErrorCodes
         {

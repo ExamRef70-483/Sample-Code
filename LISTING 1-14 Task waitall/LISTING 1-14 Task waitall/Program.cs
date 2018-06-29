@@ -25,7 +25,7 @@ namespace LISTING_1_14_Task_waitall
             }
 
             Task.WaitAll(Tasks);
-
+ 
             Console.WriteLine("Finished processing. Press a key to end.");
             Console.ReadKey();
         }

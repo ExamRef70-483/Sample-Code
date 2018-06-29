@@ -29,11 +29,6 @@ namespace LISTING_1_54_for_loops
             {
                 Console.WriteLine("Hello {0}", counter);
             }
-
-            for(int counter = 0; counter < 5; counter++)
-            {
-                Console.WriteLine("Hello {0}", counter);
-            }
             Console.ReadKey();
         }
     }

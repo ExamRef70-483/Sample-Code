@@ -25,7 +25,9 @@ namespace LISTING_1_6_Informing_parallelization
                 new Person { Name = "Isaac", City = "Seattle" },
                 new Person { Name = "James", City = "London" }};
 
-            var result = from person in people.AsParallel().WithDegreeOfParallelism(4).WithExecutionMode(ParallelExecutionMode.ForceParallelism)
+            var result = from person in people.AsParallel()
+                         .WithDegreeOfParallelism(4)
+                         .WithExecutionMode(ParallelExecutionMode.ForceParallelism)
                          where person.City == "Seattle"
                          select person;
 

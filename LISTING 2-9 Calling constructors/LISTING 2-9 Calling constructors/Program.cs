@@ -15,7 +15,7 @@ namespace LISTING_2_9_Calling_constructors
         public Alien(int x, int y, int lives)
         {
             if (x < 0 || y < 0)
-                throw new Exception("Invalid position");
+                throw new ArgumentOutOfRangeException("Invalid position");
 
             X = x;
             Y = y;

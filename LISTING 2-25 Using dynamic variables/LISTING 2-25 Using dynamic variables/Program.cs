@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Dynamic;
 
 namespace LISTING_2_25_Using_dynamic_variables
 {
@@ -14,8 +16,14 @@ namespace LISTING_2_25_Using_dynamic_variables
             d = d + " Rob";
             Console.WriteLine(d);
 
-            Console.ReadKey();
+            dynamic person = new ExpandoObject();
 
+            person.Name = "Rob Miles";
+            person.Age = 21;
+
+            Console.WriteLine("Name: {0} Age: {1}", person.Name, person.Age);
+
+            Console.ReadKey();
         }
     }
 }

@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LISTING_2_34_IAccount_interface
 {
@@ -16,26 +12,26 @@ namespace LISTING_2_34_IAccount_interface
     public class BankAccount : IAccount
     {
 
-        private decimal balance = 0;
+        private decimal _balance = 0;
 
         bool IAccount.WithdrawFunds(decimal amount)
         {
-            if (balance < amount)
+            if (_balance < amount)
             {
                 return false;
             }
-            balance = balance - amount;
+            _balance = _balance - amount;
             return true;
         }
 
         void IAccount.PayInFunds(decimal amount)
         {
-            balance = balance + amount;
+            _balance = _balance + amount;
         }
 
         decimal IAccount.GetBalance()
         {
-            return balance;
+            return _balance;
         }
     }
 

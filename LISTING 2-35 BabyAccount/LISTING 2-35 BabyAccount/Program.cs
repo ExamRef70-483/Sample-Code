@@ -11,7 +11,7 @@ namespace LISTING_2_35_BabyAccount
 
     public class BabyAccount : IAccount
     {
-        private decimal balance = 0;
+        private decimal _balance = 0;
 
         bool IAccount.WithdrawFunds(decimal amount)
         {
@@ -19,22 +19,22 @@ namespace LISTING_2_35_BabyAccount
             {
                 return false;
             }
-            if (balance < amount)
+            if (_balance < amount)
             {
                 return false;
             }
-            balance = balance - amount;
+            _balance = _balance - amount;
             return true;
         }
 
         void IAccount.PayInFunds(decimal amount)
         {
-            balance = balance + amount;
+            _balance = _balance + amount;
         }
 
         decimal IAccount.GetBalance()
         {
-            return balance;
+            return _balance;
         }
     }
 

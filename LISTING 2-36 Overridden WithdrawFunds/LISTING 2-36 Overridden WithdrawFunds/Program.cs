@@ -11,26 +11,26 @@ namespace LISTING_2_36_Overridden_WithdrawFunds
 
     public class BankAccount : IAccount
     {
-        protected decimal balance = 0;
+        protected decimal _balance = 0;
 
         public virtual bool WithdrawFunds(decimal amount)
         {
-            if (balance < amount)
+            if (_balance < amount)
             {
                 return false;
             }
-            balance = balance - amount;
+            _balance = _balance - amount;
             return true;
         }
 
         void IAccount.PayInFunds(decimal amount)
         {
-            balance = balance + amount;
+            _balance = _balance + amount;
         }
 
         decimal IAccount.GetBalance()
         {
-            return balance;
+            return _balance;
         }
     }
 
@@ -43,11 +43,11 @@ namespace LISTING_2_36_Overridden_WithdrawFunds
                 return false;
             }
 
-            if (balance < amount)
+            if (_balance < amount)
             {
                 return false;
             }
-            balance = balance - amount;
+            _balance = _balance - amount;
             return true;
         }
     }

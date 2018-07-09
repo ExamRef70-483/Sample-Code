@@ -4,20 +4,20 @@ namespace LISTING_2_28_Using_a_property
 {
     class Customer
     {
-        private string nameValue;
+        private string _nameValue;
 
         public string Name
         {
             get
             {
-                return nameValue;
+                return _nameValue;
             }
             set
             {
                 if (value == "")
                     throw new Exception("Invalid customer name");
 
-                nameValue = value;
+                _nameValue = value;
             }
         }
     }

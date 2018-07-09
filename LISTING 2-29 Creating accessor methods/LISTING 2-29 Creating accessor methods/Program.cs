@@ -5,25 +5,25 @@ namespace LISTING_2_29_Creating_accessor_methods
 
     class BankAccount
     {
-        private decimal accountBalance = 0;
+        private decimal _accountBalance = 0;
 
         public void PayInFunds(decimal amountToPayIn)
         {
-            accountBalance = accountBalance + amountToPayIn;
+            _accountBalance = _accountBalance + amountToPayIn;
         }
 
         public bool WithdrawFunds(decimal amountToWithdraw)
         {
-            if (amountToWithdraw > accountBalance)
+            if (amountToWithdraw > _accountBalance)
                 return false;
 
-            accountBalance = accountBalance - amountToWithdraw;
+            _accountBalance = _accountBalance - amountToWithdraw;
             return true;
         }
 
         public decimal GetBalance()
         {
-            return accountBalance;
+            return _accountBalance;
         }
     }
 

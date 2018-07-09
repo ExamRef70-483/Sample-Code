@@ -2,20 +2,36 @@
 
 namespace LISTING_2_23_Type_conversion
 {
-    class Temperature
+    class Miles
     {
-        double tempValue;
+        public double Distance { get; }
 
-        // Conversion operator for implicit converstion to int
-        public static implicit operator int (Temperature t)
+        // Conversion operator for implicit converstion to Kilometers
+        public static implicit operator Kilometers(Miles t)
         {
-            // Round the result up before returning it
-            return (int) (t.tempValue + 0.5);
+            Console.WriteLine("Implicit conversion from miles to kilometers");
+            return new Kilometers( t.Distance * 1.6);
         }
 
-        public Temperature(double tempValue)
+        public static explicit operator int(Miles t)
         {
-            this.tempValue = tempValue;
+            Console.WriteLine("Explicit conversion from miles to int");
+            return (int)(t.Distance + 0.5);
+        }
+
+        public Miles(double miles)
+        {
+            Distance = miles;
+        }
+    }
+
+    class Kilometers
+    {
+        public double Distance { get; }
+
+        public Kilometers(double kilometers)
+        {
+            Distance = kilometers;
         }
     }
 
@@ -23,11 +39,13 @@ namespace LISTING_2_23_Type_conversion
     {
         static void Main(string[] args)
         {
-            Temperature t = new Temperature(20.6);
+            Miles m = new Miles(100);
 
-            int intTemp = (int)t;
-            Console.WriteLine("Temperature: {0}", intTemp);
+            Kilometers k = m; // implicity convert miles to km
+            Console.WriteLine("Kilometers: {0}", k.Distance);
 
+            int intMiles = (int)m;  // explicitly convert miles to int
+            Console.WriteLine("Int miles: {0}", intMiles);
             Console.ReadKey();
         }
     }

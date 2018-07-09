@@ -2,12 +2,12 @@
 
 namespace LISTING_2_33_iPrintable_interface
 {
-    interface iPrintable
+    interface IPrintable
     {
         string GetPrintableText(int pageWidth, int pageHeight);
         string GetTitle();
     }
-    class Report : iPrintable
+    class Report : IPrintable
     {
         public string GetPrintableText(int pageWidth, int pageHeight)
         {
@@ -22,7 +22,7 @@ namespace LISTING_2_33_iPrintable_interface
 
     class ConsolePrinter
     {
-        public void PrintItem(iPrintable item)
+        public void PrintItem(IPrintable item)
         {
             Console.WriteLine(item.GetTitle());
             Console.WriteLine(item.GetPrintableText(pageWidth: 80, pageHeight: 25));

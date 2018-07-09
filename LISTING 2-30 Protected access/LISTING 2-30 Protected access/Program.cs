@@ -1,32 +1,28 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace LISTING_2_30_Protected_access
 {
     class BankAccount
     {
-        protected decimal accountBalance = 0;
+        protected decimal _accountBalance = 0;
 
         public void PayInFunds(decimal amountToPayIn)
         {
-            accountBalance = accountBalance + amountToPayIn;
+            _accountBalance = _accountBalance + amountToPayIn;
         }
 
         public virtual bool WithdrawFunds(decimal amountToWithdraw)
         {
-            if (amountToWithdraw > accountBalance)
+            if (amountToWithdraw > _accountBalance)
                 return false;
 
-            accountBalance = accountBalance - amountToWithdraw;
+            _accountBalance = _accountBalance - amountToWithdraw;
             return true;
         }
 
         public decimal GetBalance()
         {
-            return accountBalance;
+            return _accountBalance;
         }
     }
 
@@ -36,10 +32,10 @@ namespace LISTING_2_30_Protected_access
 
         public override bool WithdrawFunds(decimal amountToWithdraw)
         {
-            if (amountToWithdraw > accountBalance + overdraftLimit)
+            if (amountToWithdraw > _accountBalance + overdraftLimit)
                 return false;
 
-            accountBalance = accountBalance - amountToWithdraw;
+            _accountBalance = _accountBalance - amountToWithdraw;
             return true;
         }
     }

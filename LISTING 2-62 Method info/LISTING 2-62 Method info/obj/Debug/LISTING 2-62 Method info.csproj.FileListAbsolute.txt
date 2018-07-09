@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method info\LISTING 2-62 Method info\obj\Debug\LISTING 2-62 Method info.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method info\LISTING 2-62 Method info\bin\Debug\LISTING 2-62 Method info.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method info\LISTING 2-62 Method info\bin\Debug\LISTING 2-62 Method info.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method info\LISTING 2-62 Method info\bin\Debug\LISTING 2-62 Method info.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method info\LISTING 2-62 Method info\obj\Debug\LISTING 2-62 Method info.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method info\LISTING 2-62 Method info\obj\Debug\LISTING 2-62 Method info.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method info\LISTING 2-62 Method info\obj\Debug\LISTING 2-62 Method info.csprojResolveAssemblyReference.cache

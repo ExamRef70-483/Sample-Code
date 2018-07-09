@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Runtime.Serialization;
 
 namespace LISTING_1_81_Custom_exceptions
 {

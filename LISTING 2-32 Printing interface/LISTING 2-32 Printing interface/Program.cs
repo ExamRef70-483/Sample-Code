@@ -3,30 +3,30 @@
 namespace LISTING_2_32_Printing_interface
 {
 
-    interface iPrintable
+    interface IPrintable
     {
         string GetPrintableText(int pageWidth, int pageHeight);
         string GetTitle();
     }
 
-    interface iDisplay
+    interface IDisplay
     {
         string GetTitle();
     }
 
-    class Report : iPrintable, iDisplay
+    class Report : IPrintable, IDisplay
     {
-        string iPrintable.GetPrintableText(int pageWidth, int pageHeight)
+        string IPrintable.GetPrintableText(int pageWidth, int pageHeight)
         {
             return "Report text to be printed";
         }
 
-        string iPrintable.GetTitle()
+        string IPrintable.GetTitle()
         {
             return "Report title to be printed";
         }
 
-        string iDisplay.GetTitle()
+        string IDisplay.GetTitle()
         {
             return "Report title to be displayed";
         }
@@ -34,7 +34,7 @@ namespace LISTING_2_32_Printing_interface
 
     class ConsolePrinter
     {
-        public void PrintItem(iPrintable item)
+        public void PrintItem(IPrintable item)
         {
             Console.WriteLine(item.GetTitle());
             Console.WriteLine(item.GetPrintableText(pageWidth: 80, pageHeight: 25));
@@ -47,7 +47,7 @@ namespace LISTING_2_32_Printing_interface
         {
             Report myReport = new Report();
 
-            iPrintable printItem = myReport;
+            IPrintable printItem = myReport;
             Console.WriteLine(printItem.GetTitle());
             Console.WriteLine(printItem.GetPrintableText(pageWidth:80, pageHeight:23));
             Console.ReadKey();

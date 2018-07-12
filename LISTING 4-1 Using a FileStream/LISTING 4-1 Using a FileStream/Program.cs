@@ -23,7 +23,6 @@ namespace LISTING_4_1_Using_a_FileStream
             string readString = Encoding.UTF8.GetString(readBytes);
             Console.WriteLine("Read message: {0}", readString);
             Console.ReadKey();
-
         }
     }
 }

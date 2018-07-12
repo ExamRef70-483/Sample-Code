@@ -23,6 +23,7 @@ namespace LISTING_4_7_Drive_information
                 }
                 Console.WriteLine();
             }
+            Console.ReadKey();
         }
     }
 }

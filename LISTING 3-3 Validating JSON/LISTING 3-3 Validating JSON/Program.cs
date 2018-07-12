@@ -27,11 +27,11 @@ namespace LISTING_3_3_Validating_JSON
     {
         static void Main(string[] args)
         {
-            string invalidJSON = "{\"Artist\":\"Rob Miles\",\"Title\":\"My Way\",\"Length\":150\"}";
+            string invalidJson = "{\"Artist\":\"Rob Miles\",\"Title\":\"My Way\",\"Length\":150\"}";
 
             try
             {
-                MusicTrack trackRead = JsonConvert.DeserializeObject<MusicTrack>(invalidJSON);
+                MusicTrack trackRead = JsonConvert.DeserializeObject<MusicTrack>(invalidJson);
                 Console.Write("Read back: ");
                 Console.WriteLine(trackRead);
             }

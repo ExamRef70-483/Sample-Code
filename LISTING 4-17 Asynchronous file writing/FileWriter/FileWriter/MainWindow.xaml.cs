@@ -14,7 +14,7 @@ namespace FileWriter
             InitializeComponent();
         }
 
-        async void writeBytesAsync(string filename, byte [] items)
+        async void WriteBytesAsync(string filename, byte[] items)
         {
             using (FileStream outStream = new FileStream(filename, FileMode.OpenOrCreate, FileAccess.Write))
             {
@@ -22,7 +22,7 @@ namespace FileWriter
             }
         }
 
-        void writeBytesSync(string filename, byte[] items)
+        void WriteBytesSync(string filename, byte[] items)
         {
             using (FileStream outStream = new FileStream(filename, FileMode.OpenOrCreate, FileAccess.Write))
             {
@@ -36,14 +36,14 @@ namespace FileWriter
 
             byte[] data = new byte[noOfValues];
 
-try
-{
-    writeBytesAsync("demo.dat", data);
-}
-catch (Exception writeException)
-{
-    MessageBox.Show(writeException.Message, "File write failed");
-}
+            try
+            {
+                WriteBytesAsync("demo.dat", data);
+            }
+            catch (Exception writeException)
+            {
+                MessageBox.Show(writeException.Message, "File write failed");
+            }
         }
 
         private void StartSyncButton_Click(object sender, RoutedEventArgs e)
@@ -52,7 +52,7 @@ catch (Exception writeException)
 
             byte[] data = new byte[noOfValues];
 
-            writeBytesSync("demo.dat", data);
+            WriteBytesSync("demo.dat", data);
         }
 
         private void TimeButton_Click(object sender, RoutedEventArgs e)

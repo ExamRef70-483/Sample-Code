@@ -16,7 +16,7 @@ namespace FileWriter
         }
 
         // Correct version that returns a task
-        async Task writeBytesAsyncTask(string filename, byte [] items)
+        async Task WriteBytesAsyncTask(string filename, byte [] items)
         {
             using (FileStream outStream = new FileStream(filename, FileMode.OpenOrCreate, FileAccess.Write))
             {
@@ -30,7 +30,7 @@ namespace FileWriter
 
             try
             {
-                await writeBytesAsyncTask("demo:.dat", data); // note that the filename is invalid
+                await WriteBytesAsyncTask("demo:.dat", data); // note that the filename is invalid
             }
             catch (Exception writeException)
             {
@@ -39,7 +39,7 @@ namespace FileWriter
         }
 
         // Incorrect version that is void
-        async void writeBytesAsyncVoid(string filename, byte[] items)
+        async void WriteBytesAsyncVoid(string filename, byte[] items)
         {
             using (FileStream outStream = new FileStream(filename, FileMode.OpenOrCreate, FileAccess.Write))
             {
@@ -53,7 +53,7 @@ namespace FileWriter
 
             try
             {
-                writeBytesAsyncVoid("demo:.dat", data);  // note that the filename is invalid
+                WriteBytesAsyncVoid("demo:.dat", data);  // note that the filename is invalid
             }
             catch (Exception writeException)
             {

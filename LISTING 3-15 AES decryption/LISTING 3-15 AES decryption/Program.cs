@@ -21,7 +21,7 @@ namespace LISTING_3_15_AES_decryption
             string plainText = "This is my super secret data";
 
             // byte array to hold the encrypted message
-            byte[] encryptedText;
+            byte[] cipherText;
 
             // byte array to hold the key that was used for encryption
             byte[] key;
@@ -58,7 +58,7 @@ namespace LISTING_3_15_AES_decryption
                             swEncrypt.Write(plainText);
                         }
                         // get the encrypted message from the stream
-                        encryptedText = encryptMemoryStream.ToArray();
+                        cipherText = encryptMemoryStream.ToArray();
                     }
                 }
 
@@ -69,7 +69,7 @@ namespace LISTING_3_15_AES_decryption
             Console.WriteLine("String to encrypt: {0}", plainText);
             dumpBytes("Key: ", key);
             dumpBytes("Initialization Vector: ", initializationVector);
-            dumpBytes("Encrypted: ", encryptedText);
+            dumpBytes("Encrypted: ", cipherText);
 
             // Now do the decryption
             string decryptedText;
@@ -84,7 +84,7 @@ namespace LISTING_3_15_AES_decryption
                 // Create a decryptor from aes
                 ICryptoTransform decryptor = aes.CreateDecryptor();
 
-                using (MemoryStream decryptStream = new MemoryStream(encryptedText))
+                using (MemoryStream decryptStream = new MemoryStream(cipherText))
                 {
                     using (CryptoStream decryptCryptoStream =
                         new CryptoStream(decryptStream, decryptor, CryptoStreamMode.Read))

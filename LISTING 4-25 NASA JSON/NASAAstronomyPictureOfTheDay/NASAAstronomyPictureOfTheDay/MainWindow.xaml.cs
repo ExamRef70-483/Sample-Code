@@ -47,7 +47,7 @@ namespace NASAAstronomyPictureOfTheDay
             public string url { get; set; }
         }
 
-        async Task<ImageOfDay> getImageOfDay(string imageURL)
+        async Task<ImageOfDay> GetImageOfDay(string imageURL)
         {
             string NASAJson = await readWebpage(imageURL);
 
@@ -60,7 +60,7 @@ namespace NASAAstronomyPictureOfTheDay
         {
             try
             {
-                ImageOfDay imageOfDay = await getImageOfDay("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2018-05-29");
+                ImageOfDay imageOfDay = await GetImageOfDay("https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY&date=2018-05-29");
 
                 if (imageOfDay.media_type != "image")
                 {

@@ -24,6 +24,25 @@ namespace LISTING_3_1_Creating_JSON
         }
     }
 
+
+    class ShortTrack
+    {
+        public string Artist { get; set; }
+        public string Title { get; set; }
+
+        // ToString that overrides the behavior in the base class
+        public override string ToString()
+        {
+            return Artist + " " + Title;
+        }
+
+        public ShortTrack(string artist, string title)
+        {
+            Artist = artist;
+            Title = title;
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
@@ -51,12 +70,12 @@ namespace LISTING_3_1_Creating_JSON
             Console.Write("JSON: ");
             Console.WriteLine(jsonArray);
 
-            List<MusicTrack> albumRead = JsonConvert.DeserializeObject<List<MusicTrack>>(jsonArray);
+            List<ShortTrack> albumRead = JsonConvert.DeserializeObject<List<ShortTrack>>(jsonArray);
 
             Console.WriteLine("Read back: ");
-            foreach (MusicTrack writeTrack in albumRead)
+            foreach (ShortTrack readTrack in albumRead)
             {
-                Console.WriteLine(writeTrack);
+                Console.WriteLine(readTrack);
             }
             Console.ReadKey();
         }

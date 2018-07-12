@@ -6,7 +6,7 @@ namespace LISTING_3_14_AES_encryption
 {
     class Program
     {
-        static void dumpBytes(string title, byte [] bytes)
+        static void DumpBytes(string title, byte [] bytes)
         {
             Console.Write(title);
             foreach (byte b in bytes)
@@ -21,7 +21,7 @@ namespace LISTING_3_14_AES_encryption
             string plainText = "This is my super secret data";
 
             // byte array to hold the encrypted message
-            byte[] encryptedText;
+            byte[] cypherText;
 
             // byte array to hold the key that was used for encryption
             byte[] key;
@@ -58,16 +58,16 @@ namespace LISTING_3_14_AES_encryption
                             swEncrypt.Write(plainText);
                         }
                         // get the encrypted message from the stream
-                        encryptedText = encryptMemoryStream.ToArray();
+                        cypherText = encryptMemoryStream.ToArray();
                     }
                 }
             }
 
             // Dump out our data
             Console.WriteLine("String to encrypt: {0}", plainText);
-            dumpBytes("Key: ", key);
-            dumpBytes("Initialization Vector: ", initializationVector);
-            dumpBytes("Encrypted: ", encryptedText);
+            DumpBytes("Key: ", key);
+            DumpBytes("Initialization Vector: ", initializationVector);
+            DumpBytes("Encrypted: ", cypherText);
 
             Console.ReadKey();
         }

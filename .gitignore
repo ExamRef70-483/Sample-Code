@@ -2,4 +2,11 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/config/applicationhost.config
+.vs
+#*.cache
+**/obj
+**/wwwroot
+**/bin
+/packages
+**/app/**/*.js*
+*.csproj.user

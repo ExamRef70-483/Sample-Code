@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-61 logical expressions\LISTING 1-61 logical expressions\bin\Debug\LISTING 1-61 logical expressions.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-61 logical expressions\LISTING 1-61 logical expressions\bin\Debug\LISTING 1-61 logical expressions.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-61 logical expressions\LISTING 1-61 logical expressions\bin\Debug\LISTING 1-61 logical expressions.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-61 logical expressions\LISTING 1-61 logical expressions\obj\Debug\LISTING 1-61 logical expressions.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-61 logical expressions\LISTING 1-61 logical expressions\obj\Debug\LISTING 1-61 logical expressions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-61 logical expressions\LISTING 1-61 logical expressions\obj\Debug\LISTING 1-61 logical expressions.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-61 logical expressions\LISTING 1-61 logical expressions\obj\Debug\LISTING 1-61 logical expressions.pdb

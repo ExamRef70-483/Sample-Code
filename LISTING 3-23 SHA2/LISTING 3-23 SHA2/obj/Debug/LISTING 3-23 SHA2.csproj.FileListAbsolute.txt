@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-23 SHA2\LISTING 3-23 SHA2\bin\Debug\LISTING 3-23 SHA2.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-23 SHA2\LISTING 3-23 SHA2\bin\Debug\LISTING 3-23 SHA2.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-23 SHA2\LISTING 3-23 SHA2\bin\Debug\LISTING 3-23 SHA2.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-23 SHA2\LISTING 3-23 SHA2\obj\Debug\LISTING 3-23 SHA2.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-23 SHA2\LISTING 3-23 SHA2\obj\Debug\LISTING 3-23 SHA2.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-23 SHA2\LISTING 3-23 SHA2\obj\Debug\LISTING 3-23 SHA2.pdb

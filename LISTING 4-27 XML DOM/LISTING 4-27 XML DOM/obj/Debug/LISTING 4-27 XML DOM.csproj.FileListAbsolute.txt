@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-27 XML DOM\LISTING 4-27 XML DOM\bin\Debug\LISTING 4-27 XML DOM.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-27 XML DOM\LISTING 4-27 XML DOM\bin\Debug\LISTING 4-27 XML DOM.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-27 XML DOM\LISTING 4-27 XML DOM\bin\Debug\LISTING 4-27 XML DOM.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-27 XML DOM\LISTING 4-27 XML DOM\obj\Debug\LISTING 4-27 XML DOM.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-27 XML DOM\LISTING 4-27 XML DOM\obj\Debug\LISTING 4-27 XML DOM.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-27 XML DOM\LISTING 4-27 XML DOM\obj\Debug\LISTING 4-27 XML DOM.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-27 XML DOM\LISTING 4-27 XML DOM\obj\Debug\LISTING 4-27 XML DOM.pdb

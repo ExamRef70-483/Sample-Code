@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-22 SQL injection\LISTING 4-22 SQL injection\bin\Debug\LISTING 4-22 SQL injection.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-22 SQL injection\LISTING 4-22 SQL injection\bin\Debug\LISTING 4-22 SQL injection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-22 SQL injection\LISTING 4-22 SQL injection\bin\Debug\LISTING 4-22 SQL injection.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-22 SQL injection\LISTING 4-22 SQL injection\obj\Debug\LISTING 4-22 SQL injection.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-22 SQL injection\LISTING 4-22 SQL injection\obj\Debug\LISTING 4-22 SQL injection.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-22 SQL injection\LISTING 4-22 SQL injection\obj\Debug\LISTING 4-22 SQL injection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-22 SQL injection\LISTING 4-22 SQL injection\obj\Debug\LISTING 4-22 SQL injection.pdb

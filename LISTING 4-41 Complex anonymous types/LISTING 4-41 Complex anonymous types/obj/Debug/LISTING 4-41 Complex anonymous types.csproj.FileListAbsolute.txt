@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-41 Complex anonymous types\LISTING 4-41 Complex anonymous types\bin\Debug\LISTING 4-41 Complex anonymous types.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-41 Complex anonymous types\LISTING 4-41 Complex anonymous types\bin\Debug\LISTING 4-41 Complex anonymous types.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-41 Complex anonymous types\LISTING 4-41 Complex anonymous types\bin\Debug\LISTING 4-41 Complex anonymous types.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-41 Complex anonymous types\LISTING 4-41 Complex anonymous types\obj\Debug\LISTING 4-41 Complex anonymous types.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-41 Complex anonymous types\LISTING 4-41 Complex anonymous types\obj\Debug\LISTING 4-41 Complex anonymous types.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-41 Complex anonymous types\LISTING 4-41 Complex anonymous types\obj\Debug\LISTING 4-41 Complex anonymous types.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-41 Complex anonymous types\LISTING 4-41 Complex anonymous types\obj\Debug\LISTING 4-41 Complex anonymous types.pdb

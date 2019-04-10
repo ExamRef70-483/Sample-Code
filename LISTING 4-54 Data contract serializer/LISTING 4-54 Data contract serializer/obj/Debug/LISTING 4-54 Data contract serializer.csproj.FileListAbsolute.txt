@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-54 Data contract serializer\LISTING 4-54 Data contract serializer\bin\Debug\LISTING 4-54 Data contract serializer.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-54 Data contract serializer\LISTING 4-54 Data contract serializer\bin\Debug\LISTING 4-54 Data contract serializer.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-54 Data contract serializer\LISTING 4-54 Data contract serializer\bin\Debug\LISTING 4-54 Data contract serializer.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-54 Data contract serializer\LISTING 4-54 Data contract serializer\obj\Debug\LISTING 4-54 Data contract serializer.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-54 Data contract serializer\LISTING 4-54 Data contract serializer\obj\Debug\LISTING 4-54 Data contract serializer.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-54 Data contract serializer\LISTING 4-54 Data contract serializer\obj\Debug\LISTING 4-54 Data contract serializer.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-54 Data contract serializer\LISTING 4-54 Data contract serializer\obj\Debug\LISTING 4-54 Data contract serializer.pdb

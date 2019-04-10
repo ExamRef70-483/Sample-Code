@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-2 FileStream and IDisposable\LISTING 4-2 FileStream and IDisposable\bin\Debug\LISTING 4-2 FileStream and IDisposable.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-2 FileStream and IDisposable\LISTING 4-2 FileStream and IDisposable\bin\Debug\LISTING 4-2 FileStream and IDisposable.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-2 FileStream and IDisposable\LISTING 4-2 FileStream and IDisposable\bin\Debug\LISTING 4-2 FileStream and IDisposable.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-2 FileStream and IDisposable\LISTING 4-2 FileStream and IDisposable\obj\Debug\LISTING 4-2 FileStream and IDisposable.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-2 FileStream and IDisposable\LISTING 4-2 FileStream and IDisposable\obj\Debug\LISTING 4-2 FileStream and IDisposable.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-2 FileStream and IDisposable\LISTING 4-2 FileStream and IDisposable\obj\Debug\LISTING 4-2 FileStream and IDisposable.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-2 FileStream and IDisposable\LISTING 4-2 FileStream and IDisposable\obj\Debug\LISTING 4-2 FileStream and IDisposable.pdb

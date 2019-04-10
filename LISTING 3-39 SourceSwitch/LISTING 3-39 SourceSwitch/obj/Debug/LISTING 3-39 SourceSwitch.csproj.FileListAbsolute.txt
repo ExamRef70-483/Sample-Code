@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-39 SourceSwitch\LISTING 3-39 SourceSwitch\bin\Debug\LISTING 3-39 SourceSwitch.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-39 SourceSwitch\LISTING 3-39 SourceSwitch\bin\Debug\LISTING 3-39 SourceSwitch.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-39 SourceSwitch\LISTING 3-39 SourceSwitch\bin\Debug\LISTING 3-39 SourceSwitch.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-39 SourceSwitch\LISTING 3-39 SourceSwitch\obj\Debug\LISTING 3-39 SourceSwitch.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-39 SourceSwitch\LISTING 3-39 SourceSwitch\obj\Debug\LISTING 3-39 SourceSwitch.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-39 SourceSwitch\LISTING 3-39 SourceSwitch\obj\Debug\LISTING 3-39 SourceSwitch.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-39 SourceSwitch\LISTING 3-39 SourceSwitch\obj\Debug\LISTING 3-39 SourceSwitch.pdb

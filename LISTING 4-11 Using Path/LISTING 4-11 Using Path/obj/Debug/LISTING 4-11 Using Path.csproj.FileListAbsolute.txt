@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-11 Using Path\LISTING 4-11 Using Path\bin\Debug\LISTING 4-11 Using Path.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-11 Using Path\LISTING 4-11 Using Path\bin\Debug\LISTING 4-11 Using Path.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-11 Using Path\LISTING 4-11 Using Path\bin\Debug\LISTING 4-11 Using Path.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-11 Using Path\LISTING 4-11 Using Path\obj\Debug\LISTING 4-11 Using Path.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-11 Using Path\LISTING 4-11 Using Path\obj\Debug\LISTING 4-11 Using Path.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-11 Using Path\LISTING 4-11 Using Path\obj\Debug\LISTING 4-11 Using Path.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-11 Using Path\LISTING 4-11 Using Path\obj\Debug\LISTING 4-11 Using Path.pdb

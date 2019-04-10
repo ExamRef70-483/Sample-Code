@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-71 Enumerate string\LISTING 2-71 Enumerate string\bin\Debug\LISTING 2-71 Enumerate string.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-71 Enumerate string\LISTING 2-71 Enumerate string\bin\Debug\LISTING 2-71 Enumerate string.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-71 Enumerate string\LISTING 2-71 Enumerate string\bin\Debug\LISTING 2-71 Enumerate string.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-71 Enumerate string\LISTING 2-71 Enumerate string\obj\Debug\LISTING 2-71 Enumerate string.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-71 Enumerate string\LISTING 2-71 Enumerate string\obj\Debug\LISTING 2-71 Enumerate string.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-71 Enumerate string\LISTING 2-71 Enumerate string\obj\Debug\LISTING 2-71 Enumerate string.pdb

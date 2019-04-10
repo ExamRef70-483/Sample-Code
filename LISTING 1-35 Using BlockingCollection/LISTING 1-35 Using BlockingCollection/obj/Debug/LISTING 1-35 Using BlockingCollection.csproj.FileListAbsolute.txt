@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\bin\Debug\LISTING 1-35 Using BlockingCollection.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\bin\Debug\LISTING 1-35 Using BlockingCollection.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\bin\Debug\LISTING 1-35 Using BlockingCollection.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-35 Using BlockingCollection\LISTING 1-35 Using BlockingCollection\obj\Debug\LISTING 1-35 Using BlockingCollection.pdb

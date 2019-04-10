@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-51 Binary versions\LISTING 4-51 Binary versions\bin\Debug\LISTING 4-51 Binary versions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-51 Binary versions\LISTING 4-51 Binary versions\bin\Debug\LISTING 4-51 Binary versions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-51 Binary versions\LISTING 4-51 Binary versions\bin\Debug\LISTING 4-51 Binary versions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-51 Binary versions\LISTING 4-51 Binary versions\obj\Debug\LISTING 4-51 Binary versions.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-51 Binary versions\LISTING 4-51 Binary versions\obj\Debug\LISTING 4-51 Binary versions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-51 Binary versions\LISTING 4-51 Binary versions\obj\Debug\LISTING 4-51 Binary versions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-51 Binary versions\LISTING 4-51 Binary versions\obj\Debug\LISTING 4-51 Binary versions.pdb

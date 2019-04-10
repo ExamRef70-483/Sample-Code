@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-19 Method overriding\LISTING 2-19 Method overriding\bin\Debug\LISTING 2-19 Method overriding.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-19 Method overriding\LISTING 2-19 Method overriding\bin\Debug\LISTING 2-19 Method overriding.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-19 Method overriding\LISTING 2-19 Method overriding\bin\Debug\LISTING 2-19 Method overriding.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-19 Method overriding\LISTING 2-19 Method overriding\obj\Debug\LISTING 2-19 Method overriding.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-19 Method overriding\LISTING 2-19 Method overriding\obj\Debug\LISTING 2-19 Method overriding.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-19 Method overriding\LISTING 2-19 Method overriding\obj\Debug\LISTING 2-19 Method overriding.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-19 Method overriding\LISTING 2-19 Method overriding\obj\Debug\LISTING 2-19 Method overriding.pdb

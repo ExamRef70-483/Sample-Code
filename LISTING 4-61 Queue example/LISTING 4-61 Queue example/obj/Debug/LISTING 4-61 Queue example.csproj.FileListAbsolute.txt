@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-61 Queue example\LISTING 4-61 Queue example\bin\Debug\LISTING 4-61 Queue example.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-61 Queue example\LISTING 4-61 Queue example\bin\Debug\LISTING 4-61 Queue example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-61 Queue example\LISTING 4-61 Queue example\bin\Debug\LISTING 4-61 Queue example.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-61 Queue example\LISTING 4-61 Queue example\obj\Debug\LISTING 4-61 Queue example.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-61 Queue example\LISTING 4-61 Queue example\obj\Debug\LISTING 4-61 Queue example.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-61 Queue example\LISTING 4-61 Queue example\obj\Debug\LISTING 4-61 Queue example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-61 Queue example\LISTING 4-61 Queue example\obj\Debug\LISTING 4-61 Queue example.pdb

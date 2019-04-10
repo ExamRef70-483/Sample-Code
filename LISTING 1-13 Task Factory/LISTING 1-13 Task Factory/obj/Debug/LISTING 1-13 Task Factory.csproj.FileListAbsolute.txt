@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-13 Task Factory\LISTING 1-13 Task Factory\bin\Debug\LISTING 1-13 Task Factory.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-13 Task Factory\LISTING 1-13 Task Factory\bin\Debug\LISTING 1-13 Task Factory.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-13 Task Factory\LISTING 1-13 Task Factory\bin\Debug\LISTING 1-13 Task Factory.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-13 Task Factory\LISTING 1-13 Task Factory\obj\Debug\LISTING 1-13 Task Factory.csprojAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-13 Task Factory\LISTING 1-13 Task Factory\obj\Debug\LISTING 1-13 Task Factory.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-13 Task Factory\LISTING 1-13 Task Factory\obj\Debug\LISTING 1-13 Task Factory.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-13 Task Factory\LISTING 1-13 Task Factory\obj\Debug\LISTING 1-13 Task Factory.pdb

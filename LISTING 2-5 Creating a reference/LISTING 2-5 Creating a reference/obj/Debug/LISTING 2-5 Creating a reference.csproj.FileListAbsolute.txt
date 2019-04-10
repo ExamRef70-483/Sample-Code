@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-5 Creating a reference\LISTING 2-5 Creating a reference\bin\Debug\LISTING 2-5 Creating a reference.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-5 Creating a reference\LISTING 2-5 Creating a reference\bin\Debug\LISTING 2-5 Creating a reference.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-5 Creating a reference\LISTING 2-5 Creating a reference\bin\Debug\LISTING 2-5 Creating a reference.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-5 Creating a reference\LISTING 2-5 Creating a reference\obj\Debug\LISTING 2-5 Creating a reference.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-5 Creating a reference\LISTING 2-5 Creating a reference\obj\Debug\LISTING 2-5 Creating a reference.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-5 Creating a reference\LISTING 2-5 Creating a reference\obj\Debug\LISTING 2-5 Creating a reference.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-69 ICollection interface\LISTING 4-69 ICollection interface\bin\Debug\LISTING 4-69 ICollection interface.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-69 ICollection interface\LISTING 4-69 ICollection interface\bin\Debug\LISTING 4-69 ICollection interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-69 ICollection interface\LISTING 4-69 ICollection interface\bin\Debug\LISTING 4-69 ICollection interface.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-69 ICollection interface\LISTING 4-69 ICollection interface\obj\Debug\LISTING 4-69 ICollection interface.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-69 ICollection interface\LISTING 4-69 ICollection interface\obj\Debug\LISTING 4-69 ICollection interface.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-69 ICollection interface\LISTING 4-69 ICollection interface\obj\Debug\LISTING 4-69 ICollection interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-69 ICollection interface\LISTING 4-69 ICollection interface\obj\Debug\LISTING 4-69 ICollection interface.pdb

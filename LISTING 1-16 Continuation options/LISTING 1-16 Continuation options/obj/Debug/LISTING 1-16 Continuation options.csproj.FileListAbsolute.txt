@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-16 Continuation options\LISTING 1-16 Continuation options\bin\Debug\LISTING 1-16 Continuation options.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-16 Continuation options\LISTING 1-16 Continuation options\bin\Debug\LISTING 1-16 Continuation options.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-16 Continuation options\LISTING 1-16 Continuation options\bin\Debug\LISTING 1-16 Continuation options.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-16 Continuation options\LISTING 1-16 Continuation options\obj\Debug\LISTING 1-16 Continuation options.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-16 Continuation options\LISTING 1-16 Continuation options\obj\Debug\LISTING 1-16 Continuation options.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-16 Continuation options\LISTING 1-16 Continuation options\obj\Debug\LISTING 1-16 Continuation options.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-16 Continuation options\LISTING 1-16 Continuation options\obj\Debug\LISTING 1-16 Continuation options.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-26 XML elements\LISTING 4-26 XML elements\bin\Debug\LISTING 4-26 XML elements.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-26 XML elements\LISTING 4-26 XML elements\bin\Debug\LISTING 4-26 XML elements.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-26 XML elements\LISTING 4-26 XML elements\bin\Debug\LISTING 4-26 XML elements.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-26 XML elements\LISTING 4-26 XML elements\obj\Debug\LISTING 4-26 XML elements.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-26 XML elements\LISTING 4-26 XML elements\obj\Debug\LISTING 4-26 XML elements.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-26 XML elements\LISTING 4-26 XML elements\obj\Debug\LISTING 4-26 XML elements.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-26 XML elements\LISTING 4-26 XML elements\obj\Debug\LISTING 4-26 XML elements.pdb

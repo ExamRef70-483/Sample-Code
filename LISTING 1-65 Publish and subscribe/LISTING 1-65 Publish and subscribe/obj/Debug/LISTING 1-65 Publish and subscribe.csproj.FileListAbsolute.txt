@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\bin\Debug\LISTING 1-65 Publish and subscribe.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\bin\Debug\LISTING 1-65 Publish and subscribe.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\bin\Debug\LISTING 1-65 Publish and subscribe.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-65 Publish and subscribe\LISTING 1-65 Publish and subscribe\obj\Debug\LISTING 1-65 Publish and subscribe.pdb

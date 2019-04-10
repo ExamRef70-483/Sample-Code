@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-55 iterate with for\LISTING 1-55 iterate with for\bin\Debug\LISTING 1-55 iterate with for.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-55 iterate with for\LISTING 1-55 iterate with for\bin\Debug\LISTING 1-55 iterate with for.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-55 iterate with for\LISTING 1-55 iterate with for\bin\Debug\LISTING 1-55 iterate with for.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-55 iterate with for\LISTING 1-55 iterate with for\obj\Debug\LISTING 1-55 iterate with for.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-55 iterate with for\LISTING 1-55 iterate with for\obj\Debug\LISTING 1-55 iterate with for.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-55 iterate with for\LISTING 1-55 iterate with for\obj\Debug\LISTING 1-55 iterate with for.pdb

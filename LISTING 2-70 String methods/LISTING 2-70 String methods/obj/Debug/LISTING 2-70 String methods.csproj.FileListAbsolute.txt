@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-70 String methods\LISTING 2-70 String methods\bin\Debug\LISTING 2-70 String methods.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-70 String methods\LISTING 2-70 String methods\bin\Debug\LISTING 2-70 String methods.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-70 String methods\LISTING 2-70 String methods\bin\Debug\LISTING 2-70 String methods.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-70 String methods\LISTING 2-70 String methods\obj\Debug\LISTING 2-70 String methods.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-70 String methods\LISTING 2-70 String methods\obj\Debug\LISTING 2-70 String methods.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-70 String methods\LISTING 2-70 String methods\obj\Debug\LISTING 2-70 String methods.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-70 String methods\LISTING 2-70 String methods\obj\Debug\LISTING 2-70 String methods.pdb

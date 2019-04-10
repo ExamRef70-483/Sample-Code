@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-76 try catch\LISTING 1-76 try catch\bin\Debug\LISTING 1-76 try catch.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-76 try catch\LISTING 1-76 try catch\bin\Debug\LISTING 1-76 try catch.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-76 try catch\LISTING 1-76 try catch\bin\Debug\LISTING 1-76 try catch.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-76 try catch\LISTING 1-76 try catch\obj\Debug\LISTING 1-76 try catch.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-76 try catch\LISTING 1-76 try catch\obj\Debug\LISTING 1-76 try catch.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-76 try catch\LISTING 1-76 try catch\obj\Debug\LISTING 1-76 try catch.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-76 try catch\LISTING 1-76 try catch\obj\Debug\LISTING 1-76 try catch.pdb

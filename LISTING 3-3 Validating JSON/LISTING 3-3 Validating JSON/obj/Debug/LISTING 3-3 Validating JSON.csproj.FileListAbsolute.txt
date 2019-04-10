@@ -1,9 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\LISTING 3-3 Validating JSON.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\LISTING 3-3 Validating JSON.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\LISTING 3-3 Validating JSON.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\Newtonsoft.Json.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-3 Validating JSON\LISTING 3-3 Validating JSON\obj\Debug\LISTING 3-3 Validating JSON.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-42 Force query execution\LISTING 4-42 Force query execution\bin\Debug\LISTING 4-42 Force query execution.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-42 Force query execution\LISTING 4-42 Force query execution\bin\Debug\LISTING 4-42 Force query execution.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-42 Force query execution\LISTING 4-42 Force query execution\bin\Debug\LISTING 4-42 Force query execution.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-42 Force query execution\LISTING 4-42 Force query execution\obj\Debug\LISTING 4-42 Force query execution.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-42 Force query execution\LISTING 4-42 Force query execution\obj\Debug\LISTING 4-42 Force query execution.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-42 Force query execution\LISTING 4-42 Force query execution\obj\Debug\LISTING 4-42 Force query execution.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-42 Force query execution\LISTING 4-42 Force query execution\obj\Debug\LISTING 4-42 Force query execution.pdb

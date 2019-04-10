@@ -1,1 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-16 HttpClient\PageViewer\PageViewer\PageViewer.csproj;x86

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-6 Stream exceptions\LISTING 4-6 Stream exceptions\bin\Debug\LISTING 4-6 Stream exceptions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-6 Stream exceptions\LISTING 4-6 Stream exceptions\bin\Debug\LISTING 4-6 Stream exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-6 Stream exceptions\LISTING 4-6 Stream exceptions\bin\Debug\LISTING 4-6 Stream exceptions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-6 Stream exceptions\LISTING 4-6 Stream exceptions\obj\Debug\LISTING 4-6 Stream exceptions.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-6 Stream exceptions\LISTING 4-6 Stream exceptions\obj\Debug\LISTING 4-6 Stream exceptions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-6 Stream exceptions\LISTING 4-6 Stream exceptions\obj\Debug\LISTING 4-6 Stream exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-6 Stream exceptions\LISTING 4-6 Stream exceptions\obj\Debug\LISTING 4-6 Stream exceptions.pdb

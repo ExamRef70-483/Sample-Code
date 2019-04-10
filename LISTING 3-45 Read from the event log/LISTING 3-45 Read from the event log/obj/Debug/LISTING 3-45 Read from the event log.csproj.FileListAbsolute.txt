@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-45 Read from the event log\LISTING 3-45 Read from the event log\bin\Debug\LISTING 3-45 Read from the event log.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-45 Read from the event log\LISTING 3-45 Read from the event log\bin\Debug\LISTING 3-45 Read from the event log.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-45 Read from the event log\LISTING 3-45 Read from the event log\bin\Debug\LISTING 3-45 Read from the event log.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-45 Read from the event log\LISTING 3-45 Read from the event log\obj\Debug\LISTING 3-45 Read from the event log.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-45 Read from the event log\LISTING 3-45 Read from the event log\obj\Debug\LISTING 3-45 Read from the event log.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-45 Read from the event log\LISTING 3-45 Read from the event log\obj\Debug\LISTING 3-45 Read from the event log.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-45 Read from the event log\LISTING 3-45 Read from the event log\obj\Debug\LISTING 3-45 Read from the event log.pdb

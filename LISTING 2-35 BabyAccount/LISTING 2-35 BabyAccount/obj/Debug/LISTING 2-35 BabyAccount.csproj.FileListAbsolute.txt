@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-35 BabyAccount\LISTING 2-35 BabyAccount\bin\Debug\LISTING 2-35 BabyAccount.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-35 BabyAccount\LISTING 2-35 BabyAccount\bin\Debug\LISTING 2-35 BabyAccount.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-35 BabyAccount\LISTING 2-35 BabyAccount\bin\Debug\LISTING 2-35 BabyAccount.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-35 BabyAccount\LISTING 2-35 BabyAccount\obj\Debug\LISTING 2-35 BabyAccount.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-35 BabyAccount\LISTING 2-35 BabyAccount\obj\Debug\LISTING 2-35 BabyAccount.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-35 BabyAccount\LISTING 2-35 BabyAccount\obj\Debug\LISTING 2-35 BabyAccount.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-35 BabyAccount\LISTING 2-35 BabyAccount\obj\Debug\LISTING 2-35 BabyAccount.pdb

@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-68 StringWriter\LISTING 2-68 StringWriter\bin\Debug\LISTING 2-68 StringWriter.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-68 StringWriter\LISTING 2-68 StringWriter\bin\Debug\LISTING 2-68 StringWriter.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-68 StringWriter\LISTING 2-68 StringWriter\bin\Debug\LISTING 2-68 StringWriter.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-68 StringWriter\LISTING 2-68 StringWriter\obj\Debug\LISTING 2-68 StringWriter.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-68 StringWriter\LISTING 2-68 StringWriter\obj\Debug\LISTING 2-68 StringWriter.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-68 StringWriter\LISTING 2-68 StringWriter\obj\Debug\LISTING 2-68 StringWriter.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-68 StringWriter\LISTING 2-68 StringWriter\obj\Debug\LISTING 2-68 StringWriter.pdb

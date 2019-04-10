@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-28 Thread pool\LISTING 1-28 Thread pool\bin\Debug\LISTING 1-28 Thread pool.exe.config
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-28 Thread pool\LISTING 1-28 Thread pool\bin\Debug\LISTING 1-28 Thread pool.exe
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-28 Thread pool\LISTING 1-28 Thread pool\bin\Debug\LISTING 1-28 Thread pool.pdb
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-28 Thread pool\LISTING 1-28 Thread pool\obj\Debug\LISTING 1-28 Thread pool.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-28 Thread pool\LISTING 1-28 Thread pool\obj\Debug\LISTING 1-28 Thread pool.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-28 Thread pool\LISTING 1-28 Thread pool\obj\Debug\LISTING 1-28 Thread pool.exe
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-28 Thread pool\LISTING 1-28 Thread pool\obj\Debug\LISTING 1-28 Thread pool.pdb

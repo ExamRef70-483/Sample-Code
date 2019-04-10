@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-72 Format strings\LISTING 2-72 Format strings\bin\Debug\LISTING 2-72 Format strings.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-72 Format strings\LISTING 2-72 Format strings\bin\Debug\LISTING 2-72 Format strings.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-72 Format strings\LISTING 2-72 Format strings\bin\Debug\LISTING 2-72 Format strings.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-72 Format strings\LISTING 2-72 Format strings\obj\Debug\LISTING 2-72 Format strings.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-72 Format strings\LISTING 2-72 Format strings\obj\Debug\LISTING 2-72 Format strings.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-72 Format strings\LISTING 2-72 Format strings\obj\Debug\LISTING 2-72 Format strings.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-72 Format strings\LISTING 2-72 Format strings\obj\Debug\LISTING 2-72 Format strings.pdb

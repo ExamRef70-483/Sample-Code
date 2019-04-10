@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-12 Using Convert\LISTING 3-12 Using Convert\bin\Debug\LISTING 3-12 Using Convert.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-12 Using Convert\LISTING 3-12 Using Convert\bin\Debug\LISTING 3-12 Using Convert.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-12 Using Convert\LISTING 3-12 Using Convert\bin\Debug\LISTING 3-12 Using Convert.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-12 Using Convert\LISTING 3-12 Using Convert\obj\Debug\LISTING 3-12 Using Convert.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-12 Using Convert\LISTING 3-12 Using Convert\obj\Debug\LISTING 3-12 Using Convert.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-12 Using Convert\LISTING 3-12 Using Convert\obj\Debug\LISTING 3-12 Using Convert.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-12 Using Convert\LISTING 3-12 Using Convert\obj\Debug\LISTING 3-12 Using Convert.csprojResolveAssemblyReference.cache

@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-40 Concurrent dictionary\LISTING 1-40 Concurrent dictionary\bin\Debug\LISTING 1-40 Concurrent dictionary.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-40 Concurrent dictionary\LISTING 1-40 Concurrent dictionary\bin\Debug\LISTING 1-40 Concurrent dictionary.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-40 Concurrent dictionary\LISTING 1-40 Concurrent dictionary\bin\Debug\LISTING 1-40 Concurrent dictionary.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-40 Concurrent dictionary\LISTING 1-40 Concurrent dictionary\obj\Debug\LISTING 1-40 Concurrent dictionary.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-40 Concurrent dictionary\LISTING 1-40 Concurrent dictionary\obj\Debug\LISTING 1-40 Concurrent dictionary.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-40 Concurrent dictionary\LISTING 1-40 Concurrent dictionary\obj\Debug\LISTING 1-40 Concurrent dictionary.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-40 Concurrent dictionary\LISTING 1-40 Concurrent dictionary\obj\Debug\LISTING 1-40 Concurrent dictionary.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query\bin\Debug\LISTING 4-23 Parameterized query.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query\bin\Debug\LISTING 4-23 Parameterized query.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query\bin\Debug\LISTING 4-23 Parameterized query.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query\obj\Debug\LISTING 4-23 Parameterized query.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query\obj\Debug\LISTING 4-23 Parameterized query.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query\obj\Debug\LISTING 4-23 Parameterized query.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-23 Parameterized query\LISTING 4-23 Parameterized query\obj\Debug\LISTING 4-23 Parameterized query.pdb

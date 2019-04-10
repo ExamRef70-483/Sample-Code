@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-68 EventHandler alarm\LISTING 1-68 EventHandler alarm\bin\Debug\LISTING 1-68 EventHandler alarm.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-68 EventHandler alarm\LISTING 1-68 EventHandler alarm\bin\Debug\LISTING 1-68 EventHandler alarm.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-68 EventHandler alarm\LISTING 1-68 EventHandler alarm\bin\Debug\LISTING 1-68 EventHandler alarm.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-68 EventHandler alarm\LISTING 1-68 EventHandler alarm\obj\Debug\LISTING 1-68 EventHandler alarm.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-68 EventHandler alarm\LISTING 1-68 EventHandler alarm\obj\Debug\LISTING 1-68 EventHandler alarm.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-68 EventHandler alarm\LISTING 1-68 EventHandler alarm\obj\Debug\LISTING 1-68 EventHandler alarm.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-68 EventHandler alarm\LISTING 1-68 EventHandler alarm\obj\Debug\LISTING 1-68 EventHandler alarm.pdb

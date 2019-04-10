@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-63 Switching on strings\LISTING 1-63 Switching on strings\bin\Debug\LISTING 1-63 Switching on strings.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-63 Switching on strings\LISTING 1-63 Switching on strings\bin\Debug\LISTING 1-63 Switching on strings.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-63 Switching on strings\LISTING 1-63 Switching on strings\bin\Debug\LISTING 1-63 Switching on strings.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-63 Switching on strings\LISTING 1-63 Switching on strings\obj\Debug\LISTING 1-63 Switching on strings.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-63 Switching on strings\LISTING 1-63 Switching on strings\obj\Debug\LISTING 1-63 Switching on strings.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-63 Switching on strings\LISTING 1-63 Switching on strings\obj\Debug\LISTING 1-63 Switching on strings.pdb

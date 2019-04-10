@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-28 Web Service\JokeOfTheDay\JokeOfTheDay\bin\JokeOfTheDay.dll.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-28 Web Service\JokeOfTheDay\JokeOfTheDay\bin\JokeOfTheDay.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-28 Web Service\JokeOfTheDay\JokeOfTheDay\bin\JokeOfTheDay.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-28 Web Service\JokeOfTheDay\JokeOfTheDay\obj\Debug\JokeOfTheDay.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-28 Web Service\JokeOfTheDay\JokeOfTheDay\obj\Debug\JokeOfTheDay.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-28 Web Service\JokeOfTheDay\JokeOfTheDay\obj\Debug\JokeOfTheDay.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-28 Web Service\JokeOfTheDay\JokeOfTheDay\obj\Debug\JokeOfTheDay.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-40 Typed IComparable\LISTING 2-40 Typed IComparable\bin\Debug\LISTING 2-40 Typed IComparable.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-40 Typed IComparable\LISTING 2-40 Typed IComparable\bin\Debug\LISTING 2-40 Typed IComparable.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-40 Typed IComparable\LISTING 2-40 Typed IComparable\bin\Debug\LISTING 2-40 Typed IComparable.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-40 Typed IComparable\LISTING 2-40 Typed IComparable\obj\Debug\LISTING 2-40 Typed IComparable.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-40 Typed IComparable\LISTING 2-40 Typed IComparable\obj\Debug\LISTING 2-40 Typed IComparable.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-40 Typed IComparable\LISTING 2-40 Typed IComparable\obj\Debug\LISTING 2-40 Typed IComparable.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-40 Typed IComparable\LISTING 2-40 Typed IComparable\obj\Debug\LISTING 2-40 Typed IComparable.pdb

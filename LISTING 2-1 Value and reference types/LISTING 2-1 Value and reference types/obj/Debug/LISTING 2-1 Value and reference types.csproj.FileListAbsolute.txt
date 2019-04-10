@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-1 Value and reference types\LISTING 2-1 Value and reference types\bin\Debug\LISTING 2-1 Value and reference types.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-1 Value and reference types\LISTING 2-1 Value and reference types\bin\Debug\LISTING 2-1 Value and reference types.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-1 Value and reference types\LISTING 2-1 Value and reference types\bin\Debug\LISTING 2-1 Value and reference types.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-1 Value and reference types\LISTING 2-1 Value and reference types\obj\Debug\LISTING 2-1 Value and reference types.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-1 Value and reference types\LISTING 2-1 Value and reference types\obj\Debug\LISTING 2-1 Value and reference types.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-1 Value and reference types\LISTING 2-1 Value and reference types\obj\Debug\LISTING 2-1 Value and reference types.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-1 Value and reference types\LISTING 2-1 Value and reference types\obj\Debug\LISTING 2-1 Value and reference types.pdb

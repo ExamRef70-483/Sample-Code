@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-31 Line numbers\LISTING 3-31 Line numbers\bin\Debug\LISTING 3-31 Line numbers.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-31 Line numbers\LISTING 3-31 Line numbers\bin\Debug\LISTING 3-31 Line numbers.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-31 Line numbers\LISTING 3-31 Line numbers\bin\Debug\LISTING 3-31 Line numbers.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-31 Line numbers\LISTING 3-31 Line numbers\obj\Debug\LISTING 3-31 Line numbers.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-31 Line numbers\LISTING 3-31 Line numbers\obj\Debug\LISTING 3-31 Line numbers.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-31 Line numbers\LISTING 3-31 Line numbers\obj\Debug\LISTING 3-31 Line numbers.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-31 Line numbers\LISTING 3-31 Line numbers\obj\Debug\LISTING 3-31 Line numbers.pdb

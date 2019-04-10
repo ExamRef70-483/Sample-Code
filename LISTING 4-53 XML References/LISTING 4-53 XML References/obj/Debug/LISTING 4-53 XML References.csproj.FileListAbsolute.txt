@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\bin\Debug\LISTING 4-53 XML References.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\bin\Debug\LISTING 4-53 XML References.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\bin\Debug\LISTING 4-53 XML References.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-53 XML References\LISTING 4-53 XML References\obj\Debug\LISTING 4-53 XML References.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-42 Read performance counters\LISTING 3-42 Read performance counters\bin\Debug\LISTING 3-42 Read performance counters.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-42 Read performance counters\LISTING 3-42 Read performance counters\bin\Debug\LISTING 3-42 Read performance counters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-42 Read performance counters\LISTING 3-42 Read performance counters\bin\Debug\LISTING 3-42 Read performance counters.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-42 Read performance counters\LISTING 3-42 Read performance counters\obj\Debug\LISTING 3-42 Read performance counters.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-42 Read performance counters\LISTING 3-42 Read performance counters\obj\Debug\LISTING 3-42 Read performance counters.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-42 Read performance counters\LISTING 3-42 Read performance counters\obj\Debug\LISTING 3-42 Read performance counters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-42 Read performance counters\LISTING 3-42 Read performance counters\obj\Debug\LISTING 3-42 Read performance counters.pdb

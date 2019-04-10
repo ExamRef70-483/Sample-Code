@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-29 Conditional compilation\LISTING 3-29 Conditional compilation\bin\Debug\LISTING 3-29 Conditional compilation.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-29 Conditional compilation\LISTING 3-29 Conditional compilation\bin\Debug\LISTING 3-29 Conditional compilation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-29 Conditional compilation\LISTING 3-29 Conditional compilation\bin\Debug\LISTING 3-29 Conditional compilation.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-29 Conditional compilation\LISTING 3-29 Conditional compilation\obj\Debug\LISTING 3-29 Conditional compilation.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-29 Conditional compilation\LISTING 3-29 Conditional compilation\obj\Debug\LISTING 3-29 Conditional compilation.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-29 Conditional compilation\LISTING 3-29 Conditional compilation\obj\Debug\LISTING 3-29 Conditional compilation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-29 Conditional compilation\LISTING 3-29 Conditional compilation\obj\Debug\LISTING 3-29 Conditional compilation.pdb

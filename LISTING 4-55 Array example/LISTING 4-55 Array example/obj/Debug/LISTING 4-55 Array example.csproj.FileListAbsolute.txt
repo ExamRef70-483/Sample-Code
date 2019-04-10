@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-55 Array example\LISTING 4-55 Array example\bin\Debug\LISTING 4-55 Array example.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-55 Array example\LISTING 4-55 Array example\bin\Debug\LISTING 4-55 Array example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-55 Array example\LISTING 4-55 Array example\bin\Debug\LISTING 4-55 Array example.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-55 Array example\LISTING 4-55 Array example\obj\Debug\LISTING 4-55 Array example.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-55 Array example\LISTING 4-55 Array example\obj\Debug\LISTING 4-55 Array example.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-55 Array example\LISTING 4-55 Array example\obj\Debug\LISTING 4-55 Array example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-55 Array example\LISTING 4-55 Array example\obj\Debug\LISTING 4-55 Array example.pdb

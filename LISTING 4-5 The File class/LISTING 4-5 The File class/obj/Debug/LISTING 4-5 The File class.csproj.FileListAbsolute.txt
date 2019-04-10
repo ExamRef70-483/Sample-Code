@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-5 The File class\LISTING 4-5 The File class\bin\Debug\LISTING 4-5 The File class.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-5 The File class\LISTING 4-5 The File class\bin\Debug\LISTING 4-5 The File class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-5 The File class\LISTING 4-5 The File class\bin\Debug\LISTING 4-5 The File class.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-5 The File class\LISTING 4-5 The File class\obj\Debug\LISTING 4-5 The File class.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-5 The File class\LISTING 4-5 The File class\obj\Debug\LISTING 4-5 The File class.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-5 The File class\LISTING 4-5 The File class\obj\Debug\LISTING 4-5 The File class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-5 The File class\LISTING 4-5 The File class\obj\Debug\LISTING 4-5 The File class.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-12 C sharp programs\LISTING 4-12 C sharp programs\bin\Debug\LISTING 4-12 C sharp programs.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-12 C sharp programs\LISTING 4-12 C sharp programs\bin\Debug\LISTING 4-12 C sharp programs.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-12 C sharp programs\LISTING 4-12 C sharp programs\bin\Debug\LISTING 4-12 C sharp programs.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-12 C sharp programs\LISTING 4-12 C sharp programs\obj\Debug\LISTING 4-12 C sharp programs.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-12 C sharp programs\LISTING 4-12 C sharp programs\obj\Debug\LISTING 4-12 C sharp programs.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-12 C sharp programs\LISTING 4-12 C sharp programs\obj\Debug\LISTING 4-12 C sharp programs.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-12 C sharp programs\LISTING 4-12 C sharp programs\obj\Debug\LISTING 4-12 C sharp programs.pdb

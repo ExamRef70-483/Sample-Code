@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-36 Overridden WithdrawFunds\LISTING 2-36 Overridden WithdrawFunds\bin\Debug\LISTING 2-36 Overridden WithdrawFunds.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-36 Overridden WithdrawFunds\LISTING 2-36 Overridden WithdrawFunds\bin\Debug\LISTING 2-36 Overridden WithdrawFunds.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-36 Overridden WithdrawFunds\LISTING 2-36 Overridden WithdrawFunds\bin\Debug\LISTING 2-36 Overridden WithdrawFunds.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-36 Overridden WithdrawFunds\LISTING 2-36 Overridden WithdrawFunds\obj\Debug\LISTING 2-36 Overridden WithdrawFunds.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-36 Overridden WithdrawFunds\LISTING 2-36 Overridden WithdrawFunds\obj\Debug\LISTING 2-36 Overridden WithdrawFunds.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-36 Overridden WithdrawFunds\LISTING 2-36 Overridden WithdrawFunds\obj\Debug\LISTING 2-36 Overridden WithdrawFunds.pdb

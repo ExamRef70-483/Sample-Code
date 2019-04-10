@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-57 CodeDOM object\LISTING 2-57 CodeDOM object\bin\Debug\LISTING 2-57 CodeDOM object.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-57 CodeDOM object\LISTING 2-57 CodeDOM object\bin\Debug\LISTING 2-57 CodeDOM object.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-57 CodeDOM object\LISTING 2-57 CodeDOM object\bin\Debug\LISTING 2-57 CodeDOM object.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-57 CodeDOM object\LISTING 2-57 CodeDOM object\obj\Debug\LISTING 2-57 CodeDOM object.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-57 CodeDOM object\LISTING 2-57 CodeDOM object\obj\Debug\LISTING 2-57 CodeDOM object.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-57 CodeDOM object\LISTING 2-57 CodeDOM object\obj\Debug\LISTING 2-57 CodeDOM object.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-57 CodeDOM object\LISTING 2-57 CodeDOM object\obj\Debug\LISTING 2-57 CodeDOM object.pdb

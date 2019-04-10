@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\bin\Debug\LISTING 1-72 Lambda expressions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\bin\Debug\LISTING 1-72 Lambda expressions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\bin\Debug\LISTING 1-72 Lambda expressions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-72 Lambda expressions\LISTING 1-72 Lambda expressions\obj\Debug\LISTING 1-72 Lambda expressions.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-38 BankAccount constructor\LISTING 2-38 BankAccount constructor\bin\Debug\LISTING 2-38 BankAccount constructor.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-38 BankAccount constructor\LISTING 2-38 BankAccount constructor\bin\Debug\LISTING 2-38 BankAccount constructor.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-38 BankAccount constructor\LISTING 2-38 BankAccount constructor\bin\Debug\LISTING 2-38 BankAccount constructor.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-38 BankAccount constructor\LISTING 2-38 BankAccount constructor\obj\Debug\LISTING 2-38 BankAccount constructor.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-38 BankAccount constructor\LISTING 2-38 BankAccount constructor\obj\Debug\LISTING 2-38 BankAccount constructor.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-38 BankAccount constructor\LISTING 2-38 BankAccount constructor\obj\Debug\LISTING 2-38 BankAccount constructor.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-38 BankAccount constructor\LISTING 2-38 BankAccount constructor\obj\Debug\LISTING 2-38 BankAccount constructor.pdb

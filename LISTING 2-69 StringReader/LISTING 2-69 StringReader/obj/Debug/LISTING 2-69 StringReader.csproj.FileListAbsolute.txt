@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-69 StringReader\LISTING 2-69 StringReader\bin\Debug\LISTING 2-69 StringReader.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-69 StringReader\LISTING 2-69 StringReader\bin\Debug\LISTING 2-69 StringReader.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-69 StringReader\LISTING 2-69 StringReader\bin\Debug\LISTING 2-69 StringReader.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-69 StringReader\LISTING 2-69 StringReader\obj\Debug\LISTING 2-69 StringReader.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-69 StringReader\LISTING 2-69 StringReader\obj\Debug\LISTING 2-69 StringReader.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-69 StringReader\LISTING 2-69 StringReader\obj\Debug\LISTING 2-69 StringReader.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 2-69 StringReader\LISTING 2-69 StringReader\obj\Debug\LISTING 2-69 StringReader.pdb

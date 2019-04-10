@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 2-27 Public data members\LISTING 2-27 Public data members\bin\Debug\LISTING 2-27 Public data members.exe.config
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 2-27 Public data members\LISTING 2-27 Public data members\bin\Debug\LISTING 2-27 Public data members.exe
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 2-27 Public data members\LISTING 2-27 Public data members\bin\Debug\LISTING 2-27 Public data members.pdb
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 2-27 Public data members\LISTING 2-27 Public data members\obj\Debug\LISTING 2-27 Public data members.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 2-27 Public data members\LISTING 2-27 Public data members\obj\Debug\LISTING 2-27 Public data members.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 2-27 Public data members\LISTING 2-27 Public data members\obj\Debug\LISTING 2-27 Public data members.exe
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 2-27 Public data members\LISTING 2-27 Public data members\obj\Debug\LISTING 2-27 Public data members.pdb

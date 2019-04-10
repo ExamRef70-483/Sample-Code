@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-60 Assembly object\LISTING 2-60 Assembly object\bin\Debug\LISTING 2-60 Assembly object.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-60 Assembly object\LISTING 2-60 Assembly object\bin\Debug\LISTING 2-60 Assembly object.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-60 Assembly object\LISTING 2-60 Assembly object\bin\Debug\LISTING 2-60 Assembly object.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-60 Assembly object\LISTING 2-60 Assembly object\obj\Debug\LISTING 2-60 Assembly object.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-60 Assembly object\LISTING 2-60 Assembly object\obj\Debug\LISTING 2-60 Assembly object.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-60 Assembly object\LISTING 2-60 Assembly object\obj\Debug\LISTING 2-60 Assembly object.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-60 Assembly object\LISTING 2-60 Assembly object\obj\Debug\LISTING 2-60 Assembly object.pdb

@@ -1,9 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\bin\Release\LISTING 3-26 Strong names.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\bin\Release\LISTING 3-26 Strong names.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\bin\Release\LISTING 3-26 Strong names.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\bin\Release\MusicStorage.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\bin\Release\MusicStorage.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\obj\Release\LISTING 3-26 Strong names.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\obj\Release\LISTING 3-26 Strong names.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\obj\Release\LISTING 3-26 Strong names.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\LISTING 3-26 Strong names\obj\Release\LISTING 3-26 Strong names.pdb

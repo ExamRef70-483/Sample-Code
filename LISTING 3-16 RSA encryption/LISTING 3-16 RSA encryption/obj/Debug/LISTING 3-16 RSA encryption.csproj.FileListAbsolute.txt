@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-16 RSA encryption\LISTING 3-16 RSA encryption\bin\Debug\LISTING 3-16 RSA encryption.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-16 RSA encryption\LISTING 3-16 RSA encryption\bin\Debug\LISTING 3-16 RSA encryption.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-16 RSA encryption\LISTING 3-16 RSA encryption\bin\Debug\LISTING 3-16 RSA encryption.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-16 RSA encryption\LISTING 3-16 RSA encryption\obj\Debug\LISTING 3-16 RSA encryption.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-16 RSA encryption\LISTING 3-16 RSA encryption\obj\Debug\LISTING 3-16 RSA encryption.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-16 RSA encryption\LISTING 3-16 RSA encryption\obj\Debug\LISTING 3-16 RSA encryption.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-16 RSA encryption\LISTING 3-16 RSA encryption\obj\Debug\LISTING 3-16 RSA encryption.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-6 Using generic types\LISTING 2-6 Using generic types\bin\Debug\LISTING 2-6 Using generic types.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-6 Using generic types\LISTING 2-6 Using generic types\bin\Debug\LISTING 2-6 Using generic types.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-6 Using generic types\LISTING 2-6 Using generic types\bin\Debug\LISTING 2-6 Using generic types.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-6 Using generic types\LISTING 2-6 Using generic types\obj\Debug\LISTING 2-6 Using generic types.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-6 Using generic types\LISTING 2-6 Using generic types\obj\Debug\LISTING 2-6 Using generic types.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-6 Using generic types\LISTING 2-6 Using generic types\obj\Debug\LISTING 2-6 Using generic types.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-6 Using generic types\LISTING 2-6 Using generic types\obj\Debug\LISTING 2-6 Using generic types.pdb

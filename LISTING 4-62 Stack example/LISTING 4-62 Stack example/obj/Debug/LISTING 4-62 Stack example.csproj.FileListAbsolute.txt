@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-62 Stack example\LISTING 4-62 Stack example\bin\Debug\LISTING 4-62 Stack example.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-62 Stack example\LISTING 4-62 Stack example\bin\Debug\LISTING 4-62 Stack example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-62 Stack example\LISTING 4-62 Stack example\bin\Debug\LISTING 4-62 Stack example.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-62 Stack example\LISTING 4-62 Stack example\obj\Debug\LISTING 4-62 Stack example.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-62 Stack example\LISTING 4-62 Stack example\obj\Debug\LISTING 4-62 Stack example.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-62 Stack example\LISTING 4-62 Stack example\obj\Debug\LISTING 4-62 Stack example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-62 Stack example\LISTING 4-62 Stack example\obj\Debug\LISTING 4-62 Stack example.pdb

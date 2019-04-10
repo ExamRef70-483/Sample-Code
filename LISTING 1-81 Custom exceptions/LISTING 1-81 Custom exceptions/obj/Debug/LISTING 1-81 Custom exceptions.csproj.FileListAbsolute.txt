@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-81 Custom exceptions\LISTING 1-81 Custom exceptions\obj\Debug\LISTING 1-81 Custom exceptions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-81 Custom exceptions\LISTING 1-81 Custom exceptions\bin\Debug\LISTING 1-81 Custom exceptions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-81 Custom exceptions\LISTING 1-81 Custom exceptions\bin\Debug\LISTING 1-81 Custom exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-81 Custom exceptions\LISTING 1-81 Custom exceptions\bin\Debug\LISTING 1-81 Custom exceptions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-81 Custom exceptions\LISTING 1-81 Custom exceptions\obj\Debug\LISTING 1-81 Custom exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-81 Custom exceptions\LISTING 1-81 Custom exceptions\obj\Debug\LISTING 1-81 Custom exceptions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-81 Custom exceptions\LISTING 1-81 Custom exceptions\obj\Debug\LISTING 1-81 Custom exceptions.csprojResolveAssemblyReference.cache

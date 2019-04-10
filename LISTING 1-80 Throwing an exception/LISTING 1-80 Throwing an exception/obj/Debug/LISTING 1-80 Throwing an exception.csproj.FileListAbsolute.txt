@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-80 Throwing an exception\LISTING 1-80 Throwing an exception\bin\Debug\LISTING 1-80 Throwing an exception.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-80 Throwing an exception\LISTING 1-80 Throwing an exception\bin\Debug\LISTING 1-80 Throwing an exception.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-80 Throwing an exception\LISTING 1-80 Throwing an exception\bin\Debug\LISTING 1-80 Throwing an exception.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-80 Throwing an exception\LISTING 1-80 Throwing an exception\obj\Debug\LISTING 1-80 Throwing an exception.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-80 Throwing an exception\LISTING 1-80 Throwing an exception\obj\Debug\LISTING 1-80 Throwing an exception.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-80 Throwing an exception\LISTING 1-80 Throwing an exception\obj\Debug\LISTING 1-80 Throwing an exception.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-80 Throwing an exception\LISTING 1-80 Throwing an exception\obj\Debug\LISTING 1-80 Throwing an exception.csprojResolveAssemblyReference.cache

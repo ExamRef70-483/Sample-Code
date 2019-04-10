@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-67 Stringbuilder\LISTING 2-67 Stringbuilder\bin\Debug\LISTING 2-67 Stringbuilder.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-67 Stringbuilder\LISTING 2-67 Stringbuilder\bin\Debug\LISTING 2-67 Stringbuilder.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-67 Stringbuilder\LISTING 2-67 Stringbuilder\bin\Debug\LISTING 2-67 Stringbuilder.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-67 Stringbuilder\LISTING 2-67 Stringbuilder\obj\Debug\LISTING 2-67 Stringbuilder.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-67 Stringbuilder\LISTING 2-67 Stringbuilder\obj\Debug\LISTING 2-67 Stringbuilder.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-67 Stringbuilder\LISTING 2-67 Stringbuilder\obj\Debug\LISTING 2-67 Stringbuilder.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-67 Stringbuilder\LISTING 2-67 Stringbuilder\obj\Debug\LISTING 2-67 Stringbuilder.pdb

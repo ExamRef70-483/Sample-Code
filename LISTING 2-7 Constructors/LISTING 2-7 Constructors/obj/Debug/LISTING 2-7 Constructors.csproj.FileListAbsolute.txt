@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-7 Constructors\LISTING 2-7 Constructors\bin\Debug\LISTING 2-7 Constructors.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-7 Constructors\LISTING 2-7 Constructors\bin\Debug\LISTING 2-7 Constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-7 Constructors\LISTING 2-7 Constructors\bin\Debug\LISTING 2-7 Constructors.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-7 Constructors\LISTING 2-7 Constructors\obj\Debug\LISTING 2-7 Constructors.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-7 Constructors\LISTING 2-7 Constructors\obj\Debug\LISTING 2-7 Constructors.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-7 Constructors\LISTING 2-7 Constructors\obj\Debug\LISTING 2-7 Constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-7 Constructors\LISTING 2-7 Constructors\obj\Debug\LISTING 2-7 Constructors.pdb

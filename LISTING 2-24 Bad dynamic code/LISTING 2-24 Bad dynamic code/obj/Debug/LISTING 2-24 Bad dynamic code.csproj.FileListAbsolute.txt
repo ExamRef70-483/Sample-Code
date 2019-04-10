@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-24 Bad dynamic code\LISTING 2-24 Bad dynamic code\bin\Debug\LISTING 2-24 Bad dynamic code.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-24 Bad dynamic code\LISTING 2-24 Bad dynamic code\bin\Debug\LISTING 2-24 Bad dynamic code.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-24 Bad dynamic code\LISTING 2-24 Bad dynamic code\bin\Debug\LISTING 2-24 Bad dynamic code.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-24 Bad dynamic code\LISTING 2-24 Bad dynamic code\obj\Debug\LISTING 2-24 Bad dynamic code.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-24 Bad dynamic code\LISTING 2-24 Bad dynamic code\obj\Debug\LISTING 2-24 Bad dynamic code.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-24 Bad dynamic code\LISTING 2-24 Bad dynamic code\obj\Debug\LISTING 2-24 Bad dynamic code.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-24 Bad dynamic code\LISTING 2-24 Bad dynamic code\obj\Debug\LISTING 2-24 Bad dynamic code.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-35 LINQ join\LISTING 4-35 LINQ join\bin\Debug\LISTING 4-35 LINQ join.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-35 LINQ join\LISTING 4-35 LINQ join\bin\Debug\LISTING 4-35 LINQ join.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-35 LINQ join\LISTING 4-35 LINQ join\bin\Debug\LISTING 4-35 LINQ join.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-35 LINQ join\LISTING 4-35 LINQ join\obj\Debug\LISTING 4-35 LINQ join.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-35 LINQ join\LISTING 4-35 LINQ join\obj\Debug\LISTING 4-35 LINQ join.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-35 LINQ join\LISTING 4-35 LINQ join\obj\Debug\LISTING 4-35 LINQ join.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-35 LINQ join\LISTING 4-35 LINQ join\obj\Debug\LISTING 4-35 LINQ join.pdb

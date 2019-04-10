@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-74 Format provider\LISTING 2-74 Format provider\bin\Debug\LISTING 2-74 Format provider.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-74 Format provider\LISTING 2-74 Format provider\bin\Debug\LISTING 2-74 Format provider.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-74 Format provider\LISTING 2-74 Format provider\bin\Debug\LISTING 2-74 Format provider.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-74 Format provider\LISTING 2-74 Format provider\obj\Debug\LISTING 2-74 Format provider.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-74 Format provider\LISTING 2-74 Format provider\obj\Debug\LISTING 2-74 Format provider.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-74 Format provider\LISTING 2-74 Format provider\obj\Debug\LISTING 2-74 Format provider.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-74 Format provider\LISTING 2-74 Format provider\obj\Debug\LISTING 2-74 Format provider.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-43 Create performance counters\LISTING 3-43 Create performance counters\obj\Debug\LISTING 3-43 Create performance counters.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-43 Create performance counters\LISTING 3-43 Create performance counters\obj\Debug\LISTING 3-43 Create performance counters.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-43 Create performance counters\LISTING 3-43 Create performance counters\bin\Debug\LISTING 3-43 Create performance counters.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-43 Create performance counters\LISTING 3-43 Create performance counters\bin\Debug\LISTING 3-43 Create performance counters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-43 Create performance counters\LISTING 3-43 Create performance counters\bin\Debug\LISTING 3-43 Create performance counters.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-43 Create performance counters\LISTING 3-43 Create performance counters\obj\Debug\LISTING 3-43 Create performance counters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-43 Create performance counters\LISTING 3-43 Create performance counters\obj\Debug\LISTING 3-43 Create performance counters.pdb

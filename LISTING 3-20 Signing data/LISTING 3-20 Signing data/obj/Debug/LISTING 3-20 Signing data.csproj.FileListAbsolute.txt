@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-20 Signing data\LISTING 3-20 Signing data\bin\Debug\LISTING 3-20 Signing data.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-20 Signing data\LISTING 3-20 Signing data\bin\Debug\LISTING 3-20 Signing data.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-20 Signing data\LISTING 3-20 Signing data\bin\Debug\LISTING 3-20 Signing data.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-20 Signing data\LISTING 3-20 Signing data\obj\Debug\LISTING 3-20 Signing data.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-20 Signing data\LISTING 3-20 Signing data\obj\Debug\LISTING 3-20 Signing data.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-20 Signing data\LISTING 3-20 Signing data\obj\Debug\LISTING 3-20 Signing data.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-20 Signing data\LISTING 3-20 Signing data\obj\Debug\LISTING 3-20 Signing data.pdb

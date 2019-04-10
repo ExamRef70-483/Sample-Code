@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\bin\Debug\LISTING 1-73 Closures.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\bin\Debug\LISTING 1-73 Closures.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\bin\Debug\LISTING 1-73 Closures.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-73 Closures\LISTING 1-73 Closures\obj\Debug\LISTING 1-73 Closures.pdb

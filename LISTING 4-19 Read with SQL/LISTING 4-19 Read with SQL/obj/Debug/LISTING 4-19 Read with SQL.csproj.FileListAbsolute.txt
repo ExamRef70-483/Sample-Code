@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-19 Read with SQL\LISTING 4-19 Read with SQL\bin\Debug\LISTING 4-19 Read with SQL.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-19 Read with SQL\LISTING 4-19 Read with SQL\bin\Debug\LISTING 4-19 Read with SQL.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-19 Read with SQL\LISTING 4-19 Read with SQL\bin\Debug\LISTING 4-19 Read with SQL.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-19 Read with SQL\LISTING 4-19 Read with SQL\obj\Debug\LISTING 4-19 Read with SQL.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-19 Read with SQL\LISTING 4-19 Read with SQL\obj\Debug\LISTING 4-19 Read with SQL.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-19 Read with SQL\LISTING 4-19 Read with SQL\obj\Debug\LISTING 4-19 Read with SQL.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-19 Read with SQL\LISTING 4-19 Read with SQL\obj\Debug\LISTING 4-19 Read with SQL.pdb

@@ -1,1 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-32 Using async\Random Averages\Random Averages\Random Averages.csproj;x86

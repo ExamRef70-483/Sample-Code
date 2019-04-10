@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\bin\Debug\LISTING 1-77 Exception object.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\bin\Debug\LISTING 1-77 Exception object.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\bin\Debug\LISTING 1-77 Exception object.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-77 Exception object\LISTING 1-77 Exception object\obj\Debug\LISTING 1-77 Exception object.pdb

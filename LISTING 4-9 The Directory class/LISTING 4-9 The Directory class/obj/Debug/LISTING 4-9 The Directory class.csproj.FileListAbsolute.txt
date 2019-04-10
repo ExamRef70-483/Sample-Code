@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-9 The Directory class\LISTING 4-9 The Directory class\bin\Debug\LISTING 4-9 The Directory class.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-9 The Directory class\LISTING 4-9 The Directory class\bin\Debug\LISTING 4-9 The Directory class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-9 The Directory class\LISTING 4-9 The Directory class\bin\Debug\LISTING 4-9 The Directory class.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-9 The Directory class\LISTING 4-9 The Directory class\obj\Debug\LISTING 4-9 The Directory class.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-9 The Directory class\LISTING 4-9 The Directory class\obj\Debug\LISTING 4-9 The Directory class.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-9 The Directory class\LISTING 4-9 The Directory class\obj\Debug\LISTING 4-9 The Directory class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-9 The Directory class\LISTING 4-9 The Directory class\obj\Debug\LISTING 4-9 The Directory class.pdb

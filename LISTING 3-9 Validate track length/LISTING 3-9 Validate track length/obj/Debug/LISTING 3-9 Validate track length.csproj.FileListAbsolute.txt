@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-9 Validate track length\LISTING 3-9 Validate track length\bin\Debug\LISTING 3-9 Validate track length.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-9 Validate track length\LISTING 3-9 Validate track length\bin\Debug\LISTING 3-9 Validate track length.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-9 Validate track length\LISTING 3-9 Validate track length\bin\Debug\LISTING 3-9 Validate track length.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-9 Validate track length\LISTING 3-9 Validate track length\obj\Debug\LISTING 3-9 Validate track length.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-9 Validate track length\LISTING 3-9 Validate track length\obj\Debug\LISTING 3-9 Validate track length.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-9 Validate track length\LISTING 3-9 Validate track length\obj\Debug\LISTING 3-9 Validate track length.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-9 Validate track length\LISTING 3-9 Validate track length\obj\Debug\LISTING 3-9 Validate track length.pdb

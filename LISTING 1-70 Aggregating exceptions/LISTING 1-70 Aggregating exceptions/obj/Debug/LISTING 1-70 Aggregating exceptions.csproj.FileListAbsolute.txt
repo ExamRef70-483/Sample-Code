@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-70 Aggregating exceptions\LISTING 1-70 Aggregating exceptions\bin\Debug\LISTING 1-70 Aggregating exceptions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-70 Aggregating exceptions\LISTING 1-70 Aggregating exceptions\bin\Debug\LISTING 1-70 Aggregating exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-70 Aggregating exceptions\LISTING 1-70 Aggregating exceptions\bin\Debug\LISTING 1-70 Aggregating exceptions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-70 Aggregating exceptions\LISTING 1-70 Aggregating exceptions\obj\Debug\LISTING 1-70 Aggregating exceptions.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-70 Aggregating exceptions\LISTING 1-70 Aggregating exceptions\obj\Debug\LISTING 1-70 Aggregating exceptions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-70 Aggregating exceptions\LISTING 1-70 Aggregating exceptions\obj\Debug\LISTING 1-70 Aggregating exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-70 Aggregating exceptions\LISTING 1-70 Aggregating exceptions\obj\Debug\LISTING 1-70 Aggregating exceptions.pdb

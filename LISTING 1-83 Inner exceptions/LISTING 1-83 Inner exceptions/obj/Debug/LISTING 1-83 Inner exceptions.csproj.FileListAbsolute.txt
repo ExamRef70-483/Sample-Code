@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-83 Inner exceptions\LISTING 1-83 Inner exceptions\bin\Debug\LISTING 1-83 Inner exceptions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-83 Inner exceptions\LISTING 1-83 Inner exceptions\bin\Debug\LISTING 1-83 Inner exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-83 Inner exceptions\LISTING 1-83 Inner exceptions\bin\Debug\LISTING 1-83 Inner exceptions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-83 Inner exceptions\LISTING 1-83 Inner exceptions\obj\Debug\LISTING 1-83 Inner exceptions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-83 Inner exceptions\LISTING 1-83 Inner exceptions\obj\Debug\LISTING 1-83 Inner exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-83 Inner exceptions\LISTING 1-83 Inner exceptions\obj\Debug\LISTING 1-83 Inner exceptions.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-21 Boxing and unboxing\LISTING 2-21 Boxing and unboxing\bin\Debug\LISTING 2-21 Boxing and unboxing.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-21 Boxing and unboxing\LISTING 2-21 Boxing and unboxing\bin\Debug\LISTING 2-21 Boxing and unboxing.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-21 Boxing and unboxing\LISTING 2-21 Boxing and unboxing\bin\Debug\LISTING 2-21 Boxing and unboxing.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-21 Boxing and unboxing\LISTING 2-21 Boxing and unboxing\obj\Debug\LISTING 2-21 Boxing and unboxing.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-21 Boxing and unboxing\LISTING 2-21 Boxing and unboxing\obj\Debug\LISTING 2-21 Boxing and unboxing.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-21 Boxing and unboxing\LISTING 2-21 Boxing and unboxing\obj\Debug\LISTING 2-21 Boxing and unboxing.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-21 Boxing and unboxing\LISTING 2-21 Boxing and unboxing\obj\Debug\LISTING 2-21 Boxing and unboxing.pdb

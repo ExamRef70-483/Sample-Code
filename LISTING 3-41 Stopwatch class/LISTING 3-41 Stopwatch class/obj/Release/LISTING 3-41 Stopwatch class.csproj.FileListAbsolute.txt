@@ -1,8 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Release\LISTING 3-41 Stopwatch class.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Release\LISTING 3-41 Stopwatch class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Release\LISTING 3-41 Stopwatch class.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\obj\Release\LISTING 3-41 Stopwatch class.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\obj\Release\LISTING 3-41 Stopwatch class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\obj\Release\LISTING 3-41 Stopwatch class.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Release\LISTING 3-41 Stopwatch class.exe.CodeAnalysisLog.xml
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Release\LISTING 3-41 Stopwatch class.exe.lastcodeanalysissucceeded

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-31 var errors\LISTING 4-31 var errors\obj\Debug\LISTING 4-31 var errors.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-31 var errors\LISTING 4-31 var errors\obj\Debug\LISTING 4-31 var errors.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-31 var errors\LISTING 4-31 var errors\bin\Debug\LISTING 4-31 var errors.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-31 var errors\LISTING 4-31 var errors\bin\Debug\LISTING 4-31 var errors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-31 var errors\LISTING 4-31 var errors\bin\Debug\LISTING 4-31 var errors.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-31 var errors\LISTING 4-31 var errors\obj\Debug\LISTING 4-31 var errors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-31 var errors\LISTING 4-31 var errors\obj\Debug\LISTING 4-31 var errors.pdb

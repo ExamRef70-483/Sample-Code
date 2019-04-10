@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-45 Using IDisposable\LISTING 2-45 Using IDisposable\bin\Debug\LISTING 2-45 Using IDisposable.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-45 Using IDisposable\LISTING 2-45 Using IDisposable\bin\Debug\LISTING 2-45 Using IDisposable.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-45 Using IDisposable\LISTING 2-45 Using IDisposable\bin\Debug\LISTING 2-45 Using IDisposable.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-45 Using IDisposable\LISTING 2-45 Using IDisposable\obj\Debug\LISTING 2-45 Using IDisposable.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-45 Using IDisposable\LISTING 2-45 Using IDisposable\obj\Debug\LISTING 2-45 Using IDisposable.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-45 Using IDisposable\LISTING 2-45 Using IDisposable\obj\Debug\LISTING 2-45 Using IDisposable.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-45 Using IDisposable\LISTING 2-45 Using IDisposable\obj\Debug\LISTING 2-45 Using IDisposable.pdb

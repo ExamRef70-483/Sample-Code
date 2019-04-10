@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-21 Update with SQL\LISTING 4-21 Update with SQL\bin\Debug\LISTING 4-21 Update with SQL.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-21 Update with SQL\LISTING 4-21 Update with SQL\bin\Debug\LISTING 4-21 Update with SQL.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-21 Update with SQL\LISTING 4-21 Update with SQL\bin\Debug\LISTING 4-21 Update with SQL.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-21 Update with SQL\LISTING 4-21 Update with SQL\obj\Debug\LISTING 4-21 Update with SQL.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-21 Update with SQL\LISTING 4-21 Update with SQL\obj\Debug\LISTING 4-21 Update with SQL.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-21 Update with SQL\LISTING 4-21 Update with SQL\obj\Debug\LISTING 4-21 Update with SQL.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-21 Update with SQL\LISTING 4-21 Update with SQL\obj\Debug\LISTING 4-21 Update with SQL.pdb

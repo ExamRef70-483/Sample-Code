@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-18 Overloaded DateTime constructor\LISTING 2-18 Overloaded DateTime constructor\bin\Debug\LISTING 2-18 Overloaded DateTime constructor.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-18 Overloaded DateTime constructor\LISTING 2-18 Overloaded DateTime constructor\bin\Debug\LISTING 2-18 Overloaded DateTime constructor.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-18 Overloaded DateTime constructor\LISTING 2-18 Overloaded DateTime constructor\bin\Debug\LISTING 2-18 Overloaded DateTime constructor.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-18 Overloaded DateTime constructor\LISTING 2-18 Overloaded DateTime constructor\obj\Debug\LISTING 2-18 Overloaded DateTime constructor.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-18 Overloaded DateTime constructor\LISTING 2-18 Overloaded DateTime constructor\obj\Debug\LISTING 2-18 Overloaded DateTime constructor.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-18 Overloaded DateTime constructor\LISTING 2-18 Overloaded DateTime constructor\obj\Debug\LISTING 2-18 Overloaded DateTime constructor.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-18 Overloaded DateTime constructor\LISTING 2-18 Overloaded DateTime constructor\obj\Debug\LISTING 2-18 Overloaded DateTime constructor.pdb

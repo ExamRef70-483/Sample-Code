@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-14 Named parameters\LISTING 2-14 Named parameters\bin\Debug\LISTING 2-14 Named parameters.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-14 Named parameters\LISTING 2-14 Named parameters\bin\Debug\LISTING 2-14 Named parameters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-14 Named parameters\LISTING 2-14 Named parameters\bin\Debug\LISTING 2-14 Named parameters.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-14 Named parameters\LISTING 2-14 Named parameters\obj\Debug\LISTING 2-14 Named parameters.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-14 Named parameters\LISTING 2-14 Named parameters\obj\Debug\LISTING 2-14 Named parameters.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-14 Named parameters\LISTING 2-14 Named parameters\obj\Debug\LISTING 2-14 Named parameters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-14 Named parameters\LISTING 2-14 Named parameters\obj\Debug\LISTING 2-14 Named parameters.pdb

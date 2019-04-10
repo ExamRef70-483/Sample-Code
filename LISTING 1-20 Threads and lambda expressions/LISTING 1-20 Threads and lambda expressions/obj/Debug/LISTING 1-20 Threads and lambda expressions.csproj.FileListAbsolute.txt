@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-20 Threads and lambda expressions\LISTING 1-20 Threads and lambda expressions\bin\Debug\LISTING 1-20 Threads and lambda expressions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-20 Threads and lambda expressions\LISTING 1-20 Threads and lambda expressions\bin\Debug\LISTING 1-20 Threads and lambda expressions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-20 Threads and lambda expressions\LISTING 1-20 Threads and lambda expressions\bin\Debug\LISTING 1-20 Threads and lambda expressions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-20 Threads and lambda expressions\LISTING 1-20 Threads and lambda expressions\obj\Debug\LISTING 1-20 Threads and lambda expressions.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-20 Threads and lambda expressions\LISTING 1-20 Threads and lambda expressions\obj\Debug\LISTING 1-20 Threads and lambda expressions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-20 Threads and lambda expressions\LISTING 1-20 Threads and lambda expressions\obj\Debug\LISTING 1-20 Threads and lambda expressions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-20 Threads and lambda expressions\LISTING 1-20 Threads and lambda expressions\obj\Debug\LISTING 1-20 Threads and lambda expressions.pdb

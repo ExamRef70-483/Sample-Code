@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-52 The GetType method\LISTING 2-52 The GetType method\bin\Debug\LISTING 2-52 The GetType method.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-52 The GetType method\LISTING 2-52 The GetType method\bin\Debug\LISTING 2-52 The GetType method.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-52 The GetType method\LISTING 2-52 The GetType method\bin\Debug\LISTING 2-52 The GetType method.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-52 The GetType method\LISTING 2-52 The GetType method\obj\Debug\LISTING 2-52 The GetType method.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-52 The GetType method\LISTING 2-52 The GetType method\obj\Debug\LISTING 2-52 The GetType method.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-52 The GetType method\LISTING 2-52 The GetType method\obj\Debug\LISTING 2-52 The GetType method.pdb

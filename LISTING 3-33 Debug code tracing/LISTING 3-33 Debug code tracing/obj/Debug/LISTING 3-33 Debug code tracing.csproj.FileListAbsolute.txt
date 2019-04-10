@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-33 Debug code tracing\LISTING 3-33 Debug code tracing\bin\Debug\LISTING 3-33 Debug code tracing.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-33 Debug code tracing\LISTING 3-33 Debug code tracing\bin\Debug\LISTING 3-33 Debug code tracing.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-33 Debug code tracing\LISTING 3-33 Debug code tracing\bin\Debug\LISTING 3-33 Debug code tracing.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-33 Debug code tracing\LISTING 3-33 Debug code tracing\obj\Debug\LISTING 3-33 Debug code tracing.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-33 Debug code tracing\LISTING 3-33 Debug code tracing\obj\Debug\LISTING 3-33 Debug code tracing.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-33 Debug code tracing\LISTING 3-33 Debug code tracing\obj\Debug\LISTING 3-33 Debug code tracing.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-33 Debug code tracing\LISTING 3-33 Debug code tracing\obj\Debug\LISTING 3-33 Debug code tracing.pdb

@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-8 Validate a music track\LISTING 3-8 Validate a music track\bin\Debug\LISTING 3-8 Validate a music track.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-8 Validate a music track\LISTING 3-8 Validate a music track\bin\Debug\LISTING 3-8 Validate a music track.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-8 Validate a music track\LISTING 3-8 Validate a music track\bin\Debug\LISTING 3-8 Validate a music track.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-8 Validate a music track\LISTING 3-8 Validate a music track\obj\Debug\LISTING 3-8 Validate a music track.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-8 Validate a music track\LISTING 3-8 Validate a music track\obj\Debug\LISTING 3-8 Validate a music track.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-8 Validate a music track\LISTING 3-8 Validate a music track\obj\Debug\LISTING 3-8 Validate a music track.pdb

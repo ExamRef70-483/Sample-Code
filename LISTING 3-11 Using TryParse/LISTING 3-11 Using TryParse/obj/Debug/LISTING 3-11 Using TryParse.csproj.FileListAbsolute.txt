@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-11 Using TryParse\LISTING 3-11 Using TryParse\bin\Debug\LISTING 3-11 Using TryParse.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-11 Using TryParse\LISTING 3-11 Using TryParse\bin\Debug\LISTING 3-11 Using TryParse.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-11 Using TryParse\LISTING 3-11 Using TryParse\bin\Debug\LISTING 3-11 Using TryParse.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-11 Using TryParse\LISTING 3-11 Using TryParse\obj\Debug\LISTING 3-11 Using TryParse.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-11 Using TryParse\LISTING 3-11 Using TryParse\obj\Debug\LISTING 3-11 Using TryParse.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-11 Using TryParse\LISTING 3-11 Using TryParse\obj\Debug\LISTING 3-11 Using TryParse.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-11 Using TryParse\LISTING 3-11 Using TryParse\obj\Debug\LISTING 3-11 Using TryParse.csprojResolveAssemblyReference.cache

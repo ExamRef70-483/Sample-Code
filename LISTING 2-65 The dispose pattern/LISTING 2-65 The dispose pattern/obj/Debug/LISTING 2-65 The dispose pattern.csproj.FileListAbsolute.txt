@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern\bin\Debug\LISTING 2-65 The dispose pattern.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern\bin\Debug\LISTING 2-65 The dispose pattern.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern\bin\Debug\LISTING 2-65 The dispose pattern.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern\obj\Debug\LISTING 2-65 The dispose pattern.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern\obj\Debug\LISTING 2-65 The dispose pattern.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern\obj\Debug\LISTING 2-65 The dispose pattern.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-65 The dispose pattern\LISTING 2-65 The dispose pattern\obj\Debug\LISTING 2-65 The dispose pattern.pdb

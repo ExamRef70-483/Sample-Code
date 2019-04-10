@@ -1,5 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\MusicStorage\bin\Release\MusicStorage.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\MusicStorage\bin\Release\MusicStorage.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\MusicStorage\obj\Release\MusicStorage.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\MusicStorage\obj\Release\MusicStorage.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-26 Strong names\MusicStorage\obj\Release\MusicStorage.pdb

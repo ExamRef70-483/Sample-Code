@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-3 StreamWriter and StreamReader\LISTING 4-3 StreamWriter and StreamReader\bin\Debug\LISTING 4-3 StreamWriter and StreamReader.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-3 StreamWriter and StreamReader\LISTING 4-3 StreamWriter and StreamReader\bin\Debug\LISTING 4-3 StreamWriter and StreamReader.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-3 StreamWriter and StreamReader\LISTING 4-3 StreamWriter and StreamReader\bin\Debug\LISTING 4-3 StreamWriter and StreamReader.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-3 StreamWriter and StreamReader\LISTING 4-3 StreamWriter and StreamReader\obj\Debug\LISTING 4-3 StreamWriter and StreamReader.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-3 StreamWriter and StreamReader\LISTING 4-3 StreamWriter and StreamReader\obj\Debug\LISTING 4-3 StreamWriter and StreamReader.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-3 StreamWriter and StreamReader\LISTING 4-3 StreamWriter and StreamReader\obj\Debug\LISTING 4-3 StreamWriter and StreamReader.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-3 StreamWriter and StreamReader\LISTING 4-3 StreamWriter and StreamReader\obj\Debug\LISTING 4-3 StreamWriter and StreamReader.pdb

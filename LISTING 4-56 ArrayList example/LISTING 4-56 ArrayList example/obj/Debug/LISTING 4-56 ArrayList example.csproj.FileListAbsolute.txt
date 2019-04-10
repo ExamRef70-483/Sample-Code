@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-56 ArrayList example\LISTING 4-56 ArrayList example\bin\Debug\LISTING 4-56 ArrayList example.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-56 ArrayList example\LISTING 4-56 ArrayList example\bin\Debug\LISTING 4-56 ArrayList example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-56 ArrayList example\LISTING 4-56 ArrayList example\bin\Debug\LISTING 4-56 ArrayList example.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-56 ArrayList example\LISTING 4-56 ArrayList example\obj\Debug\LISTING 4-56 ArrayList example.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-56 ArrayList example\LISTING 4-56 ArrayList example\obj\Debug\LISTING 4-56 ArrayList example.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-56 ArrayList example\LISTING 4-56 ArrayList example\obj\Debug\LISTING 4-56 ArrayList example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-56 ArrayList example\LISTING 4-56 ArrayList example\obj\Debug\LISTING 4-56 ArrayList example.pdb

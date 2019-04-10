@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-26 Interacting with Excel\LISTING 2-26 Interacting with Excel\bin\Debug\LISTING 2-26 Interacting with Excel.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-26 Interacting with Excel\LISTING 2-26 Interacting with Excel\bin\Debug\LISTING 2-26 Interacting with Excel.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-26 Interacting with Excel\LISTING 2-26 Interacting with Excel\bin\Debug\LISTING 2-26 Interacting with Excel.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-26 Interacting with Excel\LISTING 2-26 Interacting with Excel\obj\Debug\LISTING 2-26 Interacting with Excel.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-26 Interacting with Excel\LISTING 2-26 Interacting with Excel\obj\Debug\LISTING 2-26 Interacting with Excel.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-26 Interacting with Excel\LISTING 2-26 Interacting with Excel\obj\Debug\LISTING 2-26 Interacting with Excel.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-26 Interacting with Excel\LISTING 2-26 Interacting with Excel\obj\Debug\LISTING 2-26 Interacting with Excel.pdb

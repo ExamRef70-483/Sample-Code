@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\bin\Debug\LISTING 4-50 Customization methods.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\bin\Debug\LISTING 4-50 Customization methods.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\bin\Debug\LISTING 4-50 Customization methods.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-50 Customization methods\LISTING 4-50 Customization methods\obj\Debug\LISTING 4-50 Customization methods.pdb

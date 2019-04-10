@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-34 IAccount interface\LISTING 2-34 IAccount interface\bin\Debug\LISTING 2-34 IAccount interface.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-34 IAccount interface\LISTING 2-34 IAccount interface\bin\Debug\LISTING 2-34 IAccount interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-34 IAccount interface\LISTING 2-34 IAccount interface\bin\Debug\LISTING 2-34 IAccount interface.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-34 IAccount interface\LISTING 2-34 IAccount interface\obj\Debug\LISTING 2-34 IAccount interface.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-34 IAccount interface\LISTING 2-34 IAccount interface\obj\Debug\LISTING 2-34 IAccount interface.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-34 IAccount interface\LISTING 2-34 IAccount interface\obj\Debug\LISTING 2-34 IAccount interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-34 IAccount interface\LISTING 2-34 IAccount interface\obj\Debug\LISTING 2-34 IAccount interface.pdb

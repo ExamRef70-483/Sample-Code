@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-30 Protected access\LISTING 2-30 Protected access\bin\Debug\LISTING 2-30 Protected access.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-30 Protected access\LISTING 2-30 Protected access\bin\Debug\LISTING 2-30 Protected access.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-30 Protected access\LISTING 2-30 Protected access\bin\Debug\LISTING 2-30 Protected access.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-30 Protected access\LISTING 2-30 Protected access\obj\Debug\LISTING 2-30 Protected access.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-30 Protected access\LISTING 2-30 Protected access\obj\Debug\LISTING 2-30 Protected access.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-30 Protected access\LISTING 2-30 Protected access\obj\Debug\LISTING 2-30 Protected access.pdb

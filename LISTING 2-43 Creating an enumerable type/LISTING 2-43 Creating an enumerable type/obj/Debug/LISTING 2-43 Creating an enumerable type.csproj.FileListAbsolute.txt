@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-43 Creating an enumerable type\LISTING 2-43 Creating an enumerable type\bin\Debug\LISTING 2-43 Creating an enumerable type.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-43 Creating an enumerable type\LISTING 2-43 Creating an enumerable type\bin\Debug\LISTING 2-43 Creating an enumerable type.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-43 Creating an enumerable type\LISTING 2-43 Creating an enumerable type\bin\Debug\LISTING 2-43 Creating an enumerable type.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-43 Creating an enumerable type\LISTING 2-43 Creating an enumerable type\obj\Debug\LISTING 2-43 Creating an enumerable type.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-43 Creating an enumerable type\LISTING 2-43 Creating an enumerable type\obj\Debug\LISTING 2-43 Creating an enumerable type.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-43 Creating an enumerable type\LISTING 2-43 Creating an enumerable type\obj\Debug\LISTING 2-43 Creating an enumerable type.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-43 Creating an enumerable type\LISTING 2-43 Creating an enumerable type\obj\Debug\LISTING 2-43 Creating an enumerable type.pdb

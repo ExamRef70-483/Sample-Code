@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-64 Grow an array\LISTING 4-64 Grow an array\bin\Debug\LISTING 4-64 Grow an array.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-64 Grow an array\LISTING 4-64 Grow an array\bin\Debug\LISTING 4-64 Grow an array.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-64 Grow an array\LISTING 4-64 Grow an array\bin\Debug\LISTING 4-64 Grow an array.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-64 Grow an array\LISTING 4-64 Grow an array\obj\Debug\LISTING 4-64 Grow an array.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-64 Grow an array\LISTING 4-64 Grow an array\obj\Debug\LISTING 4-64 Grow an array.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-64 Grow an array\LISTING 4-64 Grow an array\obj\Debug\LISTING 4-64 Grow an array.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-64 Grow an array\LISTING 4-64 Grow an array\obj\Debug\LISTING 4-64 Grow an array.pdb

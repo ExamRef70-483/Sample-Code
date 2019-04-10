@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-33 LINQ projection\LISTING 4-33 LINQ projection\bin\Debug\LISTING 4-33 LINQ projection.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-33 LINQ projection\LISTING 4-33 LINQ projection\bin\Debug\LISTING 4-33 LINQ projection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-33 LINQ projection\LISTING 4-33 LINQ projection\bin\Debug\LISTING 4-33 LINQ projection.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-33 LINQ projection\LISTING 4-33 LINQ projection\obj\Debug\LISTING 4-33 LINQ projection.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-33 LINQ projection\LISTING 4-33 LINQ projection\obj\Debug\LISTING 4-33 LINQ projection.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-33 LINQ projection\LISTING 4-33 LINQ projection\obj\Debug\LISTING 4-33 LINQ projection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-33 LINQ projection\LISTING 4-33 LINQ projection\obj\Debug\LISTING 4-33 LINQ projection.pdb

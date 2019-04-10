@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-53 Investigating a type\LISTING 2-53 Investigating a type\bin\Debug\LISTING 2-53 Investigating a type.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-53 Investigating a type\LISTING 2-53 Investigating a type\bin\Debug\LISTING 2-53 Investigating a type.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-53 Investigating a type\LISTING 2-53 Investigating a type\bin\Debug\LISTING 2-53 Investigating a type.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-53 Investigating a type\LISTING 2-53 Investigating a type\obj\Debug\LISTING 2-53 Investigating a type.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-53 Investigating a type\LISTING 2-53 Investigating a type\obj\Debug\LISTING 2-53 Investigating a type.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-53 Investigating a type\LISTING 2-53 Investigating a type\obj\Debug\LISTING 2-53 Investigating a type.pdb

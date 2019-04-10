@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-32 Printing interface\LISTING 2-32 Printing interface\bin\Debug\LISTING 2-32 Printing interface.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-32 Printing interface\LISTING 2-32 Printing interface\bin\Debug\LISTING 2-32 Printing interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-32 Printing interface\LISTING 2-32 Printing interface\bin\Debug\LISTING 2-32 Printing interface.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-32 Printing interface\LISTING 2-32 Printing interface\obj\Debug\LISTING 2-32 Printing interface.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-32 Printing interface\LISTING 2-32 Printing interface\obj\Debug\LISTING 2-32 Printing interface.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-32 Printing interface\LISTING 2-32 Printing interface\obj\Debug\LISTING 2-32 Printing interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-32 Printing interface\LISTING 2-32 Printing interface\obj\Debug\LISTING 2-32 Printing interface.pdb

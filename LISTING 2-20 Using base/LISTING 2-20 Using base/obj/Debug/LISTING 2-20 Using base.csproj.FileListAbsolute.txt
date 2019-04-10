@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-20 Using base\LISTING 2-20 Using base\bin\Debug\LISTING 2-20 Using base.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-20 Using base\LISTING 2-20 Using base\bin\Debug\LISTING 2-20 Using base.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-20 Using base\LISTING 2-20 Using base\bin\Debug\LISTING 2-20 Using base.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-20 Using base\LISTING 2-20 Using base\obj\Debug\LISTING 2-20 Using base.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-20 Using base\LISTING 2-20 Using base\obj\Debug\LISTING 2-20 Using base.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-20 Using base\LISTING 2-20 Using base\obj\Debug\LISTING 2-20 Using base.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-20 Using base\LISTING 2-20 Using base\obj\Debug\LISTING 2-20 Using base.pdb

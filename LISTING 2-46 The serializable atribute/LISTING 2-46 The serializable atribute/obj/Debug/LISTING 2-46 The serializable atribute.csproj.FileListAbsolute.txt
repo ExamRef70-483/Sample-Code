@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-46 The serializable atribute\LISTING 2-46 The serializable atribute\bin\Debug\LISTING 2-46 The serializable atribute.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-46 The serializable atribute\LISTING 2-46 The serializable atribute\bin\Debug\LISTING 2-46 The serializable atribute.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-46 The serializable atribute\LISTING 2-46 The serializable atribute\bin\Debug\LISTING 2-46 The serializable atribute.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-46 The serializable atribute\LISTING 2-46 The serializable atribute\obj\Debug\LISTING 2-46 The serializable atribute.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-46 The serializable atribute\LISTING 2-46 The serializable atribute\obj\Debug\LISTING 2-46 The serializable atribute.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-46 The serializable atribute\LISTING 2-46 The serializable atribute\obj\Debug\LISTING 2-46 The serializable atribute.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-46 The serializable atribute\LISTING 2-46 The serializable atribute\obj\Debug\LISTING 2-46 The serializable atribute.pdb

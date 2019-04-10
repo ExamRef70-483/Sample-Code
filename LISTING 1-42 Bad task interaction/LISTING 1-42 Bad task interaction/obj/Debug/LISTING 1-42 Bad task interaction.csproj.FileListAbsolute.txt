@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-42 Bad task interaction\LISTING 1-42 Bad task interaction\bin\Debug\LISTING 1-42 Bad task interaction.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-42 Bad task interaction\LISTING 1-42 Bad task interaction\bin\Debug\LISTING 1-42 Bad task interaction.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-42 Bad task interaction\LISTING 1-42 Bad task interaction\bin\Debug\LISTING 1-42 Bad task interaction.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-42 Bad task interaction\LISTING 1-42 Bad task interaction\obj\Debug\LISTING 1-42 Bad task interaction.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-42 Bad task interaction\LISTING 1-42 Bad task interaction\obj\Debug\LISTING 1-42 Bad task interaction.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-42 Bad task interaction\LISTING 1-42 Bad task interaction\obj\Debug\LISTING 1-42 Bad task interaction.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-42 Bad task interaction\LISTING 1-42 Bad task interaction\obj\Debug\LISTING 1-42 Bad task interaction.csprojResolveAssemblyReference.cache

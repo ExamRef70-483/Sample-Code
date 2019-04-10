@@ -1,6 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-7 Using AsOrdered\LISTING 1-7 Using AsOrdered\bin\Debug\LISTING 1-7 Using AsOrdered.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-7 Using AsOrdered\LISTING 1-7 Using AsOrdered\bin\Debug\LISTING 1-7 Using AsOrdered.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-7 Using AsOrdered\LISTING 1-7 Using AsOrdered\bin\Debug\LISTING 1-7 Using AsOrdered.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-7 Using AsOrdered\LISTING 1-7 Using AsOrdered\obj\Debug\LISTING 1-7 Using AsOrdered.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-7 Using AsOrdered\LISTING 1-7 Using AsOrdered\obj\Debug\LISTING 1-7 Using AsOrdered.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-7 Using AsOrdered\LISTING 1-7 Using AsOrdered\obj\Debug\LISTING 1-7 Using AsOrdered.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-9 Calling constructors\LISTING 2-9 Calling constructors\bin\Debug\LISTING 2-9 Calling constructors.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-9 Calling constructors\LISTING 2-9 Calling constructors\bin\Debug\LISTING 2-9 Calling constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-9 Calling constructors\LISTING 2-9 Calling constructors\bin\Debug\LISTING 2-9 Calling constructors.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-9 Calling constructors\LISTING 2-9 Calling constructors\obj\Debug\LISTING 2-9 Calling constructors.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-9 Calling constructors\LISTING 2-9 Calling constructors\obj\Debug\LISTING 2-9 Calling constructors.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-9 Calling constructors\LISTING 2-9 Calling constructors\obj\Debug\LISTING 2-9 Calling constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-9 Calling constructors\LISTING 2-9 Calling constructors\obj\Debug\LISTING 2-9 Calling constructors.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-64 Expression evaluation\LISTING 1-64 Expression evaluation\bin\Debug\LISTING 1-64 Expression evaluation.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-64 Expression evaluation\LISTING 1-64 Expression evaluation\bin\Debug\LISTING 1-64 Expression evaluation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-64 Expression evaluation\LISTING 1-64 Expression evaluation\bin\Debug\LISTING 1-64 Expression evaluation.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-64 Expression evaluation\LISTING 1-64 Expression evaluation\obj\Debug\LISTING 1-64 Expression evaluation.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-64 Expression evaluation\LISTING 1-64 Expression evaluation\obj\Debug\LISTING 1-64 Expression evaluation.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-64 Expression evaluation\LISTING 1-64 Expression evaluation\obj\Debug\LISTING 1-64 Expression evaluation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-64 Expression evaluation\LISTING 1-64 Expression evaluation\obj\Debug\LISTING 1-64 Expression evaluation.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-17 RSA key management\LISTING 3-17 RSA key management\obj\Debug\LISTING 3-17 RSA key management.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-17 RSA key management\LISTING 3-17 RSA key management\obj\Debug\LISTING 3-17 RSA key management.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-17 RSA key management\LISTING 3-17 RSA key management\bin\Debug\LISTING 3-17 RSA key management.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-17 RSA key management\LISTING 3-17 RSA key management\bin\Debug\LISTING 3-17 RSA key management.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-17 RSA key management\LISTING 3-17 RSA key management\bin\Debug\LISTING 3-17 RSA key management.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-17 RSA key management\LISTING 3-17 RSA key management\obj\Debug\LISTING 3-17 RSA key management.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-17 RSA key management\LISTING 3-17 RSA key management\obj\Debug\LISTING 3-17 RSA key management.pdb

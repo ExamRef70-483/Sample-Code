@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-40 Config file\LISTING 3-40 Config file\bin\Debug\LISTING 3-40 Config file.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-40 Config file\LISTING 3-40 Config file\bin\Debug\LISTING 3-40 Config file.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-40 Config file\LISTING 3-40 Config file\bin\Debug\LISTING 3-40 Config file.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-40 Config file\LISTING 3-40 Config file\obj\Debug\LISTING 3-40 Config file.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-40 Config file\LISTING 3-40 Config file\obj\Debug\LISTING 3-40 Config file.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-40 Config file\LISTING 3-40 Config file\obj\Debug\LISTING 3-40 Config file.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-40 Config file\LISTING 3-40 Config file\obj\Debug\LISTING 3-40 Config file.pdb

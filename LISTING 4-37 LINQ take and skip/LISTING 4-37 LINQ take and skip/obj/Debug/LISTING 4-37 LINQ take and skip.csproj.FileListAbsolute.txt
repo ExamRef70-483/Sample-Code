@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-37 LINQ take and skip\LISTING 4-37 LINQ take and skip\bin\Debug\LISTING 4-37 LINQ take and skip.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-37 LINQ take and skip\LISTING 4-37 LINQ take and skip\bin\Debug\LISTING 4-37 LINQ take and skip.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-37 LINQ take and skip\LISTING 4-37 LINQ take and skip\bin\Debug\LISTING 4-37 LINQ take and skip.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-37 LINQ take and skip\LISTING 4-37 LINQ take and skip\obj\Debug\LISTING 4-37 LINQ take and skip.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-37 LINQ take and skip\LISTING 4-37 LINQ take and skip\obj\Debug\LISTING 4-37 LINQ take and skip.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-37 LINQ take and skip\LISTING 4-37 LINQ take and skip\obj\Debug\LISTING 4-37 LINQ take and skip.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-37 LINQ take and skip\LISTING 4-37 LINQ take and skip\obj\Debug\LISTING 4-37 LINQ take and skip.pdb

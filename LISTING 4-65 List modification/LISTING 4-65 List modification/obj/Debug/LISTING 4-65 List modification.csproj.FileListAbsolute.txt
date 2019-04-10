@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-65 List modification\LISTING 4-65 List modification\bin\Debug\LISTING 4-65 List modification.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-65 List modification\LISTING 4-65 List modification\bin\Debug\LISTING 4-65 List modification.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-65 List modification\LISTING 4-65 List modification\bin\Debug\LISTING 4-65 List modification.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-65 List modification\LISTING 4-65 List modification\obj\Debug\LISTING 4-65 List modification.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-65 List modification\LISTING 4-65 List modification\obj\Debug\LISTING 4-65 List modification.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-65 List modification\LISTING 4-65 List modification\obj\Debug\LISTING 4-65 List modification.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-65 List modification\LISTING 4-65 List modification\obj\Debug\LISTING 4-65 List modification.pdb

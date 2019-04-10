@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-45 Create XML with LINQ\LISTING 4-45 Create XML with LINQ\bin\Debug\LISTING 4-45 Create XML with LINQ.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-45 Create XML with LINQ\LISTING 4-45 Create XML with LINQ\bin\Debug\LISTING 4-45 Create XML with LINQ.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-45 Create XML with LINQ\LISTING 4-45 Create XML with LINQ\bin\Debug\LISTING 4-45 Create XML with LINQ.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-45 Create XML with LINQ\LISTING 4-45 Create XML with LINQ\obj\Debug\LISTING 4-45 Create XML with LINQ.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-45 Create XML with LINQ\LISTING 4-45 Create XML with LINQ\obj\Debug\LISTING 4-45 Create XML with LINQ.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-45 Create XML with LINQ\LISTING 4-45 Create XML with LINQ\obj\Debug\LISTING 4-45 Create XML with LINQ.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-45 Create XML with LINQ\LISTING 4-45 Create XML with LINQ\obj\Debug\LISTING 4-45 Create XML with LINQ.pdb

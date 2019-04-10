@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream\obj\Debug\LISTING 3-24 Encrypt a stream.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream\bin\Debug\LISTING 3-24 Encrypt a stream.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream\bin\Debug\LISTING 3-24 Encrypt a stream.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream\bin\Debug\LISTING 3-24 Encrypt a stream.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream\obj\Debug\LISTING 3-24 Encrypt a stream.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream\obj\Debug\LISTING 3-24 Encrypt a stream.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-24 Encrypt a stream\LISTING 3-24 Encrypt a stream\obj\Debug\LISTING 3-24 Encrypt a stream.csprojResolveAssemblyReference.cache

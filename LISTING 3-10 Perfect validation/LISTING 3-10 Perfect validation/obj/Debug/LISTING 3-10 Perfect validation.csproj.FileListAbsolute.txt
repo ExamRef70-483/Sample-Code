@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-10 Perfect validation\LISTING 3-10 Perfect validation\bin\Debug\LISTING 3-10 Perfect validation.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-10 Perfect validation\LISTING 3-10 Perfect validation\bin\Debug\LISTING 3-10 Perfect validation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-10 Perfect validation\LISTING 3-10 Perfect validation\bin\Debug\LISTING 3-10 Perfect validation.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-10 Perfect validation\LISTING 3-10 Perfect validation\obj\Debug\LISTING 3-10 Perfect validation.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-10 Perfect validation\LISTING 3-10 Perfect validation\obj\Debug\LISTING 3-10 Perfect validation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-10 Perfect validation\LISTING 3-10 Perfect validation\obj\Debug\LISTING 3-10 Perfect validation.pdb

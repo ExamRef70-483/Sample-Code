@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-71 Create delegates\LISTING 1-71 Create delegates\bin\Debug\LISTING 1-71 Create delegates.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-71 Create delegates\LISTING 1-71 Create delegates\bin\Debug\LISTING 1-71 Create delegates.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-71 Create delegates\LISTING 1-71 Create delegates\bin\Debug\LISTING 1-71 Create delegates.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-71 Create delegates\LISTING 1-71 Create delegates\obj\Debug\LISTING 1-71 Create delegates.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-71 Create delegates\LISTING 1-71 Create delegates\obj\Debug\LISTING 1-71 Create delegates.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-71 Create delegates\LISTING 1-71 Create delegates\obj\Debug\LISTING 1-71 Create delegates.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-71 Create delegates\LISTING 1-71 Create delegates\obj\Debug\LISTING 1-71 Create delegates.csprojResolveAssemblyReference.cache

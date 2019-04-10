@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-57 List example\LISTING 4-57 List example\bin\Debug\LISTING 4-57 List example.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-57 List example\LISTING 4-57 List example\bin\Debug\LISTING 4-57 List example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-57 List example\LISTING 4-57 List example\bin\Debug\LISTING 4-57 List example.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-57 List example\LISTING 4-57 List example\obj\Debug\LISTING 4-57 List example.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-57 List example\LISTING 4-57 List example\obj\Debug\LISTING 4-57 List example.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-57 List example\LISTING 4-57 List example\obj\Debug\LISTING 4-57 List example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-57 List example\LISTING 4-57 List example\obj\Debug\LISTING 4-57 List example.pdb

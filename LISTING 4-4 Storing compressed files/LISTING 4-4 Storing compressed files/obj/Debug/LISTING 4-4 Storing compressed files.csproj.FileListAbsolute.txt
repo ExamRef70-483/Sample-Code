@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-4 Storing compressed files\LISTING 4-4 Storing compressed files\bin\Debug\LISTING 4-4 Storing compressed files.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-4 Storing compressed files\LISTING 4-4 Storing compressed files\bin\Debug\LISTING 4-4 Storing compressed files.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-4 Storing compressed files\LISTING 4-4 Storing compressed files\bin\Debug\LISTING 4-4 Storing compressed files.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-4 Storing compressed files\LISTING 4-4 Storing compressed files\obj\Debug\LISTING 4-4 Storing compressed files.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-4 Storing compressed files\LISTING 4-4 Storing compressed files\obj\Debug\LISTING 4-4 Storing compressed files.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-4 Storing compressed files\LISTING 4-4 Storing compressed files\obj\Debug\LISTING 4-4 Storing compressed files.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-4 Storing compressed files\LISTING 4-4 Storing compressed files\obj\Debug\LISTING 4-4 Storing compressed files.pdb

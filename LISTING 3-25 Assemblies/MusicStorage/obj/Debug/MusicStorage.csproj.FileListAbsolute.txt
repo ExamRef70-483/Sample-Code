@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-25 Assemblies\MusicStorage\bin\Debug\MusicStorage.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-25 Assemblies\MusicStorage\bin\Debug\MusicStorage.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-25 Assemblies\MusicStorage\obj\Debug\MusicStorage.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-25 Assemblies\MusicStorage\obj\Debug\MusicStorage.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-25 Assemblies\MusicStorage\obj\Debug\MusicStorage.dll
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-25 Assemblies\MusicStorage\obj\Debug\MusicStorage.pdb

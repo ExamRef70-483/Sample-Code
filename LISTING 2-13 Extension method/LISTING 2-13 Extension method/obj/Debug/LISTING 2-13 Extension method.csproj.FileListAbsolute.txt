@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-13 Extension method\LISTING 2-13 Extension method\bin\Debug\LISTING 2-13 Extension method.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-13 Extension method\LISTING 2-13 Extension method\bin\Debug\LISTING 2-13 Extension method.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-13 Extension method\LISTING 2-13 Extension method\bin\Debug\LISTING 2-13 Extension method.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-13 Extension method\LISTING 2-13 Extension method\obj\Debug\LISTING 2-13 Extension method.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-13 Extension method\LISTING 2-13 Extension method\obj\Debug\LISTING 2-13 Extension method.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-13 Extension method\LISTING 2-13 Extension method\obj\Debug\LISTING 2-13 Extension method.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-13 Extension method\LISTING 2-13 Extension method\obj\Debug\LISTING 2-13 Extension method.pdb

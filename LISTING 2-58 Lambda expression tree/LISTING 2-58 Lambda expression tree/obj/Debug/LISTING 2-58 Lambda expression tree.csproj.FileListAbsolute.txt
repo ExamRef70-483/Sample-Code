@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-58 Lambda expression tree\LISTING 2-58 Lambda expression tree\bin\Debug\LISTING 2-58 Lambda expression tree.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-58 Lambda expression tree\LISTING 2-58 Lambda expression tree\bin\Debug\LISTING 2-58 Lambda expression tree.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-58 Lambda expression tree\LISTING 2-58 Lambda expression tree\bin\Debug\LISTING 2-58 Lambda expression tree.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-58 Lambda expression tree\LISTING 2-58 Lambda expression tree\obj\Debug\LISTING 2-58 Lambda expression tree.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-58 Lambda expression tree\LISTING 2-58 Lambda expression tree\obj\Debug\LISTING 2-58 Lambda expression tree.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-58 Lambda expression tree\LISTING 2-58 Lambda expression tree\obj\Debug\LISTING 2-58 Lambda expression tree.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-58 Lambda expression tree\LISTING 2-58 Lambda expression tree\obj\Debug\LISTING 2-58 Lambda expression tree.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-59 using continue\LISTING 1-59 using continue\bin\Debug\LISTING 1-59 using continue.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-59 using continue\LISTING 1-59 using continue\bin\Debug\LISTING 1-59 using continue.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-59 using continue\LISTING 1-59 using continue\bin\Debug\LISTING 1-59 using continue.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-59 using continue\LISTING 1-59 using continue\obj\Debug\LISTING 1-59 using continue.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-59 using continue\LISTING 1-59 using continue\obj\Debug\LISTING 1-59 using continue.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-59 using continue\LISTING 1-59 using continue\obj\Debug\LISTING 1-59 using continue.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-59 using continue\LISTING 1-59 using continue\obj\Debug\LISTING 1-59 using continue.pdb

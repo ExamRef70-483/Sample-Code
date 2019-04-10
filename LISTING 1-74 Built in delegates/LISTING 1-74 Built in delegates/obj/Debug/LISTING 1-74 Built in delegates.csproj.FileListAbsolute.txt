@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-74 Built in delegates\LISTING 1-74 Built in delegates\bin\Debug\LISTING 1-74 Built in delegates.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-74 Built in delegates\LISTING 1-74 Built in delegates\bin\Debug\LISTING 1-74 Built in delegates.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-74 Built in delegates\LISTING 1-74 Built in delegates\bin\Debug\LISTING 1-74 Built in delegates.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-74 Built in delegates\LISTING 1-74 Built in delegates\obj\Debug\LISTING 1-74 Built in delegates.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-74 Built in delegates\LISTING 1-74 Built in delegates\obj\Debug\LISTING 1-74 Built in delegates.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-74 Built in delegates\LISTING 1-74 Built in delegates\obj\Debug\LISTING 1-74 Built in delegates.pdb

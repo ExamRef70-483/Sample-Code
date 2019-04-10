@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-36 LINQ group\LISTING 4-36 LINQ group\bin\Debug\LISTING 4-36 LINQ group.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-36 LINQ group\LISTING 4-36 LINQ group\bin\Debug\LISTING 4-36 LINQ group.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-36 LINQ group\LISTING 4-36 LINQ group\bin\Debug\LISTING 4-36 LINQ group.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-36 LINQ group\LISTING 4-36 LINQ group\obj\Debug\LISTING 4-36 LINQ group.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-36 LINQ group\LISTING 4-36 LINQ group\obj\Debug\LISTING 4-36 LINQ group.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-36 LINQ group\LISTING 4-36 LINQ group\obj\Debug\LISTING 4-36 LINQ group.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-36 LINQ group\LISTING 4-36 LINQ group\obj\Debug\LISTING 4-36 LINQ group.pdb

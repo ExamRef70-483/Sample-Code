@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-38 TraceSwitch\LISTING 3-38 TraceSwitch\bin\Debug\LISTING 3-38 TraceSwitch.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-38 TraceSwitch\LISTING 3-38 TraceSwitch\bin\Debug\LISTING 3-38 TraceSwitch.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-38 TraceSwitch\LISTING 3-38 TraceSwitch\bin\Debug\LISTING 3-38 TraceSwitch.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-38 TraceSwitch\LISTING 3-38 TraceSwitch\obj\Debug\LISTING 3-38 TraceSwitch.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-38 TraceSwitch\LISTING 3-38 TraceSwitch\obj\Debug\LISTING 3-38 TraceSwitch.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-38 TraceSwitch\LISTING 3-38 TraceSwitch\obj\Debug\LISTING 3-38 TraceSwitch.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-38 TraceSwitch\LISTING 3-38 TraceSwitch\obj\Debug\LISTING 3-38 TraceSwitch.pdb

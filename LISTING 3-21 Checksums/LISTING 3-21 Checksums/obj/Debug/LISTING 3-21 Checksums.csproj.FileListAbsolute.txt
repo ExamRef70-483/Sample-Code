@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-21 Checksums\LISTING 3-21 Checksums\bin\Debug\LISTING 3-21 Checksums.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-21 Checksums\LISTING 3-21 Checksums\bin\Debug\LISTING 3-21 Checksums.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-21 Checksums\LISTING 3-21 Checksums\bin\Debug\LISTING 3-21 Checksums.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-21 Checksums\LISTING 3-21 Checksums\obj\Debug\LISTING 3-21 Checksums.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-21 Checksums\LISTING 3-21 Checksums\obj\Debug\LISTING 3-21 Checksums.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-21 Checksums\LISTING 3-21 Checksums\obj\Debug\LISTING 3-21 Checksums.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-21 Checksums\LISTING 3-21 Checksums\obj\Debug\LISTING 3-21 Checksums.pdb

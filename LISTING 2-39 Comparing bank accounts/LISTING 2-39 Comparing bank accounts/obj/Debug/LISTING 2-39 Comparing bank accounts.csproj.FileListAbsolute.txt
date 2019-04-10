@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-39 Comparing bank accounts\LISTING 2-39 Comparing bank accounts\bin\Debug\LISTING 2-39 Comparing bank accounts.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-39 Comparing bank accounts\LISTING 2-39 Comparing bank accounts\bin\Debug\LISTING 2-39 Comparing bank accounts.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-39 Comparing bank accounts\LISTING 2-39 Comparing bank accounts\bin\Debug\LISTING 2-39 Comparing bank accounts.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-39 Comparing bank accounts\LISTING 2-39 Comparing bank accounts\obj\Debug\LISTING 2-39 Comparing bank accounts.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-39 Comparing bank accounts\LISTING 2-39 Comparing bank accounts\obj\Debug\LISTING 2-39 Comparing bank accounts.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-39 Comparing bank accounts\LISTING 2-39 Comparing bank accounts\obj\Debug\LISTING 2-39 Comparing bank accounts.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-39 Comparing bank accounts\LISTING 2-39 Comparing bank accounts\obj\Debug\LISTING 2-39 Comparing bank accounts.csprojResolveAssemblyReference.cache

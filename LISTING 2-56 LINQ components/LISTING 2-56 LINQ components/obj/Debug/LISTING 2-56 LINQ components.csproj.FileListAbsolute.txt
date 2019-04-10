@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-56 LINQ components\LISTING 2-56 LINQ components\bin\Debug\LISTING 2-56 LINQ components.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-56 LINQ components\LISTING 2-56 LINQ components\bin\Debug\LISTING 2-56 LINQ components.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-56 LINQ components\LISTING 2-56 LINQ components\bin\Debug\LISTING 2-56 LINQ components.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-56 LINQ components\LISTING 2-56 LINQ components\obj\Debug\LISTING 2-56 LINQ components.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-56 LINQ components\LISTING 2-56 LINQ components\obj\Debug\LISTING 2-56 LINQ components.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-56 LINQ components\LISTING 2-56 LINQ components\obj\Debug\LISTING 2-56 LINQ components.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-56 LINQ components\LISTING 2-56 LINQ components\obj\Debug\LISTING 2-56 LINQ components.pdb

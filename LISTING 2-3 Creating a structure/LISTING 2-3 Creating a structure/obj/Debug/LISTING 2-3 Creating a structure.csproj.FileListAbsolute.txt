@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-3 Creating a structure\LISTING 2-3 Creating a structure\bin\Debug\LISTING 2-3 Creating a structure.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-3 Creating a structure\LISTING 2-3 Creating a structure\bin\Debug\LISTING 2-3 Creating a structure.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-3 Creating a structure\LISTING 2-3 Creating a structure\bin\Debug\LISTING 2-3 Creating a structure.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-3 Creating a structure\LISTING 2-3 Creating a structure\obj\Debug\LISTING 2-3 Creating a structure.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-3 Creating a structure\LISTING 2-3 Creating a structure\obj\Debug\LISTING 2-3 Creating a structure.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-3 Creating a structure\LISTING 2-3 Creating a structure\obj\Debug\LISTING 2-3 Creating a structure.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-3 Creating a structure\LISTING 2-3 Creating a structure\obj\Debug\LISTING 2-3 Creating a structure.pdb

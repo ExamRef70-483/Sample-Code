@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-15 Optional parameters\LISTING 2-15 Optional parameters\bin\Debug\LISTING 2-15 Optional parameters.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-15 Optional parameters\LISTING 2-15 Optional parameters\bin\Debug\LISTING 2-15 Optional parameters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-15 Optional parameters\LISTING 2-15 Optional parameters\bin\Debug\LISTING 2-15 Optional parameters.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-15 Optional parameters\LISTING 2-15 Optional parameters\obj\Debug\LISTING 2-15 Optional parameters.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-15 Optional parameters\LISTING 2-15 Optional parameters\obj\Debug\LISTING 2-15 Optional parameters.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-15 Optional parameters\LISTING 2-15 Optional parameters\obj\Debug\LISTING 2-15 Optional parameters.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-59 Word counter\LISTING 4-59 Word counter\bin\Debug\LISTING 4-59 Word counter.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-59 Word counter\LISTING 4-59 Word counter\bin\Debug\LISTING 4-59 Word counter.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-59 Word counter\LISTING 4-59 Word counter\bin\Debug\LISTING 4-59 Word counter.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-59 Word counter\LISTING 4-59 Word counter\obj\Debug\LISTING 4-59 Word counter.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-59 Word counter\LISTING 4-59 Word counter\obj\Debug\LISTING 4-59 Word counter.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-59 Word counter\LISTING 4-59 Word counter\obj\Debug\LISTING 4-59 Word counter.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-59 Word counter\LISTING 4-59 Word counter\obj\Debug\LISTING 4-59 Word counter.pdb

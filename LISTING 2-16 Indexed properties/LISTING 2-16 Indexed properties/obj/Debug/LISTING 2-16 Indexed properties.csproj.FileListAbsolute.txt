@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-16 Indexed properties\LISTING 2-16 Indexed properties\bin\Debug\LISTING 2-16 Indexed properties.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-16 Indexed properties\LISTING 2-16 Indexed properties\bin\Debug\LISTING 2-16 Indexed properties.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-16 Indexed properties\LISTING 2-16 Indexed properties\bin\Debug\LISTING 2-16 Indexed properties.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-16 Indexed properties\LISTING 2-16 Indexed properties\obj\Debug\LISTING 2-16 Indexed properties.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-16 Indexed properties\LISTING 2-16 Indexed properties\obj\Debug\LISTING 2-16 Indexed properties.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-16 Indexed properties\LISTING 2-16 Indexed properties\obj\Debug\LISTING 2-16 Indexed properties.pdb

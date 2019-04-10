@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-41 Get an enumerator\LISTING 2-41 Get an enumerator\bin\Debug\LISTING 2-41 Get an enumerator.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-41 Get an enumerator\LISTING 2-41 Get an enumerator\bin\Debug\LISTING 2-41 Get an enumerator.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-41 Get an enumerator\LISTING 2-41 Get an enumerator\bin\Debug\LISTING 2-41 Get an enumerator.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-41 Get an enumerator\LISTING 2-41 Get an enumerator\obj\Debug\LISTING 2-41 Get an enumerator.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-41 Get an enumerator\LISTING 2-41 Get an enumerator\obj\Debug\LISTING 2-41 Get an enumerator.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-41 Get an enumerator\LISTING 2-41 Get an enumerator\obj\Debug\LISTING 2-41 Get an enumerator.pdb

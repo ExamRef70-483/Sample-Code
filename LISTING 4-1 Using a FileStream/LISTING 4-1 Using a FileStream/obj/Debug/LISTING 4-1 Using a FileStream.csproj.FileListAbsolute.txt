@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-1 Using a FileStream\LISTING 4-1 Using a FileStream\obj\Debug\LISTING 4-1 Using a FileStream.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-1 Using a FileStream\LISTING 4-1 Using a FileStream\obj\Debug\LISTING 4-1 Using a FileStream.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-1 Using a FileStream\LISTING 4-1 Using a FileStream\bin\Debug\LISTING 4-1 Using a FileStream.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-1 Using a FileStream\LISTING 4-1 Using a FileStream\bin\Debug\LISTING 4-1 Using a FileStream.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-1 Using a FileStream\LISTING 4-1 Using a FileStream\bin\Debug\LISTING 4-1 Using a FileStream.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-1 Using a FileStream\LISTING 4-1 Using a FileStream\obj\Debug\LISTING 4-1 Using a FileStream.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-1 Using a FileStream\LISTING 4-1 Using a FileStream\obj\Debug\LISTING 4-1 Using a FileStream.pdb

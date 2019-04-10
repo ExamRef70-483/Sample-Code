@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 TCP over sockets\LISTING 4-14 TCP over sockets\bin\Debug\LISTING 4-14 TCP over sockets.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 TCP over sockets\LISTING 4-14 TCP over sockets\bin\Debug\LISTING 4-14 TCP over sockets.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 TCP over sockets\LISTING 4-14 TCP over sockets\bin\Debug\LISTING 4-14 TCP over sockets.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 TCP over sockets\LISTING 4-14 TCP over sockets\obj\Debug\LISTING 4-14 TCP over sockets.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 TCP over sockets\LISTING 4-14 TCP over sockets\obj\Debug\LISTING 4-14 TCP over sockets.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 TCP over sockets\LISTING 4-14 TCP over sockets\obj\Debug\LISTING 4-14 TCP over sockets.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-14 TCP over sockets\LISTING 4-14 TCP over sockets\obj\Debug\LISTING 4-14 TCP over sockets.pdb

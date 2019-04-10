@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-79 The finally block\LISTING 1-79 The finally block\bin\Debug\LISTING 1-79 The finally block.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-79 The finally block\LISTING 1-79 The finally block\bin\Debug\LISTING 1-79 The finally block.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-79 The finally block\LISTING 1-79 The finally block\bin\Debug\LISTING 1-79 The finally block.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-79 The finally block\LISTING 1-79 The finally block\obj\Debug\LISTING 1-79 The finally block.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-79 The finally block\LISTING 1-79 The finally block\obj\Debug\LISTING 1-79 The finally block.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-79 The finally block\LISTING 1-79 The finally block\obj\Debug\LISTING 1-79 The finally block.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-79 The finally block\LISTING 1-79 The finally block\obj\Debug\LISTING 1-79 The finally block.csprojResolveAssemblyReference.cache

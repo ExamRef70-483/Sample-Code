@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-10 Static constructors\LISTING 2-10 Static constructors\bin\Debug\LISTING 2-10 Static constructors.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-10 Static constructors\LISTING 2-10 Static constructors\bin\Debug\LISTING 2-10 Static constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-10 Static constructors\LISTING 2-10 Static constructors\bin\Debug\LISTING 2-10 Static constructors.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-10 Static constructors\LISTING 2-10 Static constructors\obj\Debug\LISTING 2-10 Static constructors.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-10 Static constructors\LISTING 2-10 Static constructors\obj\Debug\LISTING 2-10 Static constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-10 Static constructors\LISTING 2-10 Static constructors\obj\Debug\LISTING 2-10 Static constructors.pdb

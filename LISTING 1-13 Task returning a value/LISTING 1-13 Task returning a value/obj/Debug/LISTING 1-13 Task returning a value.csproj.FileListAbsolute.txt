@@ -1,6 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-13 Task returning a value\LISTING 1-13 Task returning a value\bin\Debug\LISTING 1-13 Task returning a value.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-13 Task returning a value\LISTING 1-13 Task returning a value\bin\Debug\LISTING 1-13 Task returning a value.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-13 Task returning a value\LISTING 1-13 Task returning a value\bin\Debug\LISTING 1-13 Task returning a value.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-13 Task returning a value\LISTING 1-13 Task returning a value\obj\Debug\LISTING 1-13 Task returning a value.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-13 Task returning a value\LISTING 1-13 Task returning a value\obj\Debug\LISTING 1-13 Task returning a value.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-13 Task returning a value\LISTING 1-13 Task returning a value\obj\Debug\LISTING 1-13 Task returning a value.pdb

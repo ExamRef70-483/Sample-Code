@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-66 String intern\LISTING 2-66 String intern\bin\Debug\LISTING 2-66 String intern.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-66 String intern\LISTING 2-66 String intern\bin\Debug\LISTING 2-66 String intern.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-66 String intern\LISTING 2-66 String intern\bin\Debug\LISTING 2-66 String intern.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-66 String intern\LISTING 2-66 String intern\obj\Debug\LISTING 2-66 String intern.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-66 String intern\LISTING 2-66 String intern\obj\Debug\LISTING 2-66 String intern.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-66 String intern\LISTING 2-66 String intern\obj\Debug\LISTING 2-66 String intern.pdb

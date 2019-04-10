@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-44 Sensible locking\LISTING 1-44 Sensible locking\bin\Debug\LISTING 1-44 Sensible locking.exe.config
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-44 Sensible locking\LISTING 1-44 Sensible locking\bin\Debug\LISTING 1-44 Sensible locking.exe
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-44 Sensible locking\LISTING 1-44 Sensible locking\bin\Debug\LISTING 1-44 Sensible locking.pdb
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-44 Sensible locking\LISTING 1-44 Sensible locking\obj\Debug\LISTING 1-44 Sensible locking.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-44 Sensible locking\LISTING 1-44 Sensible locking\obj\Debug\LISTING 1-44 Sensible locking.exe
-C:\Users\Rob\Documents\Visual Studio 2017\Projects\LISTING 1-44 Sensible locking\LISTING 1-44 Sensible locking\obj\Debug\LISTING 1-44 Sensible locking.pdb

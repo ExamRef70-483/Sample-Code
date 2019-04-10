@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-68 Custom collection\LISTING 4-68 Custom collection\bin\Debug\LISTING 4-68 Custom collection.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-68 Custom collection\LISTING 4-68 Custom collection\bin\Debug\LISTING 4-68 Custom collection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-68 Custom collection\LISTING 4-68 Custom collection\bin\Debug\LISTING 4-68 Custom collection.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-68 Custom collection\LISTING 4-68 Custom collection\obj\Debug\LISTING 4-68 Custom collection.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-68 Custom collection\LISTING 4-68 Custom collection\obj\Debug\LISTING 4-68 Custom collection.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-68 Custom collection\LISTING 4-68 Custom collection\obj\Debug\LISTING 4-68 Custom collection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-68 Custom collection\LISTING 4-68 Custom collection\obj\Debug\LISTING 4-68 Custom collection.pdb

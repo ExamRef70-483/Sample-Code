@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-34 Anonymous type\LISTING 4-34 Anonymous type\bin\Debug\LISTING 4-34 Anonymous type.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-34 Anonymous type\LISTING 4-34 Anonymous type\bin\Debug\LISTING 4-34 Anonymous type.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-34 Anonymous type\LISTING 4-34 Anonymous type\bin\Debug\LISTING 4-34 Anonymous type.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-34 Anonymous type\LISTING 4-34 Anonymous type\obj\Debug\LISTING 4-34 Anonymous type.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-34 Anonymous type\LISTING 4-34 Anonymous type\obj\Debug\LISTING 4-34 Anonymous type.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-34 Anonymous type\LISTING 4-34 Anonymous type\obj\Debug\LISTING 4-34 Anonymous type.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-34 Anonymous type\LISTING 4-34 Anonymous type\obj\Debug\LISTING 4-34 Anonymous type.pdb

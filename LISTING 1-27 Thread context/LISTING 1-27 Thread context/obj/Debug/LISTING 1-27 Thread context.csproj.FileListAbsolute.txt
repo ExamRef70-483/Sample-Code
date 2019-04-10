@@ -1,6 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-27 Thread context\LISTING 1-27 Thread context\bin\Debug\LISTING 1-27 Thread context.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-27 Thread context\LISTING 1-27 Thread context\bin\Debug\LISTING 1-27 Thread context.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-27 Thread context\LISTING 1-27 Thread context\bin\Debug\LISTING 1-27 Thread context.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-27 Thread context\LISTING 1-27 Thread context\obj\Debug\LISTING 1-27 Thread context.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-27 Thread context\LISTING 1-27 Thread context\obj\Debug\LISTING 1-27 Thread context.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-27 Thread context\LISTING 1-27 Thread context\obj\Debug\LISTING 1-27 Thread context.pdb

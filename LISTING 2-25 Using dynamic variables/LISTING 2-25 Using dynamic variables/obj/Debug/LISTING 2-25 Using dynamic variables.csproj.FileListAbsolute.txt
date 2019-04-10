@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-25 Using dynamic variables\LISTING 2-25 Using dynamic variables\bin\Debug\LISTING 2-25 Using dynamic variables.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-25 Using dynamic variables\LISTING 2-25 Using dynamic variables\bin\Debug\LISTING 2-25 Using dynamic variables.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-25 Using dynamic variables\LISTING 2-25 Using dynamic variables\bin\Debug\LISTING 2-25 Using dynamic variables.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-25 Using dynamic variables\LISTING 2-25 Using dynamic variables\obj\Debug\LISTING 2-25 Using dynamic variables.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-25 Using dynamic variables\LISTING 2-25 Using dynamic variables\obj\Debug\LISTING 2-25 Using dynamic variables.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-25 Using dynamic variables\LISTING 2-25 Using dynamic variables\obj\Debug\LISTING 2-25 Using dynamic variables.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-25 Using dynamic variables\LISTING 2-25 Using dynamic variables\obj\Debug\LISTING 2-25 Using dynamic variables.pdb

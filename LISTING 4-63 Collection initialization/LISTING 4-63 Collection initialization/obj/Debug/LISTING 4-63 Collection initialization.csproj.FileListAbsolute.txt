@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-63 Collection initialization\LISTING 4-63 Collection initialization\bin\Debug\LISTING 4-63 Collection initialization.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-63 Collection initialization\LISTING 4-63 Collection initialization\bin\Debug\LISTING 4-63 Collection initialization.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-63 Collection initialization\LISTING 4-63 Collection initialization\bin\Debug\LISTING 4-63 Collection initialization.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-63 Collection initialization\LISTING 4-63 Collection initialization\obj\Debug\LISTING 4-63 Collection initialization.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-63 Collection initialization\LISTING 4-63 Collection initialization\obj\Debug\LISTING 4-63 Collection initialization.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-63 Collection initialization\LISTING 4-63 Collection initialization\obj\Debug\LISTING 4-63 Collection initialization.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-63 Collection initialization\LISTING 4-63 Collection initialization\obj\Debug\LISTING 4-63 Collection initialization.pdb

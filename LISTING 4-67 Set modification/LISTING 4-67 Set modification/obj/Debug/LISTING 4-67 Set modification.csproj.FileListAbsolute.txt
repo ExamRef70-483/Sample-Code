@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-67 Set modification\LISTING 4-67 Set modification\bin\Debug\LISTING 4-67 Set modification.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-67 Set modification\LISTING 4-67 Set modification\bin\Debug\LISTING 4-67 Set modification.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-67 Set modification\LISTING 4-67 Set modification\bin\Debug\LISTING 4-67 Set modification.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-67 Set modification\LISTING 4-67 Set modification\obj\Debug\LISTING 4-67 Set modification.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-67 Set modification\LISTING 4-67 Set modification\obj\Debug\LISTING 4-67 Set modification.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-67 Set modification\LISTING 4-67 Set modification\obj\Debug\LISTING 4-67 Set modification.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-67 Set modification\LISTING 4-67 Set modification\obj\Debug\LISTING 4-67 Set modification.pdb

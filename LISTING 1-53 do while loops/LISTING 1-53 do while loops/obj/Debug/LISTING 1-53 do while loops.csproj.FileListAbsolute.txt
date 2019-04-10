@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-53 do while loops\LISTING 1-53 do while loops\bin\Debug\LISTING 1-53 do while loops.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-53 do while loops\LISTING 1-53 do while loops\bin\Debug\LISTING 1-53 do while loops.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-53 do while loops\LISTING 1-53 do while loops\bin\Debug\LISTING 1-53 do while loops.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-53 do while loops\LISTING 1-53 do while loops\obj\Debug\LISTING 1-53 do while loops.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-53 do while loops\LISTING 1-53 do while loops\obj\Debug\LISTING 1-53 do while loops.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-53 do while loops\LISTING 1-53 do while loops\obj\Debug\LISTING 1-53 do while loops.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-53 do while loops\LISTING 1-53 do while loops\obj\Debug\LISTING 1-53 do while loops.pdb

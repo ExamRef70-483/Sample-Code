@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-62 The switch construction\LISTING 1-62 The switch construction\bin\Debug\LISTING 1-62 The switch construction.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-62 The switch construction\LISTING 1-62 The switch construction\bin\Debug\LISTING 1-62 The switch construction.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-62 The switch construction\LISTING 1-62 The switch construction\bin\Debug\LISTING 1-62 The switch construction.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-62 The switch construction\LISTING 1-62 The switch construction\obj\Debug\LISTING 1-62 The switch construction.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-62 The switch construction\LISTING 1-62 The switch construction\obj\Debug\LISTING 1-62 The switch construction.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-62 The switch construction\LISTING 1-62 The switch construction\obj\Debug\LISTING 1-62 The switch construction.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-62 The switch construction\LISTING 1-62 The switch construction\obj\Debug\LISTING 1-62 The switch construction.pdb

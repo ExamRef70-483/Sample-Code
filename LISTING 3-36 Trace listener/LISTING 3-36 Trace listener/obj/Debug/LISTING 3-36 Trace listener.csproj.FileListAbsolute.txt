@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 3-36 Trace listener\LISTING 3-36 Trace listener\bin\Debug\LISTING 3-36 Trace listener.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 3-36 Trace listener\LISTING 3-36 Trace listener\bin\Debug\LISTING 3-36 Trace listener.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 3-36 Trace listener\LISTING 3-36 Trace listener\bin\Debug\LISTING 3-36 Trace listener.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 3-36 Trace listener\LISTING 3-36 Trace listener\obj\Debug\LISTING 3-36 Trace listener.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 3-36 Trace listener\LISTING 3-36 Trace listener\obj\Debug\LISTING 3-36 Trace listener.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 3-36 Trace listener\LISTING 3-36 Trace listener\obj\Debug\LISTING 3-36 Trace listener.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 3-36 Trace listener\LISTING 3-36 Trace listener\obj\Debug\LISTING 3-36 Trace listener.pdb

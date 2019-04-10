@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions\bin\Debug\LISTING 1-84 Aggregate exceptions.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions\bin\Debug\LISTING 1-84 Aggregate exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions\bin\Debug\LISTING 1-84 Aggregate exceptions.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions\obj\Debug\LISTING 1-84 Aggregate exceptions.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions\obj\Debug\LISTING 1-84 Aggregate exceptions.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions\obj\Debug\LISTING 1-84 Aggregate exceptions.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-84 Aggregate exceptions\LISTING 1-84 Aggregate exceptions\obj\Debug\LISTING 1-84 Aggregate exceptions.pdb

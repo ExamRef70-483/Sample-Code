@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-56 iterate with foreach\LISTING 1-56 iterate with foreach\bin\Debug\LISTING 1-56 iterate with foreach.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-56 iterate with foreach\LISTING 1-56 iterate with foreach\bin\Debug\LISTING 1-56 iterate with foreach.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-56 iterate with foreach\LISTING 1-56 iterate with foreach\bin\Debug\LISTING 1-56 iterate with foreach.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-56 iterate with foreach\LISTING 1-56 iterate with foreach\obj\Debug\LISTING 1-56 iterate with foreach.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-56 iterate with foreach\LISTING 1-56 iterate with foreach\obj\Debug\LISTING 1-56 iterate with foreach.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-56 iterate with foreach\LISTING 1-56 iterate with foreach\obj\Debug\LISTING 1-56 iterate with foreach.pdb

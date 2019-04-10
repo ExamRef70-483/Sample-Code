@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-6 Simple regular expression\LISTING 3-6 Simple regular expression\bin\Debug\LISTING 3-6 Simple regular expression.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-6 Simple regular expression\LISTING 3-6 Simple regular expression\bin\Debug\LISTING 3-6 Simple regular expression.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-6 Simple regular expression\LISTING 3-6 Simple regular expression\bin\Debug\LISTING 3-6 Simple regular expression.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-6 Simple regular expression\LISTING 3-6 Simple regular expression\obj\Debug\LISTING 3-6 Simple regular expression.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-6 Simple regular expression\LISTING 3-6 Simple regular expression\obj\Debug\LISTING 3-6 Simple regular expression.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-6 Simple regular expression\LISTING 3-6 Simple regular expression\obj\Debug\LISTING 3-6 Simple regular expression.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-6 Simple regular expression\LISTING 3-6 Simple regular expression\obj\Debug\LISTING 3-6 Simple regular expression.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-60 Set example\LISTING 4-60 Set example\bin\Debug\LISTING 4-60 Set example.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-60 Set example\LISTING 4-60 Set example\bin\Debug\LISTING 4-60 Set example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-60 Set example\LISTING 4-60 Set example\bin\Debug\LISTING 4-60 Set example.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-60 Set example\LISTING 4-60 Set example\obj\Debug\LISTING 4-60 Set example.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-60 Set example\LISTING 4-60 Set example\obj\Debug\LISTING 4-60 Set example.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-60 Set example\LISTING 4-60 Set example\obj\Debug\LISTING 4-60 Set example.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-60 Set example\LISTING 4-60 Set example\obj\Debug\LISTING 4-60 Set example.pdb

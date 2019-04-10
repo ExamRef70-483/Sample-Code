@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task\bin\Debug\LISTING 1-75 lambda expression task.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task\bin\Debug\LISTING 1-75 lambda expression task.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task\bin\Debug\LISTING 1-75 lambda expression task.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task\obj\Debug\LISTING 1-75 lambda expression task.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task\obj\Debug\LISTING 1-75 lambda expression task.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task\obj\Debug\LISTING 1-75 lambda expression task.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 1-75 lambda expression task\LISTING 1-75 lambda expression task\obj\Debug\LISTING 1-75 lambda expression task.pdb

@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\bin\Debug\LISTING 1-41 Single task summing.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\bin\Debug\LISTING 1-41 Single task summing.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\bin\Debug\LISTING 1-41 Single task summing.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.pdb

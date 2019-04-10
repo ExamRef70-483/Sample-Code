@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear\bin\Debug\LISTING 3-18 RSA stored key clear.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear\bin\Debug\LISTING 3-18 RSA stored key clear.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear\bin\Debug\LISTING 3-18 RSA stored key clear.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear\obj\Debug\LISTING 3-18 RSA stored key clear.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear\obj\Debug\LISTING 3-18 RSA stored key clear.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear\obj\Debug\LISTING 3-18 RSA stored key clear.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-18 RSA stored key clear\LISTING 3-18 RSA stored key clear\obj\Debug\LISTING 3-18 RSA stored key clear.csprojResolveAssemblyReference.cache

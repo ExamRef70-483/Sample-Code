@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Debug\LISTING 3-41 Stopwatch class.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Debug\LISTING 3-41 Stopwatch class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\bin\Debug\LISTING 3-41 Stopwatch class.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\obj\Debug\LISTING 3-41 Stopwatch class.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\obj\Debug\LISTING 3-41 Stopwatch class.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\obj\Debug\LISTING 3-41 Stopwatch class.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-41 Stopwatch class\LISTING 3-41 Stopwatch class\obj\Debug\LISTING 3-41 Stopwatch class.pdb

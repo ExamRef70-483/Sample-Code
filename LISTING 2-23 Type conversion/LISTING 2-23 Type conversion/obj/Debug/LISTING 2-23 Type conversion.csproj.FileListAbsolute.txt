@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-23 Type conversion\LISTING 2-23 Type conversion\bin\Debug\LISTING 2-23 Type conversion.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-23 Type conversion\LISTING 2-23 Type conversion\bin\Debug\LISTING 2-23 Type conversion.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-23 Type conversion\LISTING 2-23 Type conversion\bin\Debug\LISTING 2-23 Type conversion.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-23 Type conversion\LISTING 2-23 Type conversion\obj\Debug\LISTING 2-23 Type conversion.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-23 Type conversion\LISTING 2-23 Type conversion\obj\Debug\LISTING 2-23 Type conversion.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-23 Type conversion\LISTING 2-23 Type conversion\obj\Debug\LISTING 2-23 Type conversion.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-23 Type conversion\LISTING 2-23 Type conversion\obj\Debug\LISTING 2-23 Type conversion.pdb

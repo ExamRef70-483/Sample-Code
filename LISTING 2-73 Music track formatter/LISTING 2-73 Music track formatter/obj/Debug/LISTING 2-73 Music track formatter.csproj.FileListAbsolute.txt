@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\bin\Debug\LISTING 2-73 Music track formatter.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\bin\Debug\LISTING 2-73 Music track formatter.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\bin\Debug\LISTING 2-73 Music track formatter.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-73 Music track formatter\LISTING 2-73 Music track formatter\obj\Debug\LISTING 2-73 Music track formatter.pdb

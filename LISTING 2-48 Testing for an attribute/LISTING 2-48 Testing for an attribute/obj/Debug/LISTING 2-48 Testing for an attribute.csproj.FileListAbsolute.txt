@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-48 Testing for an attribute\LISTING 2-48 Testing for an attribute\bin\Debug\LISTING 2-48 Testing for an attribute.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-48 Testing for an attribute\LISTING 2-48 Testing for an attribute\bin\Debug\LISTING 2-48 Testing for an attribute.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-48 Testing for an attribute\LISTING 2-48 Testing for an attribute\bin\Debug\LISTING 2-48 Testing for an attribute.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-48 Testing for an attribute\LISTING 2-48 Testing for an attribute\obj\Debug\LISTING 2-48 Testing for an attribute.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-48 Testing for an attribute\LISTING 2-48 Testing for an attribute\obj\Debug\LISTING 2-48 Testing for an attribute.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-48 Testing for an attribute\LISTING 2-48 Testing for an attribute\obj\Debug\LISTING 2-48 Testing for an attribute.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-48 Testing for an attribute\LISTING 2-48 Testing for an attribute\obj\Debug\LISTING 2-48 Testing for an attribute.pdb

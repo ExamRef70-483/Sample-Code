@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-54 Reflection method call\LISTING 2-54 Reflection method call\bin\Debug\LISTING 2-54 Reflection method call.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-54 Reflection method call\LISTING 2-54 Reflection method call\bin\Debug\LISTING 2-54 Reflection method call.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-54 Reflection method call\LISTING 2-54 Reflection method call\bin\Debug\LISTING 2-54 Reflection method call.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-54 Reflection method call\LISTING 2-54 Reflection method call\obj\Debug\LISTING 2-54 Reflection method call.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-54 Reflection method call\LISTING 2-54 Reflection method call\obj\Debug\LISTING 2-54 Reflection method call.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-54 Reflection method call\LISTING 2-54 Reflection method call\obj\Debug\LISTING 2-54 Reflection method call.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-54 Reflection method call\LISTING 2-54 Reflection method call\obj\Debug\LISTING 2-54 Reflection method call.pdb

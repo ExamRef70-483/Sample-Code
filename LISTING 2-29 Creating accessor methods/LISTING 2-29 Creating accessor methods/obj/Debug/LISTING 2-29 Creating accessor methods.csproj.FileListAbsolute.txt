@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-29 Creating accessor methods\LISTING 2-29 Creating accessor methods\bin\Debug\LISTING 2-29 Creating accessor methods.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-29 Creating accessor methods\LISTING 2-29 Creating accessor methods\bin\Debug\LISTING 2-29 Creating accessor methods.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-29 Creating accessor methods\LISTING 2-29 Creating accessor methods\bin\Debug\LISTING 2-29 Creating accessor methods.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-29 Creating accessor methods\LISTING 2-29 Creating accessor methods\obj\Debug\LISTING 2-29 Creating accessor methods.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-29 Creating accessor methods\LISTING 2-29 Creating accessor methods\obj\Debug\LISTING 2-29 Creating accessor methods.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-29 Creating accessor methods\LISTING 2-29 Creating accessor methods\obj\Debug\LISTING 2-29 Creating accessor methods.pdb

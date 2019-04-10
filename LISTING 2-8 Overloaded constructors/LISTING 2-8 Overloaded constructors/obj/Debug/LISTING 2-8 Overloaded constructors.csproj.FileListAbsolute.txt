@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-8 Overloaded constructors\LISTING 2-8 Overloaded constructors\bin\Debug\LISTING 2-8 Overloaded constructors.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-8 Overloaded constructors\LISTING 2-8 Overloaded constructors\bin\Debug\LISTING 2-8 Overloaded constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-8 Overloaded constructors\LISTING 2-8 Overloaded constructors\bin\Debug\LISTING 2-8 Overloaded constructors.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-8 Overloaded constructors\LISTING 2-8 Overloaded constructors\obj\Debug\LISTING 2-8 Overloaded constructors.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-8 Overloaded constructors\LISTING 2-8 Overloaded constructors\obj\Debug\LISTING 2-8 Overloaded constructors.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-8 Overloaded constructors\LISTING 2-8 Overloaded constructors\obj\Debug\LISTING 2-8 Overloaded constructors.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-8 Overloaded constructors\LISTING 2-8 Overloaded constructors\obj\Debug\LISTING 2-8 Overloaded constructors.csprojResolveAssemblyReference.cache

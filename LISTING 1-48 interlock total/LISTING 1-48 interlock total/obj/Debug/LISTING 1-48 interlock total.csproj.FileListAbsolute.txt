@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-48 interlock total\LISTING 1-48 interlock total\obj\Debug\LISTING 1-48 interlock total.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-48 interlock total\LISTING 1-48 interlock total\obj\Debug\LISTING 1-48 interlock total.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-48 interlock total\LISTING 1-48 interlock total\bin\Debug\LISTING 1-48 interlock total.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-48 interlock total\LISTING 1-48 interlock total\bin\Debug\LISTING 1-48 interlock total.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-48 interlock total\LISTING 1-48 interlock total\bin\Debug\LISTING 1-48 interlock total.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-48 interlock total\LISTING 1-48 interlock total\obj\Debug\LISTING 1-48 interlock total.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-48 interlock total\LISTING 1-48 interlock total\obj\Debug\LISTING 1-48 interlock total.pdb

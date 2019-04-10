@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\MusicManagerSQL\MusicManagerSQL\bin\Debug\MusicManagerSQL.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\MusicManagerSQL\MusicManagerSQL\bin\Debug\MusicManagerSQL.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\MusicManagerSQL\MusicManagerSQL\bin\Debug\MusicManagerSQL.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\MusicManagerSQL\MusicManagerSQL\obj\Debug\MusicManagerSQL.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\MusicManagerSQL\MusicManagerSQL\obj\Debug\MusicManagerSQL.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\MusicManagerSQL\MusicManagerSQL\obj\Debug\MusicManagerSQL.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\MusicManagerSQL\MusicManagerSQL\obj\Debug\MusicManagerSQL.pdb

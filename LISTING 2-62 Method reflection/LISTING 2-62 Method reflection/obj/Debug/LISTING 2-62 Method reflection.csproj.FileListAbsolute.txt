@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method reflection\LISTING 2-62 Method reflection\obj\Debug\LISTING 2-62 Method reflection.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method reflection\LISTING 2-62 Method reflection\obj\Debug\LISTING 2-62 Method reflection.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method reflection\LISTING 2-62 Method reflection\bin\Debug\LISTING 2-62 Method reflection.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method reflection\LISTING 2-62 Method reflection\bin\Debug\LISTING 2-62 Method reflection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method reflection\LISTING 2-62 Method reflection\bin\Debug\LISTING 2-62 Method reflection.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method reflection\LISTING 2-62 Method reflection\obj\Debug\LISTING 2-62 Method reflection.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-62 Method reflection\LISTING 2-62 Method reflection\obj\Debug\LISTING 2-62 Method reflection.pdb

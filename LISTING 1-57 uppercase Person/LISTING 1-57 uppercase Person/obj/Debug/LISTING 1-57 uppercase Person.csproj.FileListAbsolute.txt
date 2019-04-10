@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\exam samples\LISTING 1-57 uppercase Person\LISTING 1-57 uppercase Person\bin\Debug\LISTING 1-57 uppercase Person.exe.config
-C:\Users\Rob\Documents\exam samples\LISTING 1-57 uppercase Person\LISTING 1-57 uppercase Person\bin\Debug\LISTING 1-57 uppercase Person.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-57 uppercase Person\LISTING 1-57 uppercase Person\bin\Debug\LISTING 1-57 uppercase Person.pdb
-C:\Users\Rob\Documents\exam samples\LISTING 1-57 uppercase Person\LISTING 1-57 uppercase Person\obj\Debug\LISTING 1-57 uppercase Person.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-57 uppercase Person\LISTING 1-57 uppercase Person\obj\Debug\LISTING 1-57 uppercase Person.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\exam samples\LISTING 1-57 uppercase Person\LISTING 1-57 uppercase Person\obj\Debug\LISTING 1-57 uppercase Person.exe
-C:\Users\Rob\Documents\exam samples\LISTING 1-57 uppercase Person\LISTING 1-57 uppercase Person\obj\Debug\LISTING 1-57 uppercase Person.pdb

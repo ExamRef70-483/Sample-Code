@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-2 Immutable DateTime\LISTING 2-2 Immutable DateTime\bin\Debug\LISTING 2-2 Immutable DateTime.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-2 Immutable DateTime\LISTING 2-2 Immutable DateTime\bin\Debug\LISTING 2-2 Immutable DateTime.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-2 Immutable DateTime\LISTING 2-2 Immutable DateTime\bin\Debug\LISTING 2-2 Immutable DateTime.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-2 Immutable DateTime\LISTING 2-2 Immutable DateTime\obj\Debug\LISTING 2-2 Immutable DateTime.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-2 Immutable DateTime\LISTING 2-2 Immutable DateTime\obj\Debug\LISTING 2-2 Immutable DateTime.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-2 Immutable DateTime\LISTING 2-2 Immutable DateTime\obj\Debug\LISTING 2-2 Immutable DateTime.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-2 Immutable DateTime\LISTING 2-2 Immutable DateTime\obj\Debug\LISTING 2-2 Immutable DateTime.pdb

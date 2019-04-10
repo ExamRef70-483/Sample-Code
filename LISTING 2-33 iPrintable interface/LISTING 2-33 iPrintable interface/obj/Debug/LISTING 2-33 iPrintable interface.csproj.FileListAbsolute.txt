@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-33 iPrintable interface\LISTING 2-33 iPrintable interface\bin\Debug\LISTING 2-33 iPrintable interface.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-33 iPrintable interface\LISTING 2-33 iPrintable interface\bin\Debug\LISTING 2-33 iPrintable interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-33 iPrintable interface\LISTING 2-33 iPrintable interface\bin\Debug\LISTING 2-33 iPrintable interface.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-33 iPrintable interface\LISTING 2-33 iPrintable interface\obj\Debug\LISTING 2-33 iPrintable interface.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-33 iPrintable interface\LISTING 2-33 iPrintable interface\obj\Debug\LISTING 2-33 iPrintable interface.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-33 iPrintable interface\LISTING 2-33 iPrintable interface\obj\Debug\LISTING 2-33 iPrintable interface.pdb

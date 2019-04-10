@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-19 Machine level keys\LISTING 3-19 Machine level keys\bin\Debug\LISTING 3-19 Machine level keys.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-19 Machine level keys\LISTING 3-19 Machine level keys\bin\Debug\LISTING 3-19 Machine level keys.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-19 Machine level keys\LISTING 3-19 Machine level keys\bin\Debug\LISTING 3-19 Machine level keys.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-19 Machine level keys\LISTING 3-19 Machine level keys\obj\Debug\LISTING 3-19 Machine level keys.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-19 Machine level keys\LISTING 3-19 Machine level keys\obj\Debug\LISTING 3-19 Machine level keys.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-19 Machine level keys\LISTING 3-19 Machine level keys\obj\Debug\LISTING 3-19 Machine level keys.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-19 Machine level keys\LISTING 3-19 Machine level keys\obj\Debug\LISTING 3-19 Machine level keys.csprojResolveAssemblyReference.cache

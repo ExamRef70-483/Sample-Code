@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-40 Complex query\LISTING 4-40 Complex query\bin\Debug\LISTING 4-40 Complex query.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-40 Complex query\LISTING 4-40 Complex query\bin\Debug\LISTING 4-40 Complex query.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-40 Complex query\LISTING 4-40 Complex query\bin\Debug\LISTING 4-40 Complex query.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-40 Complex query\LISTING 4-40 Complex query\obj\Debug\LISTING 4-40 Complex query.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-40 Complex query\LISTING 4-40 Complex query\obj\Debug\LISTING 4-40 Complex query.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-40 Complex query\LISTING 4-40 Complex query\obj\Debug\LISTING 4-40 Complex query.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-40 Complex query\LISTING 4-40 Complex query\obj\Debug\LISTING 4-40 Complex query.pdb

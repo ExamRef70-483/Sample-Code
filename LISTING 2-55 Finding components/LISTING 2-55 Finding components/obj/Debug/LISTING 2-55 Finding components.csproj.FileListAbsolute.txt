@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-55 Finding components\LISTING 2-55 Finding components\bin\Debug\LISTING 2-55 Finding components.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-55 Finding components\LISTING 2-55 Finding components\bin\Debug\LISTING 2-55 Finding components.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-55 Finding components\LISTING 2-55 Finding components\bin\Debug\LISTING 2-55 Finding components.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-55 Finding components\LISTING 2-55 Finding components\obj\Debug\LISTING 2-55 Finding components.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-55 Finding components\LISTING 2-55 Finding components\obj\Debug\LISTING 2-55 Finding components.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-55 Finding components\LISTING 2-55 Finding components\obj\Debug\LISTING 2-55 Finding components.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-55 Finding components\LISTING 2-55 Finding components\obj\Debug\LISTING 2-55 Finding components.pdb

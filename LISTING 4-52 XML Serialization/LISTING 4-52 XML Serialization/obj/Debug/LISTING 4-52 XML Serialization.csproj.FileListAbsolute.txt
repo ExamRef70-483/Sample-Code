@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-52 XML Serialization\LISTING 4-52 XML Serialization\bin\Debug\LISTING 4-52 XML Serialization.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-52 XML Serialization\LISTING 4-52 XML Serialization\bin\Debug\LISTING 4-52 XML Serialization.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-52 XML Serialization\LISTING 4-52 XML Serialization\bin\Debug\LISTING 4-52 XML Serialization.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-52 XML Serialization\LISTING 4-52 XML Serialization\obj\Debug\LISTING 4-52 XML Serialization.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-52 XML Serialization\LISTING 4-52 XML Serialization\obj\Debug\LISTING 4-52 XML Serialization.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-52 XML Serialization\LISTING 4-52 XML Serialization\obj\Debug\LISTING 4-52 XML Serialization.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-52 XML Serialization\LISTING 4-52 XML Serialization\obj\Debug\LISTING 4-52 XML Serialization.pdb

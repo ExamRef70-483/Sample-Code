@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-14 AES encryption\LISTING 3-14 AES encryption\bin\Debug\LISTING 3-14 AES encryption.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-14 AES encryption\LISTING 3-14 AES encryption\bin\Debug\LISTING 3-14 AES encryption.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-14 AES encryption\LISTING 3-14 AES encryption\bin\Debug\LISTING 3-14 AES encryption.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-14 AES encryption\LISTING 3-14 AES encryption\obj\Debug\LISTING 3-14 AES encryption.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-14 AES encryption\LISTING 3-14 AES encryption\obj\Debug\LISTING 3-14 AES encryption.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-14 AES encryption\LISTING 3-14 AES encryption\obj\Debug\LISTING 3-14 AES encryption.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-14 AES encryption\LISTING 3-14 AES encryption\obj\Debug\LISTING 3-14 AES encryption.pdb

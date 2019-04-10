@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-75 String interpolation\LISTING 2-75 String interpolation\bin\Debug\LISTING 2-75 String interpolation.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-75 String interpolation\LISTING 2-75 String interpolation\bin\Debug\LISTING 2-75 String interpolation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-75 String interpolation\LISTING 2-75 String interpolation\bin\Debug\LISTING 2-75 String interpolation.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-75 String interpolation\LISTING 2-75 String interpolation\obj\Debug\LISTING 2-75 String interpolation.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-75 String interpolation\LISTING 2-75 String interpolation\obj\Debug\LISTING 2-75 String interpolation.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-75 String interpolation\LISTING 2-75 String interpolation\obj\Debug\LISTING 2-75 String interpolation.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-75 String interpolation\LISTING 2-75 String interpolation\obj\Debug\LISTING 2-75 String interpolation.pdb

@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-2 Creating XML\LISTING 3-2 Creating XML\bin\Debug\LISTING 3-2 Creating XML.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-2 Creating XML\LISTING 3-2 Creating XML\bin\Debug\LISTING 3-2 Creating XML.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-2 Creating XML\LISTING 3-2 Creating XML\bin\Debug\LISTING 3-2 Creating XML.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-2 Creating XML\LISTING 3-2 Creating XML\obj\Debug\LISTING 3-2 Creating XML.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-2 Creating XML\LISTING 3-2 Creating XML\obj\Debug\LISTING 3-2 Creating XML.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-2 Creating XML\LISTING 3-2 Creating XML\obj\Debug\LISTING 3-2 Creating XML.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-2 Creating XML\LISTING 3-2 Creating XML\obj\Debug\LISTING 3-2 Creating XML.pdb

@@ -1,5 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimization\LISTING 3-32 Code optimization\bin\Custom\LISTING 3-32 Code optimization.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimization\LISTING 3-32 Code optimization\bin\Custom\LISTING 3-32 Code optimization.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimization\LISTING 3-32 Code optimization\obj\Custom\LISTING 3-32 Code optimization.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimization\LISTING 3-32 Code optimization\obj\Custom\LISTING 3-32 Code optimization.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-32 Code optimization\LISTING 3-32 Code optimization\obj\Custom\LISTING 3-32 Code optimization.exe

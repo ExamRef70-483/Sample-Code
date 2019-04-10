@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-29 Musictrack classes\LISTING 4-29 Musictrack classes\bin\Debug\LISTING 4-29 Musictrack classes.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-29 Musictrack classes\LISTING 4-29 Musictrack classes\bin\Debug\LISTING 4-29 Musictrack classes.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-29 Musictrack classes\LISTING 4-29 Musictrack classes\bin\Debug\LISTING 4-29 Musictrack classes.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-29 Musictrack classes\LISTING 4-29 Musictrack classes\obj\Debug\LISTING 4-29 Musictrack classes.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-29 Musictrack classes\LISTING 4-29 Musictrack classes\obj\Debug\LISTING 4-29 Musictrack classes.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-29 Musictrack classes\LISTING 4-29 Musictrack classes\obj\Debug\LISTING 4-29 Musictrack classes.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-29 Musictrack classes\LISTING 4-29 Musictrack classes\obj\Debug\LISTING 4-29 Musictrack classes.pdb

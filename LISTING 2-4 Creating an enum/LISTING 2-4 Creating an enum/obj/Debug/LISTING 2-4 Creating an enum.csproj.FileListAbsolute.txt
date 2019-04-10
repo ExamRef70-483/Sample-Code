@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-4 Creating an enum\LISTING 2-4 Creating an enum\bin\Debug\LISTING 2-4 Creating an enum.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-4 Creating an enum\LISTING 2-4 Creating an enum\bin\Debug\LISTING 2-4 Creating an enum.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-4 Creating an enum\LISTING 2-4 Creating an enum\bin\Debug\LISTING 2-4 Creating an enum.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-4 Creating an enum\LISTING 2-4 Creating an enum\obj\Debug\LISTING 2-4 Creating an enum.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-4 Creating an enum\LISTING 2-4 Creating an enum\obj\Debug\LISTING 2-4 Creating an enum.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-4 Creating an enum\LISTING 2-4 Creating an enum\obj\Debug\LISTING 2-4 Creating an enum.pdb

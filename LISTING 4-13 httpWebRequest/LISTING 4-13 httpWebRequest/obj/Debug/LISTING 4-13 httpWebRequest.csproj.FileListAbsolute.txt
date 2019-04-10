@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-13 httpWebRequest\LISTING 4-13 httpWebRequest\bin\Debug\LISTING 4-13 httpWebRequest.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-13 httpWebRequest\LISTING 4-13 httpWebRequest\bin\Debug\LISTING 4-13 httpWebRequest.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-13 httpWebRequest\LISTING 4-13 httpWebRequest\bin\Debug\LISTING 4-13 httpWebRequest.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-13 httpWebRequest\LISTING 4-13 httpWebRequest\obj\Debug\LISTING 4-13 httpWebRequest.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-13 httpWebRequest\LISTING 4-13 httpWebRequest\obj\Debug\LISTING 4-13 httpWebRequest.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-13 httpWebRequest\LISTING 4-13 httpWebRequest\obj\Debug\LISTING 4-13 httpWebRequest.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-13 httpWebRequest\LISTING 4-13 httpWebRequest\obj\Debug\LISTING 4-13 httpWebRequest.pdb

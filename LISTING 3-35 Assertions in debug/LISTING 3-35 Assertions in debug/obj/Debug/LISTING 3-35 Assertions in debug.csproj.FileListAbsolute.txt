@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-35 Assertions in debug\LISTING 3-35 Assertions in debug\bin\Debug\LISTING 3-35 Assertions in debug.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-35 Assertions in debug\LISTING 3-35 Assertions in debug\bin\Debug\LISTING 3-35 Assertions in debug.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-35 Assertions in debug\LISTING 3-35 Assertions in debug\bin\Debug\LISTING 3-35 Assertions in debug.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-35 Assertions in debug\LISTING 3-35 Assertions in debug\obj\Debug\LISTING 3-35 Assertions in debug.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-35 Assertions in debug\LISTING 3-35 Assertions in debug\obj\Debug\LISTING 3-35 Assertions in debug.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-35 Assertions in debug\LISTING 3-35 Assertions in debug\obj\Debug\LISTING 3-35 Assertions in debug.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-35 Assertions in debug\LISTING 3-35 Assertions in debug\obj\Debug\LISTING 3-35 Assertions in debug.pdb

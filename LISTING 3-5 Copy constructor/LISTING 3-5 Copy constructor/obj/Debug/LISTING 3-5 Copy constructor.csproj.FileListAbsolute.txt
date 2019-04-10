@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-5 Copy constructor\LISTING 3-5 Copy constructor\bin\Debug\LISTING 3-5 Copy constructor.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-5 Copy constructor\LISTING 3-5 Copy constructor\bin\Debug\LISTING 3-5 Copy constructor.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-5 Copy constructor\LISTING 3-5 Copy constructor\bin\Debug\LISTING 3-5 Copy constructor.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-5 Copy constructor\LISTING 3-5 Copy constructor\obj\Debug\LISTING 3-5 Copy constructor.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-5 Copy constructor\LISTING 3-5 Copy constructor\obj\Debug\LISTING 3-5 Copy constructor.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-5 Copy constructor\LISTING 3-5 Copy constructor\obj\Debug\LISTING 3-5 Copy constructor.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-5 Copy constructor\LISTING 3-5 Copy constructor\obj\Debug\LISTING 3-5 Copy constructor.pdb

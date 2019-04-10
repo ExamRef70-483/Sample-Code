@@ -1,7 +1,0 @@
-C:\Users\rsmil\Documents\github\Sample-Code\LISTING 4-39 Method based query\LISTING 4-39 Method based query\bin\Debug\LISTING 4-39 Method based query.exe.config
-C:\Users\rsmil\Documents\github\Sample-Code\LISTING 4-39 Method based query\LISTING 4-39 Method based query\bin\Debug\LISTING 4-39 Method based query.exe
-C:\Users\rsmil\Documents\github\Sample-Code\LISTING 4-39 Method based query\LISTING 4-39 Method based query\bin\Debug\LISTING 4-39 Method based query.pdb
-C:\Users\rsmil\Documents\github\Sample-Code\LISTING 4-39 Method based query\LISTING 4-39 Method based query\obj\Debug\LISTING 4-39 Method based query.csprojAssemblyReference.cache
-C:\Users\rsmil\Documents\github\Sample-Code\LISTING 4-39 Method based query\LISTING 4-39 Method based query\obj\Debug\LISTING 4-39 Method based query.csproj.CoreCompileInputs.cache
-C:\Users\rsmil\Documents\github\Sample-Code\LISTING 4-39 Method based query\LISTING 4-39 Method based query\obj\Debug\LISTING 4-39 Method based query.exe
-C:\Users\rsmil\Documents\github\Sample-Code\LISTING 4-39 Method based query\LISTING 4-39 Method based query\obj\Debug\LISTING 4-39 Method based query.pdb

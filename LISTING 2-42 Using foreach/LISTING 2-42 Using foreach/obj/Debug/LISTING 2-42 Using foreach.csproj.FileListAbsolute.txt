@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-42 Using foreach\LISTING 2-42 Using foreach\bin\Debug\LISTING 2-42 Using foreach.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-42 Using foreach\LISTING 2-42 Using foreach\bin\Debug\LISTING 2-42 Using foreach.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-42 Using foreach\LISTING 2-42 Using foreach\bin\Debug\LISTING 2-42 Using foreach.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-42 Using foreach\LISTING 2-42 Using foreach\obj\Debug\LISTING 2-42 Using foreach.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-42 Using foreach\LISTING 2-42 Using foreach\obj\Debug\LISTING 2-42 Using foreach.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-42 Using foreach\LISTING 2-42 Using foreach\obj\Debug\LISTING 2-42 Using foreach.pdb

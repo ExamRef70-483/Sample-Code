@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-44 Using yield\LISTING 2-44 Using yield\bin\Debug\LISTING 2-44 Using yield.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-44 Using yield\LISTING 2-44 Using yield\bin\Debug\LISTING 2-44 Using yield.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-44 Using yield\LISTING 2-44 Using yield\bin\Debug\LISTING 2-44 Using yield.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-44 Using yield\LISTING 2-44 Using yield\obj\Debug\LISTING 2-44 Using yield.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-44 Using yield\LISTING 2-44 Using yield\obj\Debug\LISTING 2-44 Using yield.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-44 Using yield\LISTING 2-44 Using yield\obj\Debug\LISTING 2-44 Using yield.pdb

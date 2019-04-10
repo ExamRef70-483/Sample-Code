@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo\bin\Debug\LISTING 4-8 Viewing FileInfo.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo\bin\Debug\LISTING 4-8 Viewing FileInfo.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo\bin\Debug\LISTING 4-8 Viewing FileInfo.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo\obj\Debug\LISTING 4-8 Viewing FileInfo.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo\obj\Debug\LISTING 4-8 Viewing FileInfo.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo\obj\Debug\LISTING 4-8 Viewing FileInfo.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 4-8 Viewing FileInfo\LISTING 4-8 Viewing FileInfo\obj\Debug\LISTING 4-8 Viewing FileInfo.pdb

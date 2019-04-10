@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-36 Block ConcurrentStack\LISTING 1-36 Block ConcurrentStack\bin\Debug\LISTING 1-36 Block ConcurrentStack.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-36 Block ConcurrentStack\LISTING 1-36 Block ConcurrentStack\bin\Debug\LISTING 1-36 Block ConcurrentStack.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-36 Block ConcurrentStack\LISTING 1-36 Block ConcurrentStack\bin\Debug\LISTING 1-36 Block ConcurrentStack.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-36 Block ConcurrentStack\LISTING 1-36 Block ConcurrentStack\obj\Debug\LISTING 1-36 Block ConcurrentStack.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-36 Block ConcurrentStack\LISTING 1-36 Block ConcurrentStack\obj\Debug\LISTING 1-36 Block ConcurrentStack.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-36 Block ConcurrentStack\LISTING 1-36 Block ConcurrentStack\obj\Debug\LISTING 1-36 Block ConcurrentStack.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-36 Block ConcurrentStack\LISTING 1-36 Block ConcurrentStack\obj\Debug\LISTING 1-36 Block ConcurrentStack.pdb

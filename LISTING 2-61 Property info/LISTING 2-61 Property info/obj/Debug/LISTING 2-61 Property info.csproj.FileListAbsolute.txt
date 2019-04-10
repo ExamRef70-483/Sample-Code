@@ -1,6 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-61 Property info\LISTING 2-61 Property info\bin\Debug\LISTING 2-61 Property info.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-61 Property info\LISTING 2-61 Property info\bin\Debug\LISTING 2-61 Property info.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-61 Property info\LISTING 2-61 Property info\bin\Debug\LISTING 2-61 Property info.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-61 Property info\LISTING 2-61 Property info\obj\Debug\LISTING 2-61 Property info.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-61 Property info\LISTING 2-61 Property info\obj\Debug\LISTING 2-61 Property info.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-61 Property info\LISTING 2-61 Property info\obj\Debug\LISTING 2-61 Property info.pdb

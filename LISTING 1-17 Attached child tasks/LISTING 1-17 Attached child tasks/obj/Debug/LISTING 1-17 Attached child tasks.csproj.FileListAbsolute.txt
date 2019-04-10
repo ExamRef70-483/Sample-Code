@@ -1,7 +1,0 @@
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-17 Attached child tasks\LISTING 1-17 Attached child tasks\bin\Debug\LISTING 1-17 Attached child tasks.exe.config
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-17 Attached child tasks\LISTING 1-17 Attached child tasks\bin\Debug\LISTING 1-17 Attached child tasks.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-17 Attached child tasks\LISTING 1-17 Attached child tasks\bin\Debug\LISTING 1-17 Attached child tasks.pdb
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-17 Attached child tasks\LISTING 1-17 Attached child tasks\obj\Debug\LISTING 1-17 Attached child tasks.csprojResolveAssemblyReference.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-17 Attached child tasks\LISTING 1-17 Attached child tasks\obj\Debug\LISTING 1-17 Attached child tasks.csproj.CoreCompileInputs.cache
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-17 Attached child tasks\LISTING 1-17 Attached child tasks\obj\Debug\LISTING 1-17 Attached child tasks.exe
-c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-17 Attached child tasks\LISTING 1-17 Attached child tasks\obj\Debug\LISTING 1-17 Attached child tasks.pdb

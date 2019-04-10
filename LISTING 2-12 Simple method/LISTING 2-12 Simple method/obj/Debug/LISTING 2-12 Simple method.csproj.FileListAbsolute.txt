@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-12 Simple method\LISTING 2-12 Simple method\bin\Debug\LISTING 2-12 Simple method.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-12 Simple method\LISTING 2-12 Simple method\bin\Debug\LISTING 2-12 Simple method.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-12 Simple method\LISTING 2-12 Simple method\bin\Debug\LISTING 2-12 Simple method.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-12 Simple method\LISTING 2-12 Simple method\obj\Debug\LISTING 2-12 Simple method.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-12 Simple method\LISTING 2-12 Simple method\obj\Debug\LISTING 2-12 Simple method.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-12 Simple method\LISTING 2-12 Simple method\obj\Debug\LISTING 2-12 Simple method.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 2-12 Simple method\LISTING 2-12 Simple method\obj\Debug\LISTING 2-12 Simple method.pdb

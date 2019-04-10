@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces\bin\Debug\LISTING 3-7 Match multiple spaces.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces\bin\Debug\LISTING 3-7 Match multiple spaces.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces\bin\Debug\LISTING 3-7 Match multiple spaces.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces\obj\Debug\LISTING 3-7 Match multiple spaces.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces\obj\Debug\LISTING 3-7 Match multiple spaces.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces\obj\Debug\LISTING 3-7 Match multiple spaces.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-7 Match multiple spaces\LISTING 3-7 Match multiple spaces\obj\Debug\LISTING 3-7 Match multiple spaces.pdb

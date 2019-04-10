@@ -1,7 +1,0 @@
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-37 Simple TraceSource\LISTING 3-37 Simple TraceSource\bin\Debug\LISTING 3-37 Simple TraceSource.exe.config
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-37 Simple TraceSource\LISTING 3-37 Simple TraceSource\bin\Debug\LISTING 3-37 Simple TraceSource.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-37 Simple TraceSource\LISTING 3-37 Simple TraceSource\bin\Debug\LISTING 3-37 Simple TraceSource.pdb
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-37 Simple TraceSource\LISTING 3-37 Simple TraceSource\obj\Debug\LISTING 3-37 Simple TraceSource.csprojResolveAssemblyReference.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-37 Simple TraceSource\LISTING 3-37 Simple TraceSource\obj\Debug\LISTING 3-37 Simple TraceSource.csproj.CoreCompileInputs.cache
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-37 Simple TraceSource\LISTING 3-37 Simple TraceSource\obj\Debug\LISTING 3-37 Simple TraceSource.exe
-C:\Users\Rob\Documents\GitHub\Sample-Code\LISTING 3-37 Simple TraceSource\LISTING 3-37 Simple TraceSource\obj\Debug\LISTING 3-37 Simple TraceSource.pdb

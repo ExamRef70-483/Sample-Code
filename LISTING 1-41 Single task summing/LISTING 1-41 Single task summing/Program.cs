@@ -5,8 +5,8 @@ namespace LISTING_1_41_Single_task_summing
 {
     class Program
     {
-        // make an array that holds the values 0 to 5000000
-        static int[] items = Enumerable.Range(0, 500001).ToArray();
+        // make an array that holds the values 0 to 50000000
+        static int[] items = Enumerable.Range(0, 50000001).ToArray();
 
         static void Main(string[] args)
         {

@@ -5,3 +5,10 @@ c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task su
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.csproj.CoreCompileInputs.cache
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.exe
 c:\users\rob\documents\visual studio 2017\Projects\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.pdb
+C:\Users\rsmil\source\repos\GitHub\Sample-Code\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\bin\Debug\LISTING 1-41 Single task summing.exe.config
+C:\Users\rsmil\source\repos\GitHub\Sample-Code\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\bin\Debug\LISTING 1-41 Single task summing.exe
+C:\Users\rsmil\source\repos\GitHub\Sample-Code\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\bin\Debug\LISTING 1-41 Single task summing.pdb
+C:\Users\rsmil\source\repos\GitHub\Sample-Code\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.csprojAssemblyReference.cache
+C:\Users\rsmil\source\repos\GitHub\Sample-Code\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.csproj.CoreCompileInputs.cache
+C:\Users\rsmil\source\repos\GitHub\Sample-Code\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.exe
+C:\Users\rsmil\source\repos\GitHub\Sample-Code\LISTING 1-41 Single task summing\LISTING 1-41 Single task summing\obj\Debug\LISTING 1-41 Single task summing.pdb

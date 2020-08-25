@@ -10,8 +10,8 @@ namespace LISTING_1_42_Bad_task_interaction
     {
         static long sharedTotal;
 
-        // make an array that holds the values 0 to 5000000
-        static int[] items = Enumerable.Range(0, 500001).ToArray();
+        // make an array that holds the values 0 to 50000000
+        static int[] items = Enumerable.Range(0, 50000001).ToArray();
 
         static void addRangeOfValues(int start, int end)
         {
